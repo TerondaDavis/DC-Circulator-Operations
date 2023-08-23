@@ -1,10 +1,8 @@
 import pandas as pd
 import re
 import urllib
-import sqlalchemy
 import numpy as np 
 from dateutil.parser import parse
-from sqlalchemy import create_engine
 from datetime import datetime, timedelta
 from Cleaning import convert_timestamp
 
