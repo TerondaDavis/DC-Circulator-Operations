@@ -1,0 +1,35 @@
+name: Automate Processing
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas smartsheet-python-sdk
+
+      - name: Set up Git user
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Run Script
+        run: python Main_Script.py
+
+      - name: Commit and push
+        run: |
+          git add Data/*.csv
+          git commit -m 'Update CSV files'
+          git push
