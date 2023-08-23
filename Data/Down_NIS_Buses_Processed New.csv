@@ -1,0 +1,323 @@
+Bus Number,Service Date,Today's Date_x,Route/Down/NIS,Date When Service Went Down,Bus Went Down on Service Date,Expected Return Date,Specify Other Reason Here,Current Status for Down Buses,Operations Down Bus Reason 1,Operations Down Bus Reason 2,Operations Down Bus Reason 3,Down Duration,Today's Date_y,AM Pull-out Route/Down/NIS,AM Pullout Down Bus Reason 1,AM Pullout Down Bus Reason 2,Bus Status Change,Number of Days Down
+1130.0,2023-08-09,2023-08-15 10:28:07,Down,2023-02-08,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Ready to Pick Up,,,182 days,2023-08-15 08:04:36,Down,Ready to Pick Up,,Yes,182
+1130.0,2023-08-10,2023-08-15 10:28:07,Down,2023-02-08,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Ready to Pick Up,,,183 days,2023-08-10 06:23:30,GT-US,,,No,183
+1130.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-17,Yes,2023-08-21,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,0 days,2023-08-17 03:05:22,Down,A/C (HVAC) Issues,,Yes,0
+1130.0,2023-08-18,2023-08-21 08:58:24,Down,2023-07-17,Yes,2023-07-17,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,32 days,2023-08-18 04:13:42,Down,A/C (HVAC) Issues,,Yes,32
+1130.0,2023-08-19,2023-08-21 09:33:03,Down,2023-07-17,Yes,2023-08-21,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,33 days,2023-08-19 07:34:40,Down,A/C (HVAC) Issues,,Yes,33
+1130.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-17,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,3 days,2023-08-20 04:35:51,Down,A/C (HVAC) Issues,,Yes,3
+1130.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-17,,2023-08-18,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,4 days,2023-08-21 03:53:41,Down,A/C (HVAC) Issues,,Yes,4
+1130.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-17,,2023-08-18,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,5 days,2023-08-22 04:17:51,Down,A/C (HVAC) Issues,,Yes,5
+1131.0,2023-08-09,2023-08-10 11:40:05,Down,2023-07-18,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,22 days,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,,Yes,22
+1131.0,2023-08-10,2023-08-11 12:05:25,Down,2023-07-18,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,23 days,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,,Yes,23
+1131.0,2023-08-11,2023-08-12 16:45:58,Down,2023-07-18,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,24 days,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,,Yes,24
+1131.0,2023-08-12,2023-08-13 17:46:05,Down,2023-07-18,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,25 days,2023-08-12 07:05:01,Down,Not Specified,,Yes,25
+1131.0,2023-08-13,2023-08-14 11:30:52,Down,2023-07-18,,2023-08-18,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,26 days,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,,Yes,26
+1131.0,2023-08-16,2023-08-17 13:20:41,Down,2023-07-18,,2023-08-18,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,29 days,2023-08-16 05:36:39,Down,A/C (HVAC) Issues,,Yes,29
+1131.0,2023-08-17,2023-08-18 14:07:55,Down,2023-07-18,,2023-08-21,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,30 days,2023-08-17 03:05:22,Down,A/C (HVAC) Issues,,Yes,30
+1131.0,2023-08-18,2023-08-21 08:58:24,Down,2023-07-18,Yes,2023-07-18,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,31 days,2023-08-18 04:13:42,Down,A/C (HVAC) Issues,,Yes,31
+1131.0,2023-08-19,2023-08-21 09:33:03,Down,2023-07-18,Yes,2023-08-21,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,32 days,2023-08-19 07:34:40,Down,DC/DC#2,,Yes,32
+1131.0,2023-08-20,2023-08-21 11:49:14,Down,2023-07-18,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,33 days,2023-08-20 04:35:51,Down,A/C (HVAC) Issues,,Yes,33
+1131.0,2023-08-21,2023-08-22 10:44:29,Down,2023-07-18,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,34 days,2023-08-21 03:53:41,Down,A/C (HVAC) Issues,,Yes,34
+1131.0,2023-08-22,2023-08-23 13:21:30,Down,2023-07-18,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,35 days,2023-08-22 04:17:51,Down,A/C (HVAC) Issues,,Yes,35
+1132.0,2023-08-09,2023-08-10 11:40:05,Down,2023-08-05,,2023-08-08,,Awaiting Diagnostics,Shutting Down,,,4 days,2023-08-15 08:04:36,Down,Shutting Down,,Yes,4
+1132.0,2023-08-10,2023-08-11 12:05:25,Down,2023-08-05,,2023-08-08,,Awaiting Diagnostics,Shutting Down,,,5 days,2023-08-15 08:04:36,Down,Shutting Down,,Yes,5
+1132.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-16,Yes,2023-08-17,,Awaiting Service/Parts (incl. Proterra),Emission/Inspections,,,0 days,2023-08-16 05:56:33,Down,Emission/Inspections,,Yes,0
+1132.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-15,,2023-08-21,,Awaiting Service/Parts (incl. Proterra),Emission/Inspections,,,2 days,2023-08-17 03:05:22,RS-DP,,,No,2
+1132.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-18,Yes,2023-08-21,DCI,Awaiting Service/Parts (incl. Proterra),DCI,,,1 days,2023-08-19 07:34:40,Down,A/C (HVAC) Issues,,Yes,1
+1132.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-15,,2023-08-25,`,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues, Emission/Inspections,,5 days,2023-08-20 04:35:51,Down,A/C (HVAC) Issues,,Yes,5
+1132.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-15,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues, Emission/Inspections,,6 days,2023-08-21 03:53:41,Down,A/C (HVAC) Issues,,Yes,6
+1132.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-15,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),Emission/Inspections,,,7 days,2023-08-22 04:17:51,Down,A/C (HVAC) Issues,,Yes,7
+1133.0,2023-08-09,2023-08-10 14:45:44,Not In Service,2023-08-09,Yes,2023-08-10,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,0 days,2023-08-09 04:47:28,RS-DP,,,No,0
+1133.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-12,,2023-08-13,,,,,,0 days,2023-08-12 06:54:43,Spare,,,No,0
+1133.0,2023-08-13,2023-08-14 11:30:52,Not In Service,2023-08-13,Yes,2023-08-14,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,0 days,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,,No,0
+1133.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-13,,2023-08-17,,Awaiting Diagnostics,A/C (HVAC) Issues,,,3 days,2023-08-16 05:56:33,Down,A/C (HVAC) Issues,,Yes,3
+1133.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-12,,2023-08-21,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,5 days,2023-08-17 03:05:22,Down,A/C (HVAC) Issues,,Yes,5
+1133.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-12,Yes,2023-08-12,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,6 days,2023-08-18 04:13:42,Down,A/C (HVAC) Issues,,Yes,6
+1133.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-12,Yes,2023-08-21,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,7 days,2023-08-19 07:34:40,Down,Transmission Issues,,Yes,7
+1133.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-12,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,8 days,2023-08-20 04:35:51,Down,A/C (HVAC) Issues,,Yes,8
+1133.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-12,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,9 days,2023-08-21 03:53:41,Down,A/C (HVAC) Issues,,Yes,9
+1133.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-12,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,10 days,2023-08-22 04:17:51,Down,A/C (HVAC) Issues,,Yes,10
+1134.0,2023-08-09,2023-08-10 11:40:05,Down,2023-08-02,,2023-08-10,,Awaiting Diagnostics,Transmission Issues,,,7 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,7
+1134.0,2023-08-10,2023-08-11 12:05:25,Down,2023-08-02,,2023-08-10,,Awaiting Diagnostics,Transmission Issues,,,8 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,8
+1134.0,2023-08-11,2023-08-12 16:45:58,Down,2023-08-02,,2023-08-15,,Awaiting Diagnostics,Transmission Issues,,,9 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,9
+1134.0,2023-08-12,2023-08-13 17:46:05,Down,2023-08-02,,2023-08-15,,Awaiting Diagnostics,Transmission Issues,,,10 days,2023-08-12 07:05:01,Down,Not Specified,,Yes,10
+1134.0,2023-08-13,2023-08-14 11:30:52,Down,2023-08-02,,2023-08-15,,Awaiting Diagnostics,Transmission Issues,,,11 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,11
+1134.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-02,,2023-08-23,,Awaiting Diagnostics,Transmission Issues,,,14 days,2023-08-16 05:56:33,Down,Transmission Issues,,Yes,14
+1134.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-02,,2023-08-20,,Awaiting Diagnostics,Transmission Issues,,,15 days,2023-08-17 03:05:22,Down,Transmission Issues,,Yes,15
+1134.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-02,Yes,2023-08-02,,Awaiting Diagnostics,Transmission Issues,,,16 days,2023-08-18 04:13:42,Down,Transmission Issues,,Yes,16
+1134.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-02,Yes,2023-08-20,,Awaiting Diagnostics,Transmission Issues,,,17 days,2023-08-19 07:34:40,Down,Mid-life Refurbishment,,Yes,17
+1134.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-02,,2023-08-31,,Awaiting Diagnostics,Transmission Issues,,,18 days,2023-08-20 04:35:51,Down,Transmission Issues,,Yes,18
+1134.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-02,,2023-08-31,,Awaiting Diagnostics,Transmission Issues,,,19 days,2023-08-21 03:53:41,Down,Transmission Issues,,Yes,19
+1134.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-02,,2023-08-31,,Awaiting Diagnostics,Transmission Issues,,,20 days,2023-08-22 04:17:51,Down,Transmission Issues,,Yes,20
+1135.0,2023-08-09,2023-08-15 10:28:07,Down,2023-06-02,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,68 days,2023-08-15 08:04:36,Down,Mid-life Refurbishment,,Yes,68
+1135.0,2023-08-10,2023-08-15 10:28:07,Down,2023-06-02,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,69 days,2023-08-15 08:04:36,Down,Mid-life Refurbishment,,Yes,69
+1135.0,2023-08-11,2023-08-15 10:28:07,Down,2023-06-02,,,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,70 days,2023-08-15 08:04:36,Down,Mid-life Refurbishment,,Yes,70
+1135.0,2023-08-12,2023-08-15 10:28:07,Down,2023-06-02,,,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,71 days,2023-08-12 07:05:01,Down,Not Specified,,Yes,71
+1135.0,2023-08-13,2023-08-15 10:28:07,Down,2023-06-02,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,72 days,2023-08-15 08:04:36,Down,Mid-life Refurbishment,,Yes,72
+1135.0,2023-08-16,2023-08-17 13:20:41,Down,2023-06-02,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,75 days,2023-08-16 05:56:33,Down,Mid-life Refurbishment,,Yes,75
+1135.0,2023-08-17,2023-08-18 14:07:55,Down,2023-06-02,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,76 days,2023-08-17 03:05:22,Down,Mid-life Refurbishment,,Yes,76
+1135.0,2023-08-18,2023-08-21 08:58:24,Down,2023-06-02,Yes,2023-06-02,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,77 days,2023-08-18 04:13:42,Down,Mid-life Refurbishment,,Yes,77
+1135.0,2023-08-19,2023-08-21 09:33:03,Down,2023-06-02,Yes,2023-08-30,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,78 days,2023-08-19 07:34:40,Down,Transmission Issues,,Yes,78
+1135.0,2023-08-20,2023-08-21 11:49:14,Down,2023-06-02,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,79 days,2023-08-20 04:35:51,Down,Mid-life Refurbishment,,Yes,79
+1135.0,2023-08-21,2023-08-22 10:44:29,Down,2023-06-02,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,80 days,2023-08-21 03:53:41,Down,Mid-life Refurbishment,,Yes,80
+1135.0,2023-08-22,2023-08-23 13:21:30,Down,2023-06-02,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,,,81 days,2023-08-22 04:17:51,Down,Mid-life Refurbishment,,Yes,81
+1136.0,2023-08-09,2023-08-15 10:28:28,Down,2023-06-08,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,62 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,62
+1136.0,2023-08-10,2023-08-15 10:28:07,Down,2023-06-08,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,63 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,63
+1136.0,2023-08-11,2023-08-15 10:28:07,Down,2023-06-08,,,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,64 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,64
+1136.0,2023-08-12,2023-08-15 10:28:07,Down,2023-06-08,,,,Going to/At/On-site Vendor (i.e. Cummins),Follow Up,,,65 days,2023-08-12 07:05:01,Down,Not Specified,,Yes,65
+1136.0,2023-08-13,2023-08-15 10:28:07,Down,2023-06-08,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,66 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,66
+1136.0,2023-08-16,2023-08-17 13:20:41,Down,2023-06-08,,2023-08-31,,Going to Vendor,Transmission Issues,,,69 days,2023-08-16 05:56:33,Down,Transmission Issues,,Yes,69
+1136.0,2023-08-17,2023-08-18 14:07:55,Down,2023-06-08,,2023-08-31,,Going to Vendor,Transmission Issues,,,70 days,2023-08-17 03:05:22,Down,Transmission Issues,,Yes,70
+1136.0,2023-08-18,2023-08-21 08:58:24,Down,2023-06-08,Yes,2023-06-08,,Awaiting Service/Parts (incl. Proterra),Transmission Issues,,,71 days,2023-08-18 04:13:42,Down,Transmission Issues,,Yes,71
+1136.0,2023-08-19,2023-08-21 09:33:03,Down,2023-06-08,Yes,2023-08-30,,Going to Vendor,Transmission Issues,,,72 days,2023-08-19 07:34:40,Down,Awaiting Service,,Yes,72
+1136.0,2023-08-20,2023-08-21 11:49:14,Down,2023-06-08,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,73 days,2023-08-20 04:35:51,Down,Transmission Issues,,Yes,73
+1136.0,2023-08-21,2023-08-22 10:44:29,Down,2023-06-08,,2023-08-31,,Going to Vendor,Transmission Issues,,,74 days,2023-08-21 03:53:41,Down,Transmission Issues,,Yes,74
+1136.0,2023-08-22,2023-08-23 13:21:30,Down,2023-06-08,,2023-08-31,,Going to Vendor,Transmission Issues,,,75 days,2023-08-22 04:17:51,Down,Transmission Issues,,Yes,75
+1137.0,2023-08-10,2023-08-11 12:05:25,Down,2023-08-10,Yes,2023-08-12,,In Progress,Suspension/Steering System,,,0 days,2023-08-10 06:23:30,GT-US,,,No,0
+1137.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-21,Yes,2023-08-24,,In Progress,Follow Up,,,0 days,2023-08-21 03:53:41,RS-DP,,,No,0
+1137.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-21,,2023-08-24,prevent maintenance,In Progress,Follow Up, Other,,1 days,2023-08-22 04:17:51,Down,Awaiting Services,,Yes,1
+1138.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-18,Yes,2023-08-30,,Going to Vendor,Accident Damage,,,1 days,2023-08-19 07:34:40,Down,Check/Stop System/Engine Lights,,Yes,1
+1138.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-18,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,2 days,2023-08-20 04:35:51,Down,Accident Damage,,Yes,2
+1138.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-18,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,3 days,2023-08-21 03:53:41,Down,Accident Damage,,Yes,3
+1138.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-18,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,4 days,2023-08-22 04:17:51,Down,Accident Damage,,Yes,4
+1139.0,2023-08-11,2023-08-12 16:45:58,Down,2023-08-10,,2023-08-13,,In Progress,Follow Up,,,1 days,2023-08-11 03:06:17,Spare,,,No,1
+1139.0,2023-08-12,2023-08-13 17:46:05,Down,2023-08-10,,2023-08-13,,In Progress,Follow Up,,,2 days,2023-08-12 06:54:43,Spare,,,No,2
+1139.0,2023-08-13,2023-08-14 11:30:52,Not In Service,2023-08-13,Yes,2023-08-14,,In Progress,Follow Up,,,0 days,2023-08-15 08:04:36,Down,Awaiting Service,,No,0
+1139.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,In Progress,Follow Up,,,0 days,2023-08-16 05:56:33,Down,Follow Up,,No,0
+1139.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-10,,2023-08-18,,Awaiting Service/Parts (incl. Proterra),Check/Stop System/Engine Lights,,,7 days,2023-08-17 03:05:22,Spare,,,No,7
+1139.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-10,Yes,2023-08-10,,In Progress,Check/Stop System/Engine Lights,,,8 days,2023-08-18 04:13:42,Spare,,,No,8
+1139.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-10,Yes,2023-08-20,,Awaiting Service/Parts (incl. Proterra),Check/Stop System/Engine Lights,,,9 days,2023-08-19 07:34:40,Down,Awaiting Service,,Yes,9
+1140.0,2023-08-09,2023-08-10 11:40:05,Down,2023-08-07,,2023-08-10,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,2 days,2023-08-15 08:04:36,Down,Follow Up,,Yes,2
+1140.0,2023-08-10,2023-08-11 12:05:25,Down,2023-08-07,,2023-08-10,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,3 days,2023-08-15 08:04:36,Down,Follow Up,,Yes,3
+1140.0,2023-08-11,2023-08-12 16:45:58,Down,2023-08-07,,2023-08-13,,In Progress,Follow Up,,,4 days,2023-08-15 08:04:36,Down,Follow Up,,Yes,4
+1140.0,2023-08-12,2023-08-13 17:46:05,Down,2023-08-07,,2023-08-13,,In Progress,Ready to Pick Up,,,5 days,2023-08-12 07:05:01,Down,Not Specified,,Yes,5
+1140.0,2023-08-13,2023-08-14 11:30:52,Down,2023-08-07,,2023-08-15,,In Progress,Follow Up,,,6 days,2023-08-15 08:04:36,Down,Follow Up,,Yes,6
+1140.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-07,,2023-08-20,,Going to/At/On-site Vendor (i.e. Cummins),Ready to Pick Up,,,9 days,2023-08-16 05:56:33,Down,Follow Up,,Yes,9
+1140.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-07,,2023-08-18,,In Progress,Follow Up,,,10 days,2023-08-17 03:05:22,Down,Follow Up,,Yes,10
+1140.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-07,Yes,2023-08-07,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,11 days,2023-08-18 04:13:42,Down,Follow Up,,Yes,11
+1140.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-07,Yes,2023-08-20,,Going to/At/On-site Vendor (i.e. Cummins),Follow Up,,,12 days,2023-08-19 07:34:40,Down,Fan Sensor,,Yes,12
+1141.0,2023-08-09,2023-08-15 10:28:07,Down,2023-06-21,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Overheating Engine,,,49 days,2023-08-15 08:04:36,Down,Overheating Engine,,Yes,49
+1141.0,2023-08-10,2023-08-15 10:28:07,Down,2023-06-21,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Overheating Engine,,,50 days,2023-08-15 08:04:36,Down,Overheating Engine,,Yes,50
+1141.0,2023-08-11,2023-08-15 10:28:07,Down,2023-06-21,,2023-08-11,,Going to/At/On-site Vendor (i.e. Cummins),Ready to Pick Up,,,51 days,2023-08-15 08:04:36,Down,Overheating Engine,,Yes,51
+1141.0,2023-08-12,2023-08-15 10:28:07,Down,2023-06-21,,2023-08-11,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,52 days,2023-08-12 07:05:01,Down,Not Specified,,Yes,52
+1141.0,2023-08-13,2023-08-15 10:28:07,Down,2023-06-21,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Ready to Pick Up,,,53 days,2023-08-15 08:04:36,Down,Ready to Pick Up,,Yes,53
+1141.0,2023-08-16,2023-08-17 13:20:41,Down,2023-06-21,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,56 days,2023-08-16 05:56:33,Down,Ready to Pick Up,,Yes,56
+1141.0,2023-08-17,2023-08-18 14:07:55,Down,2023-06-21,,2023-08-21,fan sensor,Awaiting Service/Parts (incl. Proterra),fan sensor,,,57 days,2023-08-17 03:05:22,Down,Ready to Pick Up,,Yes,57
+1141.0,2023-08-18,2023-08-21 08:58:24,Down,2023-06-21,Yes,2023-06-21,FAN SENSOR,Going to/At/On-site Vendor (i.e. Cummins),FAN SENSOR,,,58 days,2023-08-18 04:13:42,Down,Ready to Pick Up,,Yes,58
+1141.0,2023-08-19,2023-08-21 09:33:03,Down,2023-06-21,Yes,2023-08-21,FAN SENSOR,Going to/At/On-site Vendor (i.e. Cummins),FAN SENSOR,,,59 days,2023-08-19 07:34:40,Down,Overheating Engine,,Yes,59
+1141.0,2023-08-20,2023-08-21 11:49:14,Down,2023-06-21,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),Overheating Engine,,,60 days,2023-08-20 04:35:51,Down,Overheating Engine,,Yes,60
+1141.0,2023-08-21,2023-08-22 10:44:29,Down,2023-06-21,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),Overheating Engine,,,61 days,2023-08-21 03:53:41,Down,Overheating Engine,,Yes,61
+1141.0,2023-08-22,2023-08-23 13:21:30,Down,2023-06-21,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),Overheating Engine,,,62 days,2023-08-22 04:17:51,Down,Not Specified,,Yes,62
+1142.0,2023-08-09,2023-08-10 11:40:05,Down,2023-07-22,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,18 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,18
+1142.0,2023-08-10,2023-08-11 12:05:25,Down,2023-07-22,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,19 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,19
+1142.0,2023-08-11,2023-08-12 16:45:58,Down,2023-07-22,,,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,20 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,20
+1142.0,2023-08-12,2023-08-13 17:46:05,Down,2023-07-22,,,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,21 days,2023-08-12 07:05:01,Down,Not Specified,,Yes,21
+1142.0,2023-08-13,2023-08-14 11:30:52,Down,2023-07-22,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,22 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,22
+1142.0,2023-08-16,2023-08-17 13:20:41,Down,2023-07-22,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,25 days,2023-08-16 05:56:33,Down,Accident Damage,,Yes,25
+1142.0,2023-08-17,2023-08-18 14:07:55,Down,2023-07-22,,2023-08-31,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,26 days,2023-08-17 03:05:22,Down,Accident Damage,,Yes,26
+1142.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,Going to Vendor,A/C (HVAC) Issues,,,0 days,2023-08-20 04:35:51,RS-DP,,,No,0
+1142.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,0 days,2023-08-21 03:53:41,WP-AM,,,No,0
+1143.0,2023-08-09,2023-08-10 11:40:05,Down,2023-07-11,,2023-08-08,,In Progress,Fuel System/Leaks/Pressure,,,29 days,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,,Yes,29
+1143.0,2023-08-10,2023-08-11 12:05:25,Down,2023-07-11,,2023-08-08,,In Progress,Fuel System/Leaks/Pressure,,,30 days,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,,Yes,30
+1143.0,2023-08-11,2023-08-12 16:45:58,Down,2023-08-11,,2023-08-11,,Awaiting Diagnostics,A/C (HVAC) Issues,,,0 days,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,,Yes,0
+1143.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,0 days,2023-08-16 05:56:33,RS-DP,,,No,0
+2001.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-21,Yes,2023-08-22,,In Progress,Air Leak,,,0 days,2023-08-21 03:53:41,CH-US,,,No,0
+2002.0,2023-08-11,2023-08-15 10:28:07,Down,2023-08-11,Yes,2023-08-11,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,0 days,2023-08-11 03:06:17,WP-AM,,,No,0
+2002.0,2023-08-12,2023-08-15 10:28:07,Down,2023-08-11,,,,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,,,1 days,2023-08-12 06:54:43,WP-AM,,,No,1
+2002.0,2023-08-13,2023-08-15 10:28:07,Down,2023-08-11,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,2 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,2
+2002.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-11,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,5 days,2023-08-16 05:56:33,Down,Accident Damage,,Yes,5
+2002.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-11,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,6 days,2023-08-17 03:05:22,Down,Accident Damage,,Yes,6
+2002.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-11,Yes,2023-08-11,,Going to Vendor,Accident Damage,,,7 days,2023-08-18 04:13:42,Down,Accident Damage,,Yes,7
+2003.0,2023-08-11,2023-08-12 16:45:58,Down,2023-08-11,Yes,2023-08-11,BAE/WONT START,Awaiting Service/Parts (incl. Proterra),,,,0 days,2023-08-11 03:06:17,GT-US,,,No,0
+2003.0,2023-08-12,2023-08-15 10:27:00,Down,2023-08-11,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),Bae Issues/Doesn't Move/Cluster,,,1 days,2023-08-12 06:54:43,GT-US,,,No,1
+2003.0,2023-08-13,2023-08-15 10:27:00,Down,2023-08-11,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),Bae Issues/Doesn't Move/Cluster,,,2 days,2023-08-15 08:04:36,Down,Bae Issues/Doesn't Move/Cluster,,Yes,2
+2003.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-11,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),Bae Issues/Doesn't Move/Cluster,,,5 days,2023-08-16 05:56:33,Down,Bae Issues/Doesn't Move/Cluster,,Yes,5
+2003.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-11,,2023-08-21,,Going to Vendor,Bae Issues/Doesn't Move/Cluster,,,6 days,2023-08-17 03:05:22,Down,Bae Issues/Doesn't Move/Cluster,,Yes,6
+2003.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-11,Yes,2023-08-11,,Going to Vendor,Bae Issues/Doesn't Move/Cluster,,,7 days,2023-08-18 04:13:42,Down,Bae Issues/Doesn't Move/Cluster,,Yes,7
+2003.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-11,Yes,2023-08-21,,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,,,8 days,2023-08-19 07:34:40,Down,Bae Issues/Doesn't Move/Cluster,,Yes,8
+2003.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-11,,2023-08-31,,Going to Vendor,Bae Issues/Doesn't Move/Cluster,,,9 days,2023-08-20 04:35:51,Down,Bae Issues/Doesn't Move/Cluster,,Yes,9
+2003.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-11,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,,,10 days,2023-08-21 03:53:41,Down,Bae Issues/Doesn't Move/Cluster,,Yes,10
+2003.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-11,,2023-08-31,,Going to Vendor,Bae Issues/Doesn't Move/Cluster,,,11 days,2023-08-22 04:17:51,Down,Bae Issues/Doesn't Move/Cluster,,Yes,11
+2006.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-17,Yes,2023-08-21,,Awaiting Diagnostics,A/C (HVAC) Issues,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+2009.0,2023-08-09,2023-08-15 10:28:07,Down,2023-08-03,,2023-08-08,,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,,,6 days,2023-08-15 08:04:36,Down,Bae Issues/Doesn't Move/Cluster,,Yes,6
+2009.0,2023-08-10,2023-08-15 10:27:00,Down,2023-08-03,,2023-08-08,,In Progress,Bae Issues/Doesn't Move/Cluster,,,7 days,2023-08-15 08:04:36,Down,,,Yes,7
+2009.0,2023-08-11,2023-08-15 10:28:07,Down,2023-08-03,,2023-08-15,BAE/WONT START,Going to/At/On-site Vendor (i.e. Cummins),,,,8 days,2023-08-15 08:04:36,Down,Bae Issues/Doesn't Move/Cluster,,Yes,8
+2009.0,2023-08-13,2023-08-15 10:28:07,Down,2023-08-03,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,,,10 days,2023-08-15 08:04:36,Down,Bae Issues/Doesn't Move/Cluster,,Yes,10
+2009.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-03,,2023-08-19,,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,,,13 days,2023-08-16 05:56:33,Down,Bae Issues/Doesn't Move/Cluster,,Yes,13
+2009.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-03,,2023-08-21,,Going to Vendor,Bae Issues/Doesn't Move/Cluster,,,14 days,2023-08-17 03:05:22,Down,Bae Issues/Doesn't Move/Cluster,,Yes,14
+2009.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-03,Yes,2023-08-03,,Going to Vendor,Bae Issues/Doesn't Move/Cluster,,,15 days,2023-08-18 04:13:42,Down,Bae Issues/Doesn't Move/Cluster,,Yes,15
+2009.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-03,Yes,2023-08-21,,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,,,16 days,2023-08-19 07:34:40,Down,Bae Issues/Doesn't Move/Cluster,,Yes,16
+2009.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-03,,2023-08-31,,Going to Vendor,Bae Issues/Doesn't Move/Cluster,,,17 days,2023-08-20 04:35:51,Down,Bae Issues/Doesn't Move/Cluster,,Yes,17
+2009.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-03,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,,,18 days,2023-08-21 03:53:41,Down,Bae Issues/Doesn't Move/Cluster,,Yes,18
+2009.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-03,,2023-08-31,,Going to Vendor,Bae Issues/Doesn't Move/Cluster,,,19 days,2023-08-22 04:17:51,Down,Bae Issues/Doesn't Move/Cluster,,Yes,19
+2010.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,0 days,2023-08-16 05:56:33,GT-US,,,No,0
+2011.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-21,,Awaiting Service/Parts (incl. Proterra),Suspension/Steering System,,,0 days,2023-08-17 03:05:22,CH-US,,,No,0
+2012.0,2023-08-21,2023-08-22 10:44:29,Not In Service,1900-01-05,,2023-08-21,,In Progress,Check/Stop System/Engine Lights,,,45153 days,2023-08-21 03:53:41,Down,Audit Bus,,No,45153
+2012.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-21,,2023-08-23,def light,In Progress,def light,,,1 days,2023-08-22 04:17:51,Down,Not Specified,,Yes,1
+2013.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-14,,2023-08-18,,Awaiting Service/Parts (incl. Proterra),Check/Stop System/Engine Lights,,,2 days,2023-08-16 05:56:33,Down,Check/Stop System/Engine Lights,,Yes,2
+2013.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-14,,2023-08-18,,Going to Vendor,Check/Stop System/Engine Lights,,,3 days,2023-08-17 03:05:22,Down,Check/Stop System/Engine Lights,,Yes,3
+2013.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-14,Yes,2023-08-14,,Going to Vendor,Check/Stop System/Engine Lights, Follow Up, Shutting Down,4 days,2023-08-18 04:13:42,Down,Check/Stop System/Engine Lights,,Yes,4
+2013.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-14,Yes,2023-08-20,,Going to/At/On-site Vendor (i.e. Cummins),Check/Stop System/Engine Lights,,,5 days,2023-08-19 07:34:40,CH-US,,,No,5
+2013.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-14,,2023-08-25,,Going to/At/On-site Vendor (i.e. Cummins),Check/Stop System/Engine Lights,,,6 days,2023-08-20 04:35:51,Down,Check/Stop System/Engine Lights,,Yes,6
+2013.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-14,,2023-08-25,,Going to/At/On-site Vendor (i.e. Cummins),Check/Stop System/Engine Lights, Follow Up,,7 days,2023-08-21 03:53:41,Down,Check/Stop System/Engine Lights,,Yes,7
+2013.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-14,,2023-08-25,,Going to Vendor,Check/Stop System/Engine Lights,,,8 days,2023-08-22 04:17:51,Down,Not Specified,,Yes,8
+2014.0,2023-08-09,2023-08-10 11:40:05,Down,2023-08-04,,2023-08-08,,Awaiting Diagnostics,Shutting Down,,,5 days,2023-08-15 08:04:36,Down,Shutting Down,,Yes,5
+2014.0,2023-08-10,2023-08-11 12:05:25,Down,2023-08-04,,2023-08-08,,Awaiting Diagnostics,Shutting Down,,,6 days,2023-08-10 06:23:30,WP-AM,,,No,6
+2014.0,2023-08-11,2023-08-15 10:28:07,Down,2023-08-04,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Shutting Down,,,7 days,2023-08-15 08:04:36,Down,Shutting Down,,Yes,7
+2014.0,2023-08-13,2023-08-15 10:28:07,Down,2023-08-04,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Shutting Down,,,9 days,2023-08-15 08:04:36,Down,Shutting Down,,Yes,9
+2014.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-04,,2023-08-19,,Going to/At/On-site Vendor (i.e. Cummins),Shutting Down,,,12 days,2023-08-16 05:56:33,Down,Shutting Down,,Yes,12
+2014.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-04,,2023-08-24,,Going to Vendor,Shutting Down,,,13 days,2023-08-17 03:05:22,Down,Shutting Down,,Yes,13
+2016.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-12,Yes,2023-08-13,,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,,,0 days,2023-08-12 06:54:43,NMS,,,No,0
+2016.0,2023-08-13,2023-08-14 11:30:52,Down,2023-08-12,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,1 days,2023-08-15 08:04:36,Down,Follow Up,,Yes,1
+2018.0,2023-08-09,2023-08-15 10:27:00,Down,2023-08-08,,2023-08-08,,Awaiting Service/Parts (incl. Proterra),Fire Suppression System/Discharge/No Start,,,1 days,2023-08-09 04:47:28,Spare,,,No,1
+2018.0,2023-08-10,2023-08-15 10:27:00,Down,2023-08-08,,2023-08-08,,Awaiting Service/Parts (incl. Proterra),Fire Suppression System/Discharge/No Start,,,2 days,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,,Yes,2
+2018.0,2023-08-11,2023-08-15 10:28:37,Down,2023-08-08,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,3 days,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,,Yes,3
+2018.0,2023-08-13,2023-08-15 10:27:00,Down,2023-08-08,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),Fire Suppression System/Discharge/No Start,,,5 days,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,,Yes,5
+2018.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-08,,2023-08-20,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,8 days,2023-08-16 05:56:33,Down,Fire Suppression System/Discharge/No Start,,Yes,8
+2018.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-08,,2023-08-21,,Going to Vendor,Fire Suppression System/Discharge/No Start,,,9 days,2023-08-17 03:05:22,Down,Fire Suppression System/Discharge/No Start,,Yes,9
+2018.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-08,Yes,2023-08-08,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,10 days,2023-08-18 04:13:42,Down,Fire Suppression System/Discharge/No Start,,Yes,10
+2018.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-08,Yes,2023-08-21,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,11 days,2023-08-19 07:34:40,EM-LP,,,No,11
+2018.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-08,,2023-08-25,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,12 days,2023-08-20 04:35:51,Down,Fire Suppression System/Discharge/No Start,,Yes,12
+2018.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-08,,2023-08-25,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,13 days,2023-08-21 03:53:41,Down,Fire Suppression System/Discharge/No Start,,Yes,13
+2018.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-08,,2023-08-25,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,14 days,2023-08-22 04:17:51,Down,Fire Suppression System/Discharge/No Start,,Yes,14
+2102.0,2023-08-13,2023-08-15 10:27:00,Down,2023-08-03,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),Kneel Inoperable,,,10 days,2023-08-15 08:04:36,Down,Kneel Inoperable,,Yes,10
+2102.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-03,,2023-08-18,,Awaiting Service/Parts (incl. Proterra),Kneel Inoperable,,,13 days,2023-08-16 05:56:33,Down,Kneel Inoperable,,Yes,13
+2102.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-03,,2023-08-21,rear door & w/c alarm,Awaiting Service/Parts (incl. Proterra),Brakes/Brake System, Other,,14 days,2023-08-17 03:05:22,Down,Kneel Inoperable,,Yes,14
+2102.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-03,Yes,2023-08-03,,Awaiting Service/Parts (incl. Proterra),Brakes/Brake System,,,15 days,2023-08-18 04:13:42,Down,Kneel Inoperable,,Yes,15
+2102.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-03,Yes,2023-08-21,,Awaiting Service/Parts (incl. Proterra),Brakes/Brake System,,,16 days,2023-08-19 07:34:40,Down,Alarm Inop,,Yes,16
+2102.0,2023-08-20,2023-08-21 11:49:14,Down,2023-08-03,,2023-08-25,rear door & w/c alarm,Awaiting Service/Parts (incl. Proterra),Brakes/Brake System, Other,,17 days,2023-08-20 04:35:51,Down,Not Specified,,Yes,17
+2102.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-03,,2023-08-25,w/c alarm,Awaiting Service/Parts (incl. Proterra),A or B Defects, Other,,18 days,2023-08-21 03:53:41,Down,Rear Door Issues,,Yes,18
+2103.0,2023-08-13,2023-08-14 11:30:52,Down,2023-08-12,,2023-08-15,,Awaiting Diagnostics,Brakes/Brake System,,,1 days,2023-08-15 08:04:36,Down,Brakes/Brake System,,Yes,1
+2104.0,2023-08-21,2023-08-22 10:44:29,Down,2023-08-19,,2023-08-23,,In Progress,Follow Up,,,2 days,2023-08-21 03:53:41,Down,Follow Up,,Yes,2
+2107.0,2023-08-09,2023-08-15 10:27:00,Down,2023-07-28,,2023-08-09,,Awaiting Diagnostics,Fire Suppression System/Discharge/No Start,,,12 days,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,,Yes,12
+2107.0,2023-08-10,2023-08-15 10:27:00,Down,2023-07-28,,2023-08-09,,Awaiting Diagnostics,Fire Suppression System/Discharge/No Start,,,13 days,2023-08-15 08:04:36,Down,Awaiting Diag.,,Yes,13
+2107.0,2023-08-11,2023-08-12 16:45:58,Down,2023-07-28,,2023-08-15,NO START,Awaiting Service/Parts (incl. Proterra),,,,14 days,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,,Yes,14
+2107.0,2023-08-13,2023-08-15 10:28:07,Down,2023-07-28,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,16 days,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,,Yes,16
+2107.0,2023-08-16,2023-08-17 13:20:41,Down,2023-07-28,,2023-08-18,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,19 days,2023-08-16 05:56:33,Down,Fire Suppression System/Discharge/No Start,,Yes,19
+2107.0,2023-08-17,2023-08-18 14:07:55,Down,2023-07-28,,2023-08-20,,Going to Vendor,Fire Suppression System/Discharge/No Start,,,20 days,2023-08-17 03:05:22,Down,Fire Suppression System/Discharge/No Start,,Yes,20
+2107.0,2023-08-18,2023-08-21 08:58:24,Down,2023-07-28,Yes,2023-07-28,,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,,,21 days,2023-08-18 04:13:42,Down,Fire Suppression System/Discharge/No Start, Ignition Issues/No Start,Yes,21
+2107.0,2023-08-19,2023-08-21 09:33:03,Down,2023-07-28,Yes,2023-08-20,,Awaiting Service/Parts (incl. Proterra),Fire Suppression System/Discharge/No Start,,,22 days,2023-08-19 07:34:40,Down,Check/Stop System/Engine Lights,,Yes,22
+2107.0,2023-08-20,2023-08-21 11:49:14,Down,2023-07-28,,2023-08-31,,Going to Vendor,Fire Suppression System/Discharge/No Start,,,23 days,2023-08-20 04:35:51,DOWN,Fire Suppression System/Discharge/No Start,,No,23
+2107.0,2023-08-21,2023-08-22 10:44:29,Down,2023-07-28,,2023-08-31,,Going to Vendor,Fire Suppression System/Discharge/No Start,,,24 days,2023-08-21 03:53:41,Down,Fire Suppression System/Discharge/No Start,,Yes,24
+2107.0,2023-08-22,2023-08-23 13:21:30,Down,2023-07-28,,2023-08-31,,Going to Vendor,Fire Suppression System/Discharge/No Start,,,25 days,2023-08-22 04:17:51,Down,Fire Suppression System/Discharge/No Start,,Yes,25
+2108.0,2023-08-09,2023-08-15 10:28:07,Down,2023-07-26,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,14 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,14
+2108.0,2023-08-10,2023-08-15 10:28:07,Down,2023-07-26,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Check/Stop System/Engine Lights,,,15 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,15
+2108.0,2023-08-11,2023-08-15 10:28:07,Down,2023-07-26,,2023-08-13,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,16 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,16
+2108.0,2023-08-13,2023-08-15 10:28:07,Down,2023-07-26,,2023-08-18,,Going to/At/On-site Vendor (i.e. Cummins),Check/Stop Engine Lights,,,18 days,2023-08-15 08:04:36,Down,Transmission Issues,,Yes,18
+2108.0,2023-08-16,2023-08-17 13:20:41,Down,2023-07-26,,2023-08-19,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,21 days,2023-08-16 05:56:33,Down,Check/Stop System/Engine Lights,,Yes,21
+2108.0,2023-08-17,2023-08-18 14:07:55,Down,2023-07-26,,2023-08-21,,At South Capitol,Transmission Issues,,,22 days,2023-08-17 03:05:22,Down,Transmission Issues,,Yes,22
+2108.0,2023-08-18,2023-08-21 08:58:24,Down,2023-07-26,Yes,2023-07-26,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,23 days,2023-08-18 04:13:42,Down,Transmission Issues,,Yes,23
+2108.0,2023-08-19,2023-08-21 09:33:03,Down,2023-07-26,Yes,2023-08-21,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,24 days,2023-08-19 07:34:40,Down,Check/Stop System/Engine Lights,,Yes,24
+2108.0,2023-08-20,2023-08-21 11:49:14,Down,2023-07-26,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,25 days,2023-08-20 04:35:51,Down,Check/Stop System/Engine Lights,,Yes,25
+2108.0,2023-08-21,2023-08-22 10:44:29,Down,2023-07-26,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,,,26 days,2023-08-21 03:53:41,Down,Check/Stop System/Engine Lights,,Yes,26
+2108.0,2023-08-22,2023-08-23 13:21:30,Down,2023-07-26,,2023-08-31,check trans light active,Going to/At/On-site Vendor (i.e. Cummins),check trans light active,,,27 days,2023-08-22 04:17:51,Down,Transmission Issues,,Yes,27
+2112.0,2023-08-19,2023-08-21 09:33:03,Down,2023-08-18,Yes,2023-08-21,,Awaiting Service/Parts (incl. Proterra),A or B Defects,,,1 days,2023-08-19 07:34:40,Down,A or B Defects,,Yes,1
+2113.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,maintenance audit,Awaiting Service/Parts (incl. Proterra),maintenance audit,,,0 days,2023-08-20 04:35:51,Down,Not Specified,,No,0
+2114.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-15,,2023-08-18,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,1 days,2023-08-16 05:56:33,Down,Follow Up,,Yes,1
+2115.0,2023-08-09,2023-08-15 10:28:07,Down,2023-08-04,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,5 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,5
+2115.0,2023-08-10,2023-08-15 10:28:07,Down,2023-08-04,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,6 days,2023-08-15 08:04:36,Down,Bodyshop/Vendor,,Yes,6
+2118.0,2023-08-09,2023-08-10 11:40:05,Down,2023-08-08,,2023-08-10,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,1 days,2023-08-09 04:47:28,Spare,,,No,1
+2121.0,2023-08-09,2023-08-10 11:40:05,Down,2023-08-09,,2023-08-10,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,0 days,2023-08-09 04:47:28,Spare,,,No,0
+2121.0,2023-08-10,2023-08-11 12:05:25,Down,2023-08-09,,2023-08-10,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,1 days,2023-08-10 06:23:30,Spare,,,No,1
+2121.0,2023-08-11,2023-08-15 10:28:07,Down,2023-08-09,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Follow Up,,,2 days,2023-08-11 03:06:17,Spare,,,No,2
+2121.0,2023-08-12,2023-08-13 17:46:05,Down,2023-08-09,,2023-08-13,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,3 days,2023-08-12 06:54:43,Spare,,,No,3
+2121.0,2023-08-13,2023-08-14 11:30:52,Down,2023-08-09,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),Follow Up,,,4 days,2023-08-15 08:04:36,Down,Follow Up,,Yes,4
+2121.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-14,,Awaiting Service/Parts (incl. Proterra),Low Fluids,,,0 days,2023-08-16 05:56:33,RS-DP,,,No,0
+2121.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,maintenance audit,Awaiting Service/Parts (incl. Proterra),maintenance audit,,,0 days,2023-08-20 04:35:51,WP-AM,,,No,0
+2124.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,maintenance audit,Awaiting Service/Parts (incl. Proterra),maintenance audit,,,0 days,2023-08-20 04:35:51,EM-LP,,,No,0
+2126.0,2023-08-09,2023-08-10 11:40:05,Down,2023-08-04,,2023-08-08,,In Progress,Follow Up,,,5 days,2023-08-15 08:04:36,Down,Follow Up,,Yes,5
+2126.0,2023-08-10,2023-08-11 12:05:25,Down,2023-08-04,,2023-08-08,,In Progress,Follow Up,,,6 days,2023-08-15 08:04:36,Down,Progress,,Yes,6
+2126.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,maintenance audit,Awaiting Service/Parts (incl. Proterra),maintenance audit,,,0 days,2023-08-20 04:35:51,EM-LP,,,No,0
+3001.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,At South Capitol,Low Charge,,,0 days,2023-08-16 05:56:33,Spare,,,No,0
+3001.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3001.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Down,Not Specified,,No,0
+3001.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3001.0,2023-08-22,2023-08-23 13:21:30,Not In Service,2023-08-22,Yes,2023-08-23,,At South Capitol,Low Charge,,,0 days,2023-08-22 04:17:51,Spare,,,No,0
+3002.0,2023-08-10,2023-08-11 12:05:25,Not In Service,2023-08-10,Yes,2023-08-11,,At South Capitol,Low Charge,,,0 days,2023-08-10 06:23:30,WP-AM,,,No,0
+3002.0,2023-08-13,2023-08-14 11:30:52,Not In Service,2023-08-13,Yes,2023-08-14,,At South Capitol,Low Charge,,,0 days,2023-08-15 08:04:36,Down,Red Caution Light,,No,0
+3002.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,At South Capitol,Low Charge,,,0 days,2023-08-16 05:56:33,EM-LP,,,No,0
+3002.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Spare,,,No,0
+3002.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3002.0,2023-08-22,2023-08-23 13:21:30,Not In Service,2023-08-22,Yes,2023-08-23,,At South Capitol,Low Charge,,,0 days,2023-08-22 04:17:51,Down,Low Charge, Other,No,0
+3003.0,2023-08-09,2023-08-10 11:40:05,Not In Service,2023-08-09,,2023-08-10,,At South Capitol,Low Charge,,,0 days,2023-08-09 04:47:28,Spare,,,No,0
+3003.0,2023-08-10,2023-08-11 12:05:25,Not In Service,2023-08-10,Yes,2023-08-11,,At South Capitol,Low Charge,,,0 days,2023-08-10 06:23:30,Spare,,,No,0
+3003.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-12,Yes,2023-08-13,,At South Capitol,Low Charge,,,0 days,2023-08-12 06:54:43,Spare,,,No,0
+3003.0,2023-08-13,2023-08-15 10:27:00,Down,2023-08-12,,2023-08-15,rear doors open in motion,Awaiting Diagnostics,Mechanical, Other,,1 days,2023-08-15 08:04:36,Down,Mechanical, Other,Yes,1
+3003.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3003.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Down,Transmission Issues,,No,0
+3003.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Awaiting Service,,No,0
+3003.0,2023-08-22,2023-08-23 13:21:30,Down,2023-08-22,Yes,2023-08-24,air pressure issue,Awaiting Service/Parts (incl. Proterra),air pressure issue,,,0 days,2023-08-22 04:17:51,Down,A/C (HVAC) Issues,,Yes,0
+3004.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-12,Yes,2023-08-13,,At South Capitol,Low Charge,,,0 days,2023-08-12 06:54:43,WP-AM,,,No,0
+3004.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3004.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Spare,,,No,0
+3004.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3004.0,2023-08-22,2023-08-23 13:21:30,Not In Service,2023-08-22,Yes,2023-08-23,,At South Capitol,Low Charge,,,0 days,2023-08-22 04:17:51,EM-LP,,,No,0
+3005.0,2023-08-09,2023-08-10 11:40:05,Not In Service,2023-08-09,,2023-08-10,,At South Capitol,Low Charge,,,0 days,2023-08-09 04:47:28,GT-US,,,No,0
+3005.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-12,Yes,2023-08-13,,At South Capitol,Low Charge,,,0 days,2023-08-12 06:54:43,CH-US,,,No,0
+3005.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3005.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3005.0,2023-08-22,2023-08-23 13:21:30,Not In Service,2023-08-22,Yes,2023-08-23,,At South Capitol,Low Charge,,,0 days,2023-08-22 04:17:51,WP-AM,,,No,0
+3006.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,At South Capitol,Low Charge,,,0 days,2023-08-16 05:56:33,Spare,,,No,0
+3006.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Spare,,,No,0
+3007.0,2023-08-09,2023-08-10 11:40:05,Not In Service,2023-08-09,,2023-08-10,,At South Capitol,Low Charge,,,0 days,2023-08-09 04:47:28,WP-AM,,,No,0
+3007.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-12,Yes,2023-08-13,,At South Capitol,Low Charge,,,0 days,2023-08-12 06:54:43,Spare,,,No,0
+3007.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,At South Capitol,Low Charge,,,0 days,2023-08-16 05:56:33,Down,Not Specified,,No,0
+3007.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3007.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Down,Not Specified,,No,0
+3007.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3008.0,2023-08-09,2023-08-10 11:40:05,Not In Service,2023-08-09,,2023-08-10,,At South Capitol,Low Charge,,,0 days,2023-08-09 04:47:28,EM-LP,,,No,0
+3008.0,2023-08-10,2023-08-11 12:05:25,Not In Service,2023-08-10,Yes,2023-08-11,,At South Capitol,Low Charge,,,0 days,2023-08-10 06:23:30,CH-US,,,No,0
+3008.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-12,Yes,2023-08-13,,At South Capitol,Low Charge,,,0 days,2023-08-12 06:54:43,Spare,,,No,0
+3008.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-20,,At South Capitol,Low Charge,,,0 days,2023-08-16 05:56:33,Spare,,,No,0
+3008.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3008.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Spare,,,No,0
+3008.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3008.0,2023-08-22,2023-08-23 13:21:30,Not In Service,2023-08-22,Yes,2023-08-23,,At South Capitol,Low Charge,,,0 days,2023-08-22 04:17:51,GT-US,,,No,0
+3009.0,2023-08-09,2023-08-10 11:40:05,Down,2023-07-24,,2023-08-08,,At South Capitol,HV Light On,,,16 days,2023-08-15 08:04:36,Down,HV Light On,,Yes,16
+3009.0,2023-08-10,2023-08-11 12:05:25,Down,2023-07-24,,2023-08-08,,Awaiting Service/Parts (incl. Proterra),HV Light On,,,17 days,2023-08-15 08:04:36,Down,Awaiting Proterra,,Yes,17
+3009.0,2023-08-11,2023-08-12 16:45:58,Down,2023-07-24,,2023-08-15,DC/DC #2,Awaiting Service/Parts (incl. Proterra),,,,18 days,2023-08-15 08:04:36,Down,HV Light On,,Yes,18
+3009.0,2023-08-13,2023-08-15 10:27:00,Down,2023-07-24,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),DC/DC#2,,,20 days,2023-08-15 08:04:36,Down,DC/DC#2,,Yes,20
+3009.0,2023-08-16,2023-08-17 13:20:41,Down,2023-07-24,,2023-08-20,,Awaiting Service/Parts (incl. Proterra),DC/DC#2,,,23 days,2023-08-16 05:56:33,Down,Not Specified,,Yes,23
+3009.0,2023-08-17,2023-08-18 14:07:55,Down,2023-07-24,,2023-08-21,,Awaiting Service/Parts (incl. Proterra),DC/DC#2,,,24 days,2023-08-17 03:05:22,Down,DC/DC#2,,Yes,24
+3009.0,2023-08-18,2023-08-21 08:58:24,Down,2023-07-24,Yes,2023-07-24,,Awaiting Service/Parts (incl. Proterra),DC/DC#2,,,25 days,2023-08-18 04:13:42,Down,DC/DC#2,,Yes,25
+3009.0,2023-08-19,2023-08-21 09:33:03,Down,2023-07-24,Yes,2023-08-21,,Awaiting Service/Parts (incl. Proterra),DC/DC#2,,,26 days,2023-08-19 07:34:40,Down,DC/DC#2,,Yes,26
+3009.0,2023-08-20,2023-08-21 11:49:14,Down,2023-07-24,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),DC/DC#2,,,27 days,2023-08-20 04:35:51,Down,DC/DC#2, Power Issues,Yes,27
+3009.0,2023-08-21,2023-08-22 10:44:29,Down,2023-07-24,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),DC/DC#2,,,28 days,2023-08-21 03:53:41,Down,Low Charge,,Yes,28
+3009.0,2023-08-22,2023-08-23 13:21:30,Down,2023-07-24,,2023-08-25,,Awaiting Service/Parts (incl. Proterra),DC/DC#2,,,29 days,2023-08-22 04:17:51,Down,DC/DC#2,,Yes,29
+3010.0,2023-08-09,2023-08-10 11:40:05,Down,2022-07-21,,2023-08-15,,At South Capitol,Accident Damage,,,384 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,384
+3010.0,2023-08-10,2023-08-15 10:28:07,Down,2022-07-21,,2023-08-15,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,385 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,385
+3010.0,2023-08-11,2023-08-12 16:45:58,Down,2023-07-21,,2023-08-15,,Awaiting Service/Parts (incl. Proterra),Accident Damage,,,21 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,21
+3010.0,2023-08-13,2023-08-15 10:28:07,Down,2022-07-21,,2023-08-18,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,388 days,2023-08-15 08:04:36,Down,Accident Damage,,Yes,388
+3010.0,2023-08-16,2023-08-17 13:20:41,Down,2022-07-21,,2023-08-18,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,391 days,2023-08-16 05:56:33,Down,Not Specified,,Yes,391
+3010.0,2023-08-17,2023-08-18 14:07:55,Down,2022-07-21,,2023-08-21,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,392 days,2023-08-17 03:05:22,Down,Accident Damage,,Yes,392
+3010.0,2023-08-18,2023-08-21 08:58:24,Down,2022-07-21,Yes,2022-07-21,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,393 days,2023-08-18 04:13:42,Down,Accident Damage,,Yes,393
+3010.0,2023-08-19,2023-08-21 09:33:03,Down,2022-07-21,Yes,2023-08-21,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,394 days,2023-08-19 07:34:40,Down,Accident Damage,,Yes,394
+3010.0,2023-08-20,2023-08-21 11:49:14,Down,2022-07-21,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,395 days,2023-08-20 04:35:51,Down,Accident Damage,,Yes,395
+3010.0,2023-08-21,2023-08-22 10:44:29,Down,2022-07-21,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,396 days,2023-08-21 03:53:41,Down,Low Charge,,Yes,396
+3010.0,2023-08-22,2023-08-23 13:21:30,Down,2022-07-21,,2023-08-31,,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,,,397 days,2023-08-22 04:17:51,Down,Accident Damage,,Yes,397
+3011.0,2023-08-10,2023-08-11 12:05:25,Not In Service,2023-08-10,Yes,2023-08-11,,At South Capitol,Low Charge,,,0 days,2023-08-10 06:23:30,EM-LP,,,No,0
+3011.0,2023-08-16,2023-08-17 13:20:41,Down,2023-08-16,Yes,2023-08-17,,In Progress,Air Leak,,,0 days,2023-08-16 05:56:33,Down,Not Specified,,Yes,0
+3011.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Spare,,,No,0
+3011.0,2023-08-22,2023-08-23 13:21:30,Not In Service,2023-08-22,Yes,2023-08-23,,At South Capitol,Low Charge,,,0 days,2023-08-22 04:17:51,Spare,,,No,0
+3012.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,At South Capitol,Low Charge,,,0 days,2023-08-16 05:56:33,Spare,,,No,0
+3012.0,2023-08-17,2023-08-18 14:07:55,Down,2023-08-17,Yes,2023-08-21,,In Progress,Follow Up,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3012.0,2023-08-18,2023-08-21 08:58:24,Down,2023-08-17,Yes,2023-08-17,,In Progress,Follow Up,,,1 days,2023-08-18 04:13:42,Spare,,,No,1
+3012.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Spare,,,No,0
+3012.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3012.0,2023-08-22,2023-08-23 13:21:30,Not In Service,2023-08-22,Yes,2023-08-23,,At South Capitol,Low Charge,,,0 days,2023-08-22 04:17:51,Spare,,,No,0
+3013.0,2023-08-13,2023-08-14 11:30:52,Not In Service,2023-08-13,Yes,2023-08-14,,At South Capitol,Low Charge,,,0 days,2023-08-14 06:30:26,NMS,,,No,0
+3013.0,2023-08-16,2023-08-17 13:20:41,Not In Service,2023-08-16,Yes,2023-08-17,,At South Capitol,Low Charge,,,0 days,2023-08-16 05:56:33,Spare,,,No,0
+3013.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3013.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Down,Not Specified,,No,0
+3013.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3014.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-12,Yes,2023-08-13,,At South Capitol,Low Charge,,,0 days,2023-08-12 06:54:43,Spare,,,No,0
+3014.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Spare,,,No,0
+3014.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Spare,,,No,0
+3014.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Down,Low Charge,,No,0
+3101.0,2023-08-10,2023-08-11 12:05:25,Not In Service,2023-08-10,Yes,2023-08-11,,At South Capitol,Low Charge,,,0 days,2023-08-10 06:23:30,Spare,,,No,0
+3101.0,2023-08-12,2023-08-13 17:46:05,Not In Service,2023-08-13,Yes,2023-08-13,,At South Capitol,Low Charge,,,-1 days,2023-08-12 06:54:43,Spare,,,No,1
+3101.0,2023-08-13,2023-08-14 11:30:52,Not In Service,2023-08-13,Yes,2023-08-14,,At South Capitol,Low Charge,,,0 days,2023-08-14 06:30:26,Spare,,,No,0
+3101.0,2023-08-17,2023-08-18 14:07:55,Not In Service,2023-08-17,Yes,2023-08-18,,At South Capitol,Low Charge,,,0 days,2023-08-17 03:05:22,Training,,,No,0
+3101.0,2023-08-20,2023-08-21 11:49:14,Not In Service,2023-08-20,Yes,2023-08-21,,At South Capitol,Low Charge,,,0 days,2023-08-20 04:35:51,Spare,,,No,0
+3101.0,2023-08-21,2023-08-22 10:44:29,Not In Service,2023-08-21,Yes,2023-08-22,,At South Capitol,Low Charge,,,0 days,2023-08-21 03:53:41,Spare,,,No,0
+3101.0,2023-08-22,2023-08-23 13:21:30,Not In Service,2023-08-22,Yes,2023-08-23,,At South Capitol,Low Charge,,,0 days,2023-08-22 04:17:51,Spare,,,No,0

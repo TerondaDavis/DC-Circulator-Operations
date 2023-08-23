@@ -1,0 +1,1123 @@
+Service Date,Report Time,Service Week,Route,Available Vehicles,Peak Number of Vehicles,Buses Required,Detour,Detour Details,Total Available Vehicles,Total Required Vehicles,Bus Fleet Compliance Rate
+2023-07-28,AM Service Delivery (7 AM-9 AM),Friday,CH-US,10.0,,10.0,No,,46.0,47.0,0.9787234042553191
+2023-07-28,AM Service Delivery (7 AM-9 AM),Friday,EM-LP,5.0,,6.0,No,,46.0,47.0,0.9787234042553191
+2023-07-28,AM Service Delivery (7 AM-9 AM),Friday,GT-US,11.0,,11.0,No,,46.0,47.0,0.9787234042553191
+2023-07-28,AM Service Delivery (7 AM-9 AM),Friday,NMS,7.0,,7.0,No,,46.0,47.0,0.9787234042553191
+2023-07-28,AM Service Delivery (7 AM-9 AM),Friday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",46.0,47.0,0.9787234042553191
+2023-07-28,AM Service Delivery (7 AM-9 AM),Friday,WP-AM,7.0,,7.0,No,,46.0,47.0,0.9787234042553191
+2023-07-28,Night Service Delivery (9 PM onwards),Friday,CH-US,9.0,,9.0,No,,45.0,49.0,0.9183673469387755
+2023-07-28,Night Service Delivery (9 PM onwards),Friday,EM-LP,4.0,,6.0,No,,45.0,49.0,0.9183673469387755
+2023-07-28,Night Service Delivery (9 PM onwards),Friday,GT-US,12.0,,13.0,No,,45.0,49.0,0.9183673469387755
+2023-07-28,Night Service Delivery (9 PM onwards),Friday,NMS,6.0,,7.0,No,,45.0,49.0,0.9183673469387755
+2023-07-28,Night Service Delivery (9 PM onwards),Friday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",45.0,49.0,0.9183673469387755
+2023-07-28,Night Service Delivery (9 PM onwards),Friday,WP-AM,8.0,,8.0,No,,45.0,49.0,0.9183673469387755
+2023-07-28,PM Service Delivery (3 PM-5 PM),Friday,CH-US,8.0,,12.0,No,,42.0,53.0,0.7924528301886793
+2023-07-28,PM Service Delivery (3 PM-5 PM),Friday,EM-LP,5.0,,7.0,No,,42.0,53.0,0.7924528301886793
+2023-07-28,PM Service Delivery (3 PM-5 PM),Friday,GT-US,10.0,,13.0,No,,42.0,53.0,0.7924528301886793
+2023-07-28,PM Service Delivery (3 PM-5 PM),Friday,NMS,7.0,,8.0,No,,42.0,53.0,0.7924528301886793
+2023-07-28,PM Service Delivery (3 PM-5 PM),Friday,RS-DP,5.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",42.0,53.0,0.7924528301886793
+2023-07-28,PM Service Delivery (3 PM-5 PM),Friday,WP-AM,7.0,,7.0,No,,42.0,53.0,0.7924528301886793
+2023-07-28,Pull-out AM (6 AM-7 AM),Friday,CH-US,9.0,,10.0,No,,42.0,44.0,0.9545454545454546
+2023-07-28,Pull-out AM (6 AM-7 AM),Friday,EM-LP,5.0,,6.0,No,,42.0,44.0,0.9545454545454546
+2023-07-28,Pull-out AM (6 AM-7 AM),Friday,GT-US,11.0,,11.0,No,,42.0,44.0,0.9545454545454546
+2023-07-28,Pull-out AM (6 AM-7 AM),Friday,NMS,4.0,,4.0,No,,42.0,44.0,0.9545454545454546
+2023-07-28,Pull-out AM (6 AM-7 AM),Friday,RS-DP,6.0,,6.0,No,,42.0,44.0,0.9545454545454546
+2023-07-28,Pull-out AM (6 AM-7 AM),Friday,WP-AM,7.0,,7.0,No,,42.0,44.0,0.9545454545454546
+2023-07-29,AM Service Delivery (7 AM-9 AM),Saturday,CH-US,9.0,,10.0,No,,45.0,45.0,1.0
+2023-07-29,AM Service Delivery (7 AM-9 AM),Saturday,EM-LP,6.0,,6.0,No,,45.0,45.0,1.0
+2023-07-29,AM Service Delivery (7 AM-9 AM),Saturday,GT-US,11.0,,10.0,No,,45.0,45.0,1.0
+2023-07-29,AM Service Delivery (7 AM-9 AM),Saturday,NMS,6.0,,6.0,No,,45.0,45.0,1.0
+2023-07-29,AM Service Delivery (7 AM-9 AM),Saturday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",45.0,45.0,1.0
+2023-07-29,AM Service Delivery (7 AM-9 AM),Saturday,WP-AM,7.0,,7.0,No,,45.0,45.0,1.0
+2023-07-29,Night Service Delivery (9 PM onwards),Saturday,CH-US,8.0,,10.0,No,,34.0,47.0,0.723404255319149
+2023-07-29,Night Service Delivery (9 PM onwards),Saturday,EM-LP,6.0,,6.0,No,,34.0,47.0,0.723404255319149
+2023-07-29,Night Service Delivery (9 PM onwards),Saturday,GT-US,10.0,,11.0,No,,34.0,47.0,0.723404255319149
+2023-07-29,Night Service Delivery (9 PM onwards),Saturday,NMS,0.0,,6.0,No,,34.0,47.0,0.723404255319149
+2023-07-29,Night Service Delivery (9 PM onwards),Saturday,RS-DP,5.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",34.0,47.0,0.723404255319149
+2023-07-29,Night Service Delivery (9 PM onwards),Saturday,WP-AM,5.0,,8.0,No,,34.0,47.0,0.723404255319149
+2023-07-29,PM Service Delivery (3 PM-5 PM),Saturday,CH-US,9.0,,10.0,No,,45.0,47.0,0.9574468085106383
+2023-07-29,PM Service Delivery (3 PM-5 PM),Saturday,EM-LP,6.0,,6.0,No,,45.0,47.0,0.9574468085106383
+2023-07-29,PM Service Delivery (3 PM-5 PM),Saturday,GT-US,10.0,,12.0,No,,45.0,47.0,0.9574468085106383
+2023-07-29,PM Service Delivery (3 PM-5 PM),Saturday,NMS,8.0,,6.0,No,,45.0,47.0,0.9574468085106383
+2023-07-29,PM Service Delivery (3 PM-5 PM),Saturday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",45.0,47.0,0.9574468085106383
+2023-07-29,PM Service Delivery (3 PM-5 PM),Saturday,WP-AM,6.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-07-29,Pull-out AM (6 AM-7 AM),Saturday,CH-US,10.0,,10.0,No,,41.0,45.0,0.9111111111111111
+2023-07-29,Pull-out AM (6 AM-7 AM),Saturday,EM-LP,6.0,,6.0,No,,41.0,45.0,0.9111111111111111
+2023-07-29,Pull-out AM (6 AM-7 AM),Saturday,GT-US,10.0,,10.0,No,,41.0,45.0,0.9111111111111111
+2023-07-29,Pull-out AM (6 AM-7 AM),Saturday,NMS,4.0,,6.0,No,,41.0,45.0,0.9111111111111111
+2023-07-29,Pull-out AM (6 AM-7 AM),Saturday,RS-DP,5.0,,6.0,No,,41.0,45.0,0.9111111111111111
+2023-07-29,Pull-out AM (6 AM-7 AM),Saturday,WP-AM,6.0,,7.0,No,,41.0,45.0,0.9111111111111111
+2023-07-30,AM Service Delivery (7 AM-9 AM),Sunday,CH-US,9.0,,11.0,No,,40.0,46.0,0.8695652173913043
+2023-07-30,AM Service Delivery (7 AM-9 AM),Sunday,EM-LP,4.0,,6.0,No,,40.0,46.0,0.8695652173913043
+2023-07-30,AM Service Delivery (7 AM-9 AM),Sunday,GT-US,10.0,,10.0,No,,40.0,46.0,0.8695652173913043
+2023-07-30,AM Service Delivery (7 AM-9 AM),Sunday,NMS,5.0,,6.0,No,,40.0,46.0,0.8695652173913043
+2023-07-30,AM Service Delivery (7 AM-9 AM),Sunday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",40.0,46.0,0.8695652173913043
+2023-07-30,AM Service Delivery (7 AM-9 AM),Sunday,WP-AM,6.0,,7.0,No,,40.0,46.0,0.8695652173913043
+2023-07-30,Night Service Delivery (9 PM onwards),Sunday,CH-US,9.0,,10.0,No,,39.0,49.0,0.7959183673469388
+2023-07-30,Night Service Delivery (9 PM onwards),Sunday,EM-LP,6.0,,6.0,No,,39.0,49.0,0.7959183673469388
+2023-07-30,Night Service Delivery (9 PM onwards),Sunday,GT-US,11.0,,13.0,No,,39.0,49.0,0.7959183673469388
+2023-07-30,Night Service Delivery (9 PM onwards),Sunday,NMS,0.0,,6.0,No,,39.0,49.0,0.7959183673469388
+2023-07-30,Night Service Delivery (9 PM onwards),Sunday,RS-DP,5.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",39.0,49.0,0.7959183673469388
+2023-07-30,Night Service Delivery (9 PM onwards),Sunday,WP-AM,8.0,,8.0,No,,39.0,49.0,0.7959183673469388
+2023-07-30,PM Service Delivery (3 PM-5 PM),Sunday,CH-US,11.0,,11.0,No,,45.0,50.0,0.9
+2023-07-30,PM Service Delivery (3 PM-5 PM),Sunday,EM-LP,5.0,,6.0,No,,45.0,50.0,0.9
+2023-07-30,PM Service Delivery (3 PM-5 PM),Sunday,GT-US,10.0,,12.0,No,,45.0,50.0,0.9
+2023-07-30,PM Service Delivery (3 PM-5 PM),Sunday,NMS,6.0,,6.0,No,,45.0,50.0,0.9
+2023-07-30,PM Service Delivery (3 PM-5 PM),Sunday,RS-DP,5.0,,7.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",45.0,50.0,0.9
+2023-07-30,PM Service Delivery (3 PM-5 PM),Sunday,WP-AM,8.0,,8.0,No,,45.0,50.0,0.9
+2023-07-30,Pull-out AM (6 AM-7 AM),Sunday,CH-US,9.0,,11.0,No,,37.0,46.0,0.8043478260869565
+2023-07-30,Pull-out AM (6 AM-7 AM),Sunday,EM-LP,4.0,,6.0,No,,37.0,46.0,0.8043478260869565
+2023-07-30,Pull-out AM (6 AM-7 AM),Sunday,GT-US,10.0,,10.0,No,,37.0,46.0,0.8043478260869565
+2023-07-30,Pull-out AM (6 AM-7 AM),Sunday,NMS,2.0,,6.0,No,,37.0,46.0,0.8043478260869565
+2023-07-30,Pull-out AM (6 AM-7 AM),Sunday,RS-DP,6.0,,6.0,No,,37.0,46.0,0.8043478260869565
+2023-07-30,Pull-out AM (6 AM-7 AM),Sunday,WP-AM,6.0,,7.0,No,,37.0,46.0,0.8043478260869565
+2023-07-31,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,42.0,47.0,0.8936170212765957
+2023-07-31,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,42.0,47.0,0.8936170212765957
+2023-07-31,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,11.0,,11.0,No,,42.0,47.0,0.8936170212765957
+2023-07-31,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,6.0,,7.0,No,,42.0,47.0,0.8936170212765957
+2023-07-31,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,5.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",42.0,47.0,0.8936170212765957
+2023-07-31,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,42.0,47.0,0.8936170212765957
+2023-07-31,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,8.0,,9.0,No,,40.0,50.0,0.8
+2023-07-31,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,5.0,,6.0,No,,40.0,50.0,0.8
+2023-07-31,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,13.0,,14.0,No,,40.0,50.0,0.8
+2023-07-31,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,0.0,,7.0,No,,40.0,50.0,0.8
+2023-07-31,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",40.0,50.0,0.8
+2023-07-31,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,8.0,,8.0,No,,40.0,50.0,0.8
+2023-07-31,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,10.0,,11.0,No,,47.0,54.0,0.8703703703703703
+2023-07-31,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,47.0,54.0,0.8703703703703703
+2023-07-31,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,12.0,,13.0,No,,47.0,54.0,0.8703703703703703
+2023-07-31,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,8.0,,8.0,No,,47.0,54.0,0.8703703703703703
+2023-07-31,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,6.0,,7.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",47.0,54.0,0.8703703703703703
+2023-07-31,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,6.0,,8.0,No,,47.0,54.0,0.8703703703703703
+2023-07-31,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,38.0,44.0,0.8636363636363636
+2023-07-31,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,38.0,44.0,0.8636363636363636
+2023-07-31,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,10.0,,11.0,No,,38.0,44.0,0.8636363636363636
+2023-07-31,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,3.0,,4.0,No,,38.0,44.0,0.8636363636363636
+2023-07-31,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,5.0,,6.0,No,,38.0,44.0,0.8636363636363636
+2023-07-31,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,38.0,44.0,0.8636363636363636
+2023-08-01,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,44.0,47.0,0.9361702127659575
+2023-08-01,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,44.0,47.0,0.9361702127659575
+2023-08-01,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,10.0,,11.0,No,,44.0,47.0,0.9361702127659575
+2023-08-01,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,7.0,,7.0,No,,44.0,47.0,0.9361702127659575
+2023-08-01,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",44.0,47.0,0.9361702127659575
+2023-08-01,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,44.0,47.0,0.9361702127659575
+2023-08-01,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,9.0,,9.0,No,,42.0,50.0,0.84
+2023-08-01,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,6.0,,6.0,No,,42.0,50.0,0.84
+2023-08-01,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,13.0,,14.0,No,,42.0,50.0,0.84
+2023-08-01,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,1.0,,7.0,No,,42.0,50.0,0.84
+2023-08-01,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",42.0,50.0,0.84
+2023-08-01,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,7.0,,8.0,No,,42.0,50.0,0.84
+2023-08-01,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,10.0,,11.0,No,,48.0,54.0,0.8888888888888888
+2023-08-01,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,48.0,54.0,0.8888888888888888
+2023-08-01,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,12.0,,13.0,No,,48.0,54.0,0.8888888888888888
+2023-08-01,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,7.0,,8.0,No,,48.0,54.0,0.8888888888888888
+2023-08-01,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,7.0,,7.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",48.0,54.0,0.8888888888888888
+2023-08-01,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,7.0,,8.0,No,,48.0,54.0,0.8888888888888888
+2023-08-01,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,40.0,44.0,0.9090909090909091
+2023-08-01,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,4.0,,6.0,No,,40.0,44.0,0.9090909090909091
+2023-08-01,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,10.0,,11.0,No,,40.0,44.0,0.9090909090909091
+2023-08-01,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,40.0,44.0,0.9090909090909091
+2023-08-01,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,40.0,44.0,0.9090909090909091
+2023-08-01,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,40.0,44.0,0.9090909090909091
+2023-08-02,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,10.0,,10.0,No,,45.0,47.0,0.9574468085106383
+2023-08-02,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,45.0,47.0,0.9574468085106383
+2023-08-02,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,9.0,,11.0,No,,45.0,47.0,0.9574468085106383
+2023-08-02,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,7.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-02,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",45.0,47.0,0.9574468085106383
+2023-08-02,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-02,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,9.0,,9.0,No,,49.0,50.0,0.98
+2023-08-02,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,5.0,,6.0,No,,49.0,50.0,0.98
+2023-08-02,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,14.0,,14.0,No,,49.0,50.0,0.98
+2023-08-02,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,7.0,,7.0,No,,49.0,50.0,0.98
+2023-08-02,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",49.0,50.0,0.98
+2023-08-02,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,8.0,,8.0,No,,49.0,50.0,0.98
+2023-08-02,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,10.0,,11.0,No,,47.0,54.0,0.8703703703703703
+2023-08-02,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,7.0,,7.0,No,,47.0,54.0,0.8703703703703703
+2023-08-02,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,13.0,,13.0,No,,47.0,54.0,0.8703703703703703
+2023-08-02,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,7.0,,8.0,No,,47.0,54.0,0.8703703703703703
+2023-08-02,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,5.0,,7.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",47.0,54.0,0.8703703703703703
+2023-08-02,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,5.0,,8.0,No,,47.0,54.0,0.8703703703703703
+2023-08-02,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,41.0,44.0,0.9318181818181818
+2023-08-02,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,41.0,44.0,0.9318181818181818
+2023-08-02,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,9.0,,11.0,No,,41.0,44.0,0.9318181818181818
+2023-08-02,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,41.0,44.0,0.9318181818181818
+2023-08-02,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,41.0,44.0,0.9318181818181818
+2023-08-02,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,41.0,44.0,0.9318181818181818
+2023-08-03,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,45.0,47.0,0.9574468085106383
+2023-08-03,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,45.0,47.0,0.9574468085106383
+2023-08-03,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,10.0,,11.0,No,,45.0,47.0,0.9574468085106383
+2023-08-03,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,7.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-03,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",45.0,47.0,0.9574468085106383
+2023-08-03,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-03,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,9.0,,9.0,No,,48.0,50.0,0.96
+2023-08-03,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,5.0,,6.0,No,,48.0,50.0,0.96
+2023-08-03,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,14.0,,14.0,No,,48.0,50.0,0.96
+2023-08-03,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,6.0,,7.0,No,,48.0,50.0,0.96
+2023-08-03,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",48.0,50.0,0.96
+2023-08-03,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,8.0,,8.0,No,,48.0,50.0,0.96
+2023-08-03,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,9.0,,11.0,No,,46.0,54.0,0.8518518518518519
+2023-08-03,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,46.0,54.0,0.8518518518518519
+2023-08-03,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,10.0,,13.0,No,,46.0,54.0,0.8518518518518519
+2023-08-03,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,7.0,,8.0,No,,46.0,54.0,0.8518518518518519
+2023-08-03,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,7.0,,7.0,Yes,"WESTBOUND:
+
+Continue straight to Fort Myer Drive. 
+Left on 19th N. Street
+Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+EASTBOUND:
+
+Normal route to Dupont.",46.0,54.0,0.8518518518518519
+2023-08-03,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,8.0,,8.0,No,,46.0,54.0,0.8518518518518519
+2023-08-03,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,42.0,44.0,0.9545454545454546
+2023-08-03,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,42.0,44.0,0.9545454545454546
+2023-08-03,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,10.0,,11.0,No,,42.0,44.0,0.9545454545454546
+2023-08-03,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,42.0,44.0,0.9545454545454546
+2023-08-03,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,42.0,44.0,0.9545454545454546
+2023-08-03,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,42.0,44.0,0.9545454545454546
+2023-08-07,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,9.0,,11.0,No,,44.0,54.0,0.8148148148148148
+2023-08-07,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,44.0,54.0,0.8148148148148148
+2023-08-07,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,10.0,,13.0,No,,44.0,54.0,0.8148148148148148
+2023-08-07,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,6.0,,8.0,No,,44.0,54.0,0.8148148148148148
+2023-08-07,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,7.0,,7.0,No,,44.0,54.0,0.8148148148148148
+2023-08-07,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,7.0,,8.0,No,,44.0,54.0,0.8148148148148148
+2023-08-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,8.0,,10.0,No,,37.0,44.0,0.8409090909090909
+2023-08-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,37.0,44.0,0.8409090909090909
+2023-08-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,6.0,,11.0,No,,37.0,44.0,0.8409090909090909
+2023-08-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,37.0,44.0,0.8409090909090909
+2023-08-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,37.0,44.0,0.8409090909090909
+2023-08-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,37.0,44.0,0.8409090909090909
+2023-08-08,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,9.0,,9.0,No,,38.0,50.0,0.76
+2023-08-08,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,6.0,,6.0,No,,38.0,50.0,0.76
+2023-08-08,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,10.0,,14.0,No,,38.0,50.0,0.76
+2023-08-08,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,0.0,,7.0,No,,38.0,50.0,0.76
+2023-08-08,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",38.0,50.0,0.76
+2023-08-08,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,7.0,,8.0,No,,38.0,50.0,0.76
+2023-08-08,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,41.0,44.0,0.9318181818181818
+2023-08-08,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,41.0,44.0,0.9318181818181818
+2023-08-08,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,7.0,,11.0,No,,41.0,44.0,0.9318181818181818
+2023-08-08,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,7.0,,4.0,No,,41.0,44.0,0.9318181818181818
+2023-08-08,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,5.0,,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+
+ 
+
+WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+
+EASTBOUND:
+
+-Normal route to Dupont.",41.0,44.0,0.9318181818181818
+2023-08-08,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,41.0,44.0,0.9318181818181818
+2023-08-09,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,8.0,,10.0,No,,41.0,47.0,0.8723404255319149
+2023-08-09,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,41.0,47.0,0.8723404255319149
+2023-08-09,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,7.0,,11.0,No,,41.0,47.0,0.8723404255319149
+2023-08-09,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,7.0,,7.0,No,,41.0,47.0,0.8723404255319149
+2023-08-09,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+
+ 
+
+WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+
+EASTBOUND:
+
+-Normal route to Dupont.",41.0,47.0,0.8723404255319149
+2023-08-09,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,41.0,47.0,0.8723404255319149
+2023-08-09,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,9.0,,9.0,No,,39.0,50.0,0.78
+2023-08-09,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,5.0,,6.0,No,,39.0,50.0,0.78
+2023-08-09,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,12.0,,14.0,No,,39.0,50.0,0.78
+2023-08-09,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,0.0,,7.0,No,,39.0,50.0,0.78
+2023-08-09,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",39.0,50.0,0.78
+2023-08-09,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,7.0,,8.0,No,,39.0,50.0,0.78
+2023-08-09,Operations Report,Monday-Thursday,CH-US,10.0,10.0,11.0,No,,45.0,54.0,0.8333333333333334
+2023-08-09,Operations Report,Monday-Thursday,EM-LP,6.0,6.0,7.0,No,,45.0,54.0,0.8333333333333334
+2023-08-09,Operations Report,Monday-Thursday,GT-US,10.0,10.0,13.0,No,,45.0,54.0,0.8333333333333334
+2023-08-09,Operations Report,Monday-Thursday,NMS,5.0,5.0,8.0,No,,45.0,54.0,0.8333333333333334
+2023-08-09,Operations Report,Monday-Thursday,RS-DP,6.0,6.0,7.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont",45.0,54.0,0.8333333333333334
+2023-08-09,Operations Report,Monday-Thursday,WP-AM,8.0,8.0,8.0,No,,45.0,54.0,0.8333333333333334
+2023-08-09,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,10.0,,11.0,No,,46.0,54.0,0.8518518518518519
+2023-08-09,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,7.0,,7.0,No,,46.0,54.0,0.8518518518518519
+2023-08-09,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,10.0,,13.0,No,,46.0,54.0,0.8518518518518519
+2023-08-09,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,7.0,,8.0,No,,46.0,54.0,0.8518518518518519
+2023-08-09,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,5.0,,7.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont",46.0,54.0,0.8518518518518519
+2023-08-09,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,7.0,,8.0,No,,46.0,54.0,0.8518518518518519
+2023-08-09,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,8.0,,10.0,No,,38.0,44.0,0.8636363636363636
+2023-08-09,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,38.0,44.0,0.8636363636363636
+2023-08-09,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,7.0,,11.0,No,,38.0,44.0,0.8636363636363636
+2023-08-09,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,38.0,44.0,0.8636363636363636
+2023-08-09,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,38.0,44.0,0.8636363636363636
+2023-08-09,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,38.0,44.0,0.8636363636363636
+2023-08-10,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,46.0,47.0,0.9787234042553191
+2023-08-10,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,46.0,47.0,0.9787234042553191
+2023-08-10,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,11.0,,11.0,No,,46.0,47.0,0.9787234042553191
+2023-08-10,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,7.0,,7.0,No,,46.0,47.0,0.9787234042553191
+2023-08-10,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+
+ 
+
+WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",46.0,47.0,0.9787234042553191
+2023-08-10,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,46.0,47.0,0.9787234042553191
+2023-08-10,Operations Report,Monday-Thursday,CH-US,11.0,11.0,11.0,No,,16.0,54.0,0.2962962962962963
+2023-08-10,Operations Report,Monday-Thursday,EM-LP,1.0,1.0,7.0,No,,16.0,54.0,0.2962962962962963
+2023-08-10,Operations Report,Monday-Thursday,GT-US,1.0,1.0,13.0,No,,16.0,54.0,0.2962962962962963
+2023-08-10,Operations Report,Monday-Thursday,NMS,1.0,1.0,8.0,No,,16.0,54.0,0.2962962962962963
+2023-08-10,Operations Report,Monday-Thursday,RS-DP,1.0,1.0,7.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+
+ 
+
+WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+
+EASTBOUND:
+
+-Normal route to Dupont.",16.0,54.0,0.2962962962962963
+2023-08-10,Operations Report,Monday-Thursday,WP-AM,1.0,1.0,8.0,No,,16.0,54.0,0.2962962962962963
+2023-08-10,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,11.0,,11.0,No,,42.0,54.0,0.7777777777777778
+2023-08-10,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,7.0,,7.0,No,,42.0,54.0,0.7777777777777778
+2023-08-10,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,9.0,,13.0,No,,42.0,54.0,0.7777777777777778
+2023-08-10,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,4.0,,8.0,No,,42.0,54.0,0.7777777777777778
+2023-08-10,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,5.0,,7.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+
+ 
+
+WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+
+EASTBOUND:
+
+-Normal route to Dupont.",42.0,54.0,0.7777777777777778
+2023-08-10,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,6.0,,8.0,No,,42.0,54.0,0.7777777777777778
+2023-08-10,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,43.0,44.0,0.9772727272727273
+2023-08-10,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,43.0,44.0,0.9772727272727273
+2023-08-10,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,11.0,,11.0,No,,43.0,44.0,0.9772727272727273
+2023-08-10,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,43.0,44.0,0.9772727272727273
+2023-08-10,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,7.0,,6.0,No,,43.0,44.0,0.9772727272727273
+2023-08-10,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,43.0,44.0,0.9772727272727273
+2023-08-11,AM Service Delivery (7 AM-9 AM),Friday,CH-US,11.0,,10.0,No,,47.0,47.0,1.0
+2023-08-11,AM Service Delivery (7 AM-9 AM),Friday,EM-LP,6.0,,6.0,No,,47.0,47.0,1.0
+2023-08-11,AM Service Delivery (7 AM-9 AM),Friday,GT-US,11.0,,11.0,No,,47.0,47.0,1.0
+2023-08-11,AM Service Delivery (7 AM-9 AM),Friday,NMS,6.0,,7.0,No,,47.0,47.0,1.0
+2023-08-11,AM Service Delivery (7 AM-9 AM),Friday,RS-DP,6.0,,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",47.0,47.0,1.0
+2023-08-11,AM Service Delivery (7 AM-9 AM),Friday,WP-AM,7.0,,7.0,No,,47.0,47.0,1.0
+2023-08-11,Night Service Delivery (9 PM onwards),Friday,CH-US,8.0,,9.0,No,,45.0,49.0,0.9183673469387755
+2023-08-11,Night Service Delivery (9 PM onwards),Friday,EM-LP,4.0,,6.0,No,,45.0,49.0,0.9183673469387755
+2023-08-11,Night Service Delivery (9 PM onwards),Friday,GT-US,13.0,,13.0,No,,45.0,49.0,0.9183673469387755
+2023-08-11,Night Service Delivery (9 PM onwards),Friday,NMS,6.0,,7.0,No,,45.0,49.0,0.9183673469387755
+2023-08-11,Night Service Delivery (9 PM onwards),Friday,RS-DP,6.0,,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",45.0,49.0,0.9183673469387755
+2023-08-11,Night Service Delivery (9 PM onwards),Friday,WP-AM,8.0,,8.0,No,,45.0,49.0,0.9183673469387755
+2023-08-11,Operations Report,Friday,CH-US,12.0,12.0,12.0,No,,44.0,53.0,0.8301886792452831
+2023-08-11,Operations Report,Friday,EM-LP,5.0,5.0,7.0,No,,44.0,53.0,0.8301886792452831
+2023-08-11,Operations Report,Friday,GT-US,11.0,11.0,13.0,No,,44.0,53.0,0.8301886792452831
+2023-08-11,Operations Report,Friday,NMS,5.0,5.0,8.0,No,,44.0,53.0,0.8301886792452831
+2023-08-11,Operations Report,Friday,RS-DP,6.0,6.0,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",44.0,53.0,0.8301886792452831
+2023-08-11,Operations Report,Friday,WP-AM,5.0,5.0,7.0,No,,44.0,53.0,0.8301886792452831
+2023-08-11,PM Service Delivery (3 PM-5 PM),Friday,CH-US,10.0,,12.0,No,,45.0,53.0,0.8490566037735849
+2023-08-11,PM Service Delivery (3 PM-5 PM),Friday,EM-LP,6.0,,7.0,No,,45.0,53.0,0.8490566037735849
+2023-08-11,PM Service Delivery (3 PM-5 PM),Friday,GT-US,11.0,,13.0,No,,45.0,53.0,0.8490566037735849
+2023-08-11,PM Service Delivery (3 PM-5 PM),Friday,NMS,6.0,,8.0,No,,45.0,53.0,0.8490566037735849
+2023-08-11,PM Service Delivery (3 PM-5 PM),Friday,RS-DP,7.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",45.0,53.0,0.8490566037735849
+2023-08-11,PM Service Delivery (3 PM-5 PM),Friday,WP-AM,5.0,,7.0,No,,45.0,53.0,0.8490566037735849
+2023-08-11,Pull-out AM (6 AM-7 AM),Friday,CH-US,9.0,,10.0,No,,41.0,44.0,0.9318181818181818
+2023-08-11,Pull-out AM (6 AM-7 AM),Friday,EM-LP,6.0,,6.0,No,,41.0,44.0,0.9318181818181818
+2023-08-11,Pull-out AM (6 AM-7 AM),Friday,GT-US,10.0,,11.0,No,,41.0,44.0,0.9318181818181818
+2023-08-11,Pull-out AM (6 AM-7 AM),Friday,NMS,4.0,,4.0,No,,41.0,44.0,0.9318181818181818
+2023-08-11,Pull-out AM (6 AM-7 AM),Friday,RS-DP,5.0,,6.0,No,,41.0,44.0,0.9318181818181818
+2023-08-11,Pull-out AM (6 AM-7 AM),Friday,WP-AM,7.0,,7.0,No,,41.0,44.0,0.9318181818181818
+2023-08-12,AM Service Delivery (7 AM-9 AM),Saturday,CH-US,10.0,,10.0,No,,46.0,45.0,1.0222222222222221
+2023-08-12,AM Service Delivery (7 AM-9 AM),Saturday,EM-LP,6.0,,6.0,No,,46.0,45.0,1.0222222222222221
+2023-08-12,AM Service Delivery (7 AM-9 AM),Saturday,GT-US,11.0,,10.0,No,,46.0,45.0,1.0222222222222221
+2023-08-12,AM Service Delivery (7 AM-9 AM),Saturday,NMS,6.0,,6.0,No,,46.0,45.0,1.0222222222222221
+2023-08-12,AM Service Delivery (7 AM-9 AM),Saturday,RS-DP,6.0,,6.0,No,,46.0,45.0,1.0222222222222221
+2023-08-12,AM Service Delivery (7 AM-9 AM),Saturday,WP-AM,7.0,,7.0,No,,46.0,45.0,1.0222222222222221
+2023-08-12,Night Service Delivery (9 PM onwards),Saturday,CH-US,9.0,,10.0,No,,46.0,47.0,0.9787234042553191
+2023-08-12,Night Service Delivery (9 PM onwards),Saturday,EM-LP,6.0,,6.0,No,,46.0,47.0,0.9787234042553191
+2023-08-12,Night Service Delivery (9 PM onwards),Saturday,GT-US,11.0,,11.0,No,,46.0,47.0,0.9787234042553191
+2023-08-12,Night Service Delivery (9 PM onwards),Saturday,NMS,6.0,,6.0,No,,46.0,47.0,0.9787234042553191
+2023-08-12,Night Service Delivery (9 PM onwards),Saturday,RS-DP,6.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",46.0,47.0,0.9787234042553191
+2023-08-12,Night Service Delivery (9 PM onwards),Saturday,WP-AM,8.0,,8.0,No,,46.0,47.0,0.9787234042553191
+2023-08-12,Operations Report,Saturday,CH-US,10.0,10.0,10.0,No,,44.0,47.0,0.9361702127659575
+2023-08-12,Operations Report,Saturday,EM-LP,6.0,6.0,6.0,No,,44.0,47.0,0.9361702127659575
+2023-08-12,Operations Report,Saturday,GT-US,10.0,10.0,12.0,No,,44.0,47.0,0.9361702127659575
+2023-08-12,Operations Report,Saturday,NMS,6.0,6.0,6.0,No,,44.0,47.0,0.9361702127659575
+2023-08-12,Operations Report,Saturday,RS-DP,6.0,6.0,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",44.0,47.0,0.9361702127659575
+2023-08-12,Operations Report,Saturday,WP-AM,6.0,6.0,7.0,No,,44.0,47.0,0.9361702127659575
+2023-08-12,PM Service Delivery (3 PM-5 PM),Saturday,CH-US,11.0,,10.0,No,,51.0,47.0,1.0851063829787233
+2023-08-12,PM Service Delivery (3 PM-5 PM),Saturday,EM-LP,7.0,,6.0,No,,51.0,47.0,1.0851063829787233
+2023-08-12,PM Service Delivery (3 PM-5 PM),Saturday,GT-US,12.0,,12.0,No,,51.0,47.0,1.0851063829787233
+2023-08-12,PM Service Delivery (3 PM-5 PM),Saturday,NMS,8.0,,6.0,No,,51.0,47.0,1.0851063829787233
+2023-08-12,PM Service Delivery (3 PM-5 PM),Saturday,RS-DP,7.0,,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",51.0,47.0,1.0851063829787233
+2023-08-12,PM Service Delivery (3 PM-5 PM),Saturday,WP-AM,6.0,,7.0,No,,51.0,47.0,1.0851063829787233
+2023-08-12,Pull-out AM (6 AM-7 AM),Saturday,CH-US,8.0,,10.0,No,,41.0,45.0,0.9111111111111111
+2023-08-12,Pull-out AM (6 AM-7 AM),Saturday,EM-LP,6.0,,6.0,No,,41.0,45.0,0.9111111111111111
+2023-08-12,Pull-out AM (6 AM-7 AM),Saturday,GT-US,10.0,,10.0,No,,41.0,45.0,0.9111111111111111
+2023-08-12,Pull-out AM (6 AM-7 AM),Saturday,NMS,4.0,,6.0,No,,41.0,45.0,0.9111111111111111
+2023-08-12,Pull-out AM (6 AM-7 AM),Saturday,RS-DP,6.0,,6.0,No,,41.0,45.0,0.9111111111111111
+2023-08-12,Pull-out AM (6 AM-7 AM),Saturday,WP-AM,7.0,,7.0,No,,41.0,45.0,0.9111111111111111
+2023-08-13,AM Service Delivery (7 AM-9 AM),Sunday,CH-US,10.0,,11.0,No,,41.0,46.0,0.8913043478260869
+2023-08-13,AM Service Delivery (7 AM-9 AM),Sunday,EM-LP,6.0,,6.0,No,,41.0,46.0,0.8913043478260869
+2023-08-13,AM Service Delivery (7 AM-9 AM),Sunday,GT-US,7.0,,10.0,No,,41.0,46.0,0.8913043478260869
+2023-08-13,AM Service Delivery (7 AM-9 AM),Sunday,NMS,5.0,,6.0,No,,41.0,46.0,0.8913043478260869
+2023-08-13,AM Service Delivery (7 AM-9 AM),Sunday,RS-DP,6.0,,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",41.0,46.0,0.8913043478260869
+2023-08-13,AM Service Delivery (7 AM-9 AM),Sunday,WP-AM,7.0,,7.0,No,,41.0,46.0,0.8913043478260869
+2023-08-13,Night Service Delivery (9 PM onwards),Sunday,CH-US,10.0,,10.0,No,,48.0,49.0,0.9795918367346939
+2023-08-13,Night Service Delivery (9 PM onwards),Sunday,EM-LP,6.0,,6.0,No,,48.0,49.0,0.9795918367346939
+2023-08-13,Night Service Delivery (9 PM onwards),Sunday,GT-US,12.0,,13.0,No,,48.0,49.0,0.9795918367346939
+2023-08-13,Night Service Delivery (9 PM onwards),Sunday,NMS,6.0,,6.0,No,,48.0,49.0,0.9795918367346939
+2023-08-13,Night Service Delivery (9 PM onwards),Sunday,RS-DP,6.0,,6.0,Yes,"WESTBOUND
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont",48.0,49.0,0.9795918367346939
+2023-08-13,Night Service Delivery (9 PM onwards),Sunday,WP-AM,8.0,,8.0,No,,48.0,49.0,0.9795918367346939
+2023-08-13,Operations Report,Sunday,CH-US,10.0,10.0,11.0,No,,43.0,50.0,0.86
+2023-08-13,Operations Report,Sunday,EM-LP,6.0,6.0,6.0,No,,43.0,50.0,0.86
+2023-08-13,Operations Report,Sunday,GT-US,10.0,10.0,12.0,No,,43.0,50.0,0.86
+2023-08-13,Operations Report,Sunday,NMS,6.0,6.0,6.0,No,,43.0,50.0,0.86
+2023-08-13,Operations Report,Sunday,RS-DP,6.0,6.0,7.0,Yes,"WESTBOUND
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",43.0,50.0,0.86
+2023-08-13,Operations Report,Sunday,WP-AM,5.0,5.0,8.0,No,,43.0,50.0,0.86
+2023-08-13,PM Service Delivery (3 PM-5 PM),Sunday,CH-US,12.0,,11.0,No,,47.0,50.0,0.94
+2023-08-13,PM Service Delivery (3 PM-5 PM),Sunday,EM-LP,7.0,,6.0,No,,47.0,50.0,0.94
+2023-08-13,PM Service Delivery (3 PM-5 PM),Sunday,GT-US,10.0,,12.0,No,,47.0,50.0,0.94
+2023-08-13,PM Service Delivery (3 PM-5 PM),Sunday,NMS,6.0,,6.0,No,,47.0,50.0,0.94
+2023-08-13,PM Service Delivery (3 PM-5 PM),Sunday,RS-DP,5.0,,7.0,Yes,"WESTBOUND
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",47.0,50.0,0.94
+2023-08-13,PM Service Delivery (3 PM-5 PM),Sunday,WP-AM,7.0,,8.0,No,,47.0,50.0,0.94
+2023-08-13,Pull-out AM (6 AM-7 AM),Sunday,CH-US,10.0,,11.0,No,,43.0,46.0,0.9347826086956522
+2023-08-13,Pull-out AM (6 AM-7 AM),Sunday,EM-LP,6.0,,6.0,No,,43.0,46.0,0.9347826086956522
+2023-08-13,Pull-out AM (6 AM-7 AM),Sunday,GT-US,10.0,,10.0,No,,43.0,46.0,0.9347826086956522
+2023-08-13,Pull-out AM (6 AM-7 AM),Sunday,NMS,4.0,,6.0,No,,43.0,46.0,0.9347826086956522
+2023-08-13,Pull-out AM (6 AM-7 AM),Sunday,RS-DP,6.0,,6.0,No,,43.0,46.0,0.9347826086956522
+2023-08-13,Pull-out AM (6 AM-7 AM),Sunday,WP-AM,7.0,,7.0,No,,43.0,46.0,0.9347826086956522
+2023-08-14,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,10.0,,10.0,No,,45.0,47.0,0.9574468085106383
+2023-08-14,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,45.0,47.0,0.9574468085106383
+2023-08-14,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,10.0,,11.0,No,,45.0,47.0,0.9574468085106383
+2023-08-14,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,7.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-14,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",45.0,47.0,0.9574468085106383
+2023-08-14,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-14,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,9.0,,9.0,No,,45.0,50.0,0.9
+2023-08-14,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,6.0,,6.0,No,,45.0,50.0,0.9
+2023-08-14,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,12.0,,14.0,No,,45.0,50.0,0.9
+2023-08-14,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,6.0,,7.0,No,,45.0,50.0,0.9
+2023-08-14,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont",45.0,50.0,0.9
+2023-08-14,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,6.0,,8.0,No,,45.0,50.0,0.9
+2023-08-14,Operations Report,Monday-Thursday,CH-US,9.0,9.0,11.0,No,,41.0,54.0,0.7592592592592593
+2023-08-14,Operations Report,Monday-Thursday,EM-LP,4.0,4.0,7.0,No,,41.0,54.0,0.7592592592592593
+2023-08-14,Operations Report,Monday-Thursday,GT-US,9.0,9.0,13.0,No,,41.0,54.0,0.7592592592592593
+2023-08-14,Operations Report,Monday-Thursday,NMS,6.0,6.0,8.0,No,,41.0,54.0,0.7592592592592593
+2023-08-14,Operations Report,Monday-Thursday,RS-DP,6.0,6.0,7.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",41.0,54.0,0.7592592592592593
+2023-08-14,Operations Report,Monday-Thursday,WP-AM,7.0,7.0,8.0,No,,41.0,54.0,0.7592592592592593
+2023-08-14,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,10.0,,11.0,No,,45.0,54.0,0.8333333333333334
+2023-08-14,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,45.0,54.0,0.8333333333333334
+2023-08-14,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,10.0,,13.0,No,,45.0,54.0,0.8333333333333334
+2023-08-14,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,7.0,,8.0,No,,45.0,54.0,0.8333333333333334
+2023-08-14,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,6.0,,7.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",45.0,54.0,0.8333333333333334
+2023-08-14,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,7.0,,8.0,No,,45.0,54.0,0.8333333333333334
+2023-08-14,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,43.0,44.0,0.9772727272727273
+2023-08-14,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,43.0,44.0,0.9772727272727273
+2023-08-14,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,11.0,,11.0,No,,43.0,44.0,0.9772727272727273
+2023-08-14,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,43.0,44.0,0.9772727272727273
+2023-08-14,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,43.0,44.0,0.9772727272727273
+2023-08-14,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,43.0,44.0,0.9772727272727273
+2023-08-15,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,7.0,,10.0,No,,36.0,47.0,0.7659574468085106
+2023-08-15,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,36.0,47.0,0.7659574468085106
+2023-08-15,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,7.0,,11.0,No,,36.0,47.0,0.7659574468085106
+2023-08-15,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,6.0,,7.0,No,,36.0,47.0,0.7659574468085106
+2023-08-15,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,5.0,,6.0,Yes,"- Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",36.0,47.0,0.7659574468085106
+2023-08-15,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,36.0,47.0,0.7659574468085106
+2023-08-15,Operations Report,Monday-Thursday,CH-US,7.0,7.0,11.0,No,,41.0,54.0,0.7592592592592593
+2023-08-15,Operations Report,Monday-Thursday,EM-LP,6.0,6.0,7.0,No,,41.0,54.0,0.7592592592592593
+2023-08-15,Operations Report,Monday-Thursday,GT-US,9.0,9.0,13.0,No,,41.0,54.0,0.7592592592592593
+2023-08-15,Operations Report,Monday-Thursday,NMS,6.0,6.0,8.0,No,,41.0,54.0,0.7592592592592593
+2023-08-15,Operations Report,Monday-Thursday,RS-DP,6.0,6.0,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",41.0,54.0,0.7592592592592593
+2023-08-15,Operations Report,Monday-Thursday,WP-AM,7.0,7.0,8.0,No,,41.0,54.0,0.7592592592592593
+2023-08-15,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,7.0,,11.0,No,,39.0,54.0,0.7222222222222222
+2023-08-15,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,39.0,54.0,0.7222222222222222
+2023-08-15,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,8.0,,13.0,No,,39.0,54.0,0.7222222222222222
+2023-08-15,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,6.0,,8.0,No,,39.0,54.0,0.7222222222222222
+2023-08-15,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,7.0,,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",39.0,54.0,0.7222222222222222
+2023-08-15,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,6.0,,8.0,No,,39.0,54.0,0.7222222222222222
+2023-08-15,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,6.0,,10.0,No,,32.0,44.0,0.7272727272727273
+2023-08-15,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,32.0,44.0,0.7272727272727273
+2023-08-15,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,7.0,,11.0,No,,32.0,44.0,0.7272727272727273
+2023-08-15,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,32.0,44.0,0.7272727272727273
+2023-08-15,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,5.0,,6.0,No,,32.0,44.0,0.7272727272727273
+2023-08-15,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,5.0,,7.0,No,,32.0,44.0,0.7272727272727273
+2023-08-16,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,8.0,,10.0,No,,40.0,47.0,0.851063829787234
+2023-08-16,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,40.0,47.0,0.851063829787234
+2023-08-16,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,8.0,,11.0,No,,40.0,47.0,0.851063829787234
+2023-08-16,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,6.0,,7.0,No,,40.0,47.0,0.851063829787234
+2023-08-16,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",40.0,47.0,0.851063829787234
+2023-08-16,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,40.0,47.0,0.851063829787234
+2023-08-16,Operations Report,Monday-Thursday,CH-US,8.0,8.0,11.0,No,,38.0,54.0,0.7037037037037037
+2023-08-16,Operations Report,Monday-Thursday,EM-LP,7.0,7.0,7.0,No,,38.0,54.0,0.7037037037037037
+2023-08-16,Operations Report,Monday-Thursday,GT-US,7.0,7.0,13.0,No,,38.0,54.0,0.7037037037037037
+2023-08-16,Operations Report,Monday-Thursday,NMS,6.0,6.0,8.0,No,,38.0,54.0,0.7037037037037037
+2023-08-16,Operations Report,Monday-Thursday,RS-DP,4.0,4.0,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+EASTBOUND:
+-
+-Normal route to Dupont.",38.0,54.0,0.7037037037037037
+2023-08-16,Operations Report,Monday-Thursday,WP-AM,6.0,6.0,8.0,No,,38.0,54.0,0.7037037037037037
+2023-08-16,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,9.0,,11.0,No,,46.0,54.0,0.8518518518518519
+2023-08-16,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,46.0,54.0,0.8518518518518519
+2023-08-16,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,11.0,,13.0,No,,46.0,54.0,0.8518518518518519
+2023-08-16,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,7.0,,8.0,No,,46.0,54.0,0.8518518518518519
+2023-08-16,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,7.0,,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+EASTBOUND:
+-
+-Normal route to Dupont.",46.0,54.0,0.8518518518518519
+2023-08-16,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,7.0,,8.0,No,,46.0,54.0,0.8518518518518519
+2023-08-16,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,8.0,,10.0,No,,37.0,44.0,0.8409090909090909
+2023-08-16,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,37.0,44.0,0.8409090909090909
+2023-08-16,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,7.0,,11.0,No,,37.0,44.0,0.8409090909090909
+2023-08-16,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,37.0,44.0,0.8409090909090909
+2023-08-16,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,37.0,44.0,0.8409090909090909
+2023-08-16,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,37.0,44.0,0.8409090909090909
+2023-08-17,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,8.0,,10.0,No,,41.0,47.0,0.8723404255319149
+2023-08-17,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,41.0,47.0,0.8723404255319149
+2023-08-17,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,9.0,,11.0,No,,41.0,47.0,0.8723404255319149
+2023-08-17,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,5.0,,7.0,No,,41.0,47.0,0.8723404255319149
+2023-08-17,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"Operators will detour at Rosslyn due to crane operation until further notice. 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",41.0,47.0,0.8723404255319149
+2023-08-17,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,41.0,47.0,0.8723404255319149
+2023-08-17,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,7.0,,9.0,No,,44.0,50.0,0.88
+2023-08-17,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,5.0,,6.0,No,,44.0,50.0,0.88
+2023-08-17,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,13.0,,14.0,No,,44.0,50.0,0.88
+2023-08-17,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,6.0,,7.0,No,,44.0,50.0,0.88
+2023-08-17,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+EASTBOUND:
+-
+
+Normal route to Dupont.",44.0,50.0,0.88
+2023-08-17,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,7.0,,8.0,No,,44.0,50.0,0.88
+2023-08-17,Operations Report,Monday-Thursday,CH-US,8.0,8.0,11.0,No,,39.0,54.0,0.7222222222222222
+2023-08-17,Operations Report,Monday-Thursday,EM-LP,4.0,4.0,7.0,No,,39.0,54.0,0.7222222222222222
+2023-08-17,Operations Report,Monday-Thursday,GT-US,9.0,9.0,13.0,No,,39.0,54.0,0.7222222222222222
+2023-08-17,Operations Report,Monday-Thursday,NMS,5.0,5.0,8.0,No,,39.0,54.0,0.7222222222222222
+2023-08-17,Operations Report,Monday-Thursday,RS-DP,5.0,5.0,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+EASTBOUND:
+-
+
+Normal route to Dupont.",39.0,54.0,0.7222222222222222
+2023-08-17,Operations Report,Monday-Thursday,WP-AM,8.0,8.0,8.0,No,,39.0,54.0,0.7222222222222222
+2023-08-17,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,10.0,,11.0,No,,48.0,54.0,0.8888888888888888
+2023-08-17,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,7.0,,7.0,No,,48.0,54.0,0.8888888888888888
+2023-08-17,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,10.0,,13.0,No,,48.0,54.0,0.8888888888888888
+2023-08-17,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,6.0,,8.0,No,,48.0,54.0,0.8888888888888888
+2023-08-17,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,7.0,,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+EASTBOUND:
+-
+
+Normal route to Dupont.",48.0,54.0,0.8888888888888888
+2023-08-17,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,8.0,,8.0,No,,48.0,54.0,0.8888888888888888
+2023-08-17,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,7.0,,10.0,No,,35.0,44.0,0.7954545454545454
+2023-08-17,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,3.0,,6.0,No,,35.0,44.0,0.7954545454545454
+2023-08-17,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,8.0,,11.0,No,,35.0,44.0,0.7954545454545454
+2023-08-17,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,35.0,44.0,0.7954545454545454
+2023-08-17,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,35.0,44.0,0.7954545454545454
+2023-08-17,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,35.0,44.0,0.7954545454545454
+2023-08-18,AM Service Delivery (7 AM-9 AM),Friday,CH-US,8.0,,10.0,No,,42.0,47.0,0.8936170212765957
+2023-08-18,AM Service Delivery (7 AM-9 AM),Friday,EM-LP,6.0,,6.0,No,,42.0,47.0,0.8936170212765957
+2023-08-18,AM Service Delivery (7 AM-9 AM),Friday,GT-US,8.0,,11.0,No,,42.0,47.0,0.8936170212765957
+2023-08-18,AM Service Delivery (7 AM-9 AM),Friday,NMS,7.0,,7.0,No,,42.0,47.0,0.8936170212765957
+2023-08-18,AM Service Delivery (7 AM-9 AM),Friday,RS-DP,6.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",42.0,47.0,0.8936170212765957
+2023-08-18,AM Service Delivery (7 AM-9 AM),Friday,WP-AM,7.0,,7.0,No,,42.0,47.0,0.8936170212765957
+2023-08-18,Night Service Delivery (9 PM onwards),Friday,CH-US,6.0,,9.0,No,,44.0,49.0,0.8979591836734694
+2023-08-18,Night Service Delivery (9 PM onwards),Friday,EM-LP,6.0,,6.0,No,,44.0,49.0,0.8979591836734694
+2023-08-18,Night Service Delivery (9 PM onwards),Friday,GT-US,13.0,,13.0,No,,44.0,49.0,0.8979591836734694
+2023-08-18,Night Service Delivery (9 PM onwards),Friday,NMS,5.0,,7.0,No,,44.0,49.0,0.8979591836734694
+2023-08-18,Night Service Delivery (9 PM onwards),Friday,RS-DP,6.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+EASTBOUND:
+-
+
+Normal route to Dupont.",44.0,49.0,0.8979591836734694
+2023-08-18,Night Service Delivery (9 PM onwards),Friday,WP-AM,8.0,,8.0,No,,44.0,49.0,0.8979591836734694
+2023-08-18,Operations Report,Friday,CH-US,8.0,8.0,12.0,No,,38.0,53.0,0.7169811320754716
+2023-08-18,Operations Report,Friday,EM-LP,5.0,5.0,7.0,No,,38.0,53.0,0.7169811320754716
+2023-08-18,Operations Report,Friday,GT-US,9.0,9.0,13.0,No,,38.0,53.0,0.7169811320754716
+2023-08-18,Operations Report,Friday,NMS,6.0,6.0,8.0,No,,38.0,53.0,0.7169811320754716
+2023-08-18,Operations Report,Friday,RS-DP,5.0,5.0,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+EASTBOUND:
+-
+
+Normal route to Dupont.",38.0,53.0,0.7169811320754716
+2023-08-18,Operations Report,Friday,WP-AM,5.0,5.0,7.0,No,,38.0,53.0,0.7169811320754716
+2023-08-18,PM Service Delivery (3 PM-5 PM),Friday,CH-US,9.0,,12.0,No,,43.0,53.0,0.8113207547169812
+2023-08-18,PM Service Delivery (3 PM-5 PM),Friday,EM-LP,7.0,,7.0,No,,43.0,53.0,0.8113207547169812
+2023-08-18,PM Service Delivery (3 PM-5 PM),Friday,GT-US,11.0,,13.0,No,,43.0,53.0,0.8113207547169812
+2023-08-18,PM Service Delivery (3 PM-5 PM),Friday,NMS,5.0,,8.0,No,,43.0,53.0,0.8113207547169812
+2023-08-18,PM Service Delivery (3 PM-5 PM),Friday,RS-DP,5.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+EASTBOUND:
+-
+
+Normal route to Dupont.",43.0,53.0,0.8113207547169812
+2023-08-18,PM Service Delivery (3 PM-5 PM),Friday,WP-AM,6.0,,7.0,No,,43.0,53.0,0.8113207547169812
+2023-08-18,Pull-out AM (6 AM-7 AM),Friday,CH-US,6.0,,10.0,No,,34.0,44.0,0.7727272727272727
+2023-08-18,Pull-out AM (6 AM-7 AM),Friday,EM-LP,5.0,,6.0,No,,34.0,44.0,0.7727272727272727
+2023-08-18,Pull-out AM (6 AM-7 AM),Friday,GT-US,7.0,,11.0,No,,34.0,44.0,0.7727272727272727
+2023-08-18,Pull-out AM (6 AM-7 AM),Friday,NMS,4.0,,4.0,No,,34.0,44.0,0.7727272727272727
+2023-08-18,Pull-out AM (6 AM-7 AM),Friday,RS-DP,6.0,,6.0,No,,34.0,44.0,0.7727272727272727
+2023-08-18,Pull-out AM (6 AM-7 AM),Friday,WP-AM,6.0,,7.0,No,,34.0,44.0,0.7727272727272727
+2023-08-19,Night Service Delivery (9 PM onwards),Saturday,CH-US,9.0,,10.0,No,,42.0,47.0,0.8936170212765957
+2023-08-19,Night Service Delivery (9 PM onwards),Saturday,EM-LP,6.0,,6.0,No,,42.0,47.0,0.8936170212765957
+2023-08-19,Night Service Delivery (9 PM onwards),Saturday,GT-US,11.0,,11.0,No,,42.0,47.0,0.8936170212765957
+2023-08-19,Night Service Delivery (9 PM onwards),Saturday,NMS,3.0,,6.0,No,,42.0,47.0,0.8936170212765957
+2023-08-19,Night Service Delivery (9 PM onwards),Saturday,RS-DP,6.0,,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",42.0,47.0,0.8936170212765957
+2023-08-19,Night Service Delivery (9 PM onwards),Saturday,WP-AM,7.0,,8.0,No,,42.0,47.0,0.8936170212765957
+2023-08-19,Operations Report,Saturday,CH-US,8.0,8.0,10.0,No,,34.0,47.0,0.723404255319149
+2023-08-19,Operations Report,Saturday,EM-LP,4.0,4.0,6.0,No,,34.0,47.0,0.723404255319149
+2023-08-19,Operations Report,Saturday,GT-US,8.0,8.0,12.0,No,,34.0,47.0,0.723404255319149
+2023-08-19,Operations Report,Saturday,NMS,4.0,4.0,6.0,No,,34.0,47.0,0.723404255319149
+2023-08-19,Operations Report,Saturday,RS-DP,5.0,5.0,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",34.0,47.0,0.723404255319149
+2023-08-19,Operations Report,Saturday,WP-AM,5.0,5.0,7.0,No,,34.0,47.0,0.723404255319149
+2023-08-19,PM Service Delivery (3 PM-5 PM),Saturday,CH-US,8.0,,10.0,No,,39.0,47.0,0.8297872340425532
+2023-08-19,PM Service Delivery (3 PM-5 PM),Saturday,EM-LP,6.0,,6.0,No,,39.0,47.0,0.8297872340425532
+2023-08-19,PM Service Delivery (3 PM-5 PM),Saturday,GT-US,10.0,,12.0,No,,39.0,47.0,0.8297872340425532
+2023-08-19,PM Service Delivery (3 PM-5 PM),Saturday,NMS,5.0,,6.0,No,,39.0,47.0,0.8297872340425532
+2023-08-19,PM Service Delivery (3 PM-5 PM),Saturday,RS-DP,4.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",39.0,47.0,0.8297872340425532
+2023-08-19,PM Service Delivery (3 PM-5 PM),Saturday,WP-AM,6.0,,7.0,No,,39.0,47.0,0.8297872340425532
+2023-08-19,Pull-out AM (6 AM-7 AM),Saturday,CH-US,7.0,,10.0,No,,34.0,45.0,0.7555555555555555
+2023-08-19,Pull-out AM (6 AM-7 AM),Saturday,EM-LP,5.0,,6.0,No,,34.0,45.0,0.7555555555555555
+2023-08-19,Pull-out AM (6 AM-7 AM),Saturday,GT-US,8.0,,10.0,No,,34.0,45.0,0.7555555555555555
+2023-08-19,Pull-out AM (6 AM-7 AM),Saturday,NMS,3.0,,6.0,No,,34.0,45.0,0.7555555555555555
+2023-08-19,Pull-out AM (6 AM-7 AM),Saturday,RS-DP,6.0,,6.0,No,,34.0,45.0,0.7555555555555555
+2023-08-19,Pull-out AM (6 AM-7 AM),Saturday,WP-AM,5.0,,7.0,No,,34.0,45.0,0.7555555555555555
+2023-08-20,AM Service Delivery (7 AM-9 AM),Sunday,CH-US,9.0,,11.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,AM Service Delivery (7 AM-9 AM),Sunday,EM-LP,5.0,,6.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,AM Service Delivery (7 AM-9 AM),Sunday,GT-US,10.0,,10.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,AM Service Delivery (7 AM-9 AM),Sunday,NMS,5.0,,6.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,AM Service Delivery (7 AM-9 AM),Sunday,RS-DP,6.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",42.0,46.0,0.9130434782608695
+2023-08-20,AM Service Delivery (7 AM-9 AM),Sunday,WP-AM,7.0,,7.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,Night Service Delivery (9 PM onwards),Sunday,CH-US,9.0,,10.0,No,,40.0,49.0,0.8163265306122449
+2023-08-20,Night Service Delivery (9 PM onwards),Sunday,EM-LP,3.0,,6.0,No,,40.0,49.0,0.8163265306122449
+2023-08-20,Night Service Delivery (9 PM onwards),Sunday,GT-US,13.0,,13.0,No,,40.0,49.0,0.8163265306122449
+2023-08-20,Night Service Delivery (9 PM onwards),Sunday,NMS,4.0,,6.0,No,,40.0,49.0,0.8163265306122449
+2023-08-20,Night Service Delivery (9 PM onwards),Sunday,RS-DP,5.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",40.0,49.0,0.8163265306122449
+2023-08-20,Night Service Delivery (9 PM onwards),Sunday,WP-AM,6.0,,8.0,No,,40.0,49.0,0.8163265306122449
+2023-08-20,Operations Report,Sunday,CH-US,10.0,10.0,11.0,No,,39.0,50.0,0.78
+2023-08-20,Operations Report,Sunday,EM-LP,4.0,4.0,6.0,No,,39.0,50.0,0.78
+2023-08-20,Operations Report,Sunday,GT-US,11.0,11.0,12.0,No,,39.0,50.0,0.78
+2023-08-20,Operations Report,Sunday,NMS,4.0,4.0,6.0,No,,39.0,50.0,0.78
+2023-08-20,Operations Report,Sunday,RS-DP,5.0,5.0,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",39.0,50.0,0.78
+2023-08-20,Operations Report,Sunday,WP-AM,5.0,5.0,8.0,No,,39.0,50.0,0.78
+2023-08-20,PM Service Delivery (3 PM-5 PM),Sunday,CH-US,10.0,,11.0,No,,43.0,50.0,0.86
+2023-08-20,PM Service Delivery (3 PM-5 PM),Sunday,EM-LP,5.0,,6.0,No,,43.0,50.0,0.86
+2023-08-20,PM Service Delivery (3 PM-5 PM),Sunday,GT-US,11.0,,12.0,No,,43.0,50.0,0.86
+2023-08-20,PM Service Delivery (3 PM-5 PM),Sunday,NMS,5.0,,6.0,No,,43.0,50.0,0.86
+2023-08-20,PM Service Delivery (3 PM-5 PM),Sunday,RS-DP,6.0,,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",43.0,50.0,0.86
+2023-08-20,PM Service Delivery (3 PM-5 PM),Sunday,WP-AM,6.0,,8.0,No,,43.0,50.0,0.86
+2023-08-20,Pull-out AM (6 AM-7 AM),Sunday,CH-US,9.0,,11.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,Pull-out AM (6 AM-7 AM),Sunday,EM-LP,6.0,,6.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,Pull-out AM (6 AM-7 AM),Sunday,GT-US,10.0,,10.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,Pull-out AM (6 AM-7 AM),Sunday,NMS,4.0,,6.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,Pull-out AM (6 AM-7 AM),Sunday,RS-DP,6.0,,6.0,No,,42.0,46.0,0.9130434782608695
+2023-08-20,Pull-out AM (6 AM-7 AM),Sunday,WP-AM,7.0,,7.0,No,,42.0,46.0,0.9130434782608695
+2023-08-21,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,8.0,,10.0,No,,38.0,47.0,0.8085106382978723
+2023-08-21,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,38.0,47.0,0.8085106382978723
+2023-08-21,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,8.0,,11.0,No,,38.0,47.0,0.8085106382978723
+2023-08-21,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,5.0,,7.0,No,,38.0,47.0,0.8085106382978723
+2023-08-21,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,5.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",38.0,47.0,0.8085106382978723
+2023-08-21,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,38.0,47.0,0.8085106382978723
+2023-08-21,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,8.0,,9.0,No,,44.0,50.0,0.88
+2023-08-21,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,4.0,,6.0,No,,44.0,50.0,0.88
+2023-08-21,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,12.0,,14.0,No,,44.0,50.0,0.88
+2023-08-21,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,6.0,,7.0,No,,44.0,50.0,0.88
+2023-08-21,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+
+-Normal route to Dupont.",44.0,50.0,0.88
+2023-08-21,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,8.0,,8.0,No,,44.0,50.0,0.88
+2023-08-21,Operations Report,Monday-Thursday,CH-US,8.0,8.0,11.0,No,,38.0,54.0,0.7037037037037037
+2023-08-21,Operations Report,Monday-Thursday,EM-LP,5.0,5.0,7.0,No,,38.0,54.0,0.7037037037037037
+2023-08-21,Operations Report,Monday-Thursday,GT-US,9.0,9.0,13.0,No,,38.0,54.0,0.7037037037037037
+2023-08-21,Operations Report,Monday-Thursday,NMS,6.0,6.0,8.0,No,,38.0,54.0,0.7037037037037037
+2023-08-21,Operations Report,Monday-Thursday,RS-DP,4.0,4.0,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",38.0,54.0,0.7037037037037037
+2023-08-21,Operations Report,Monday-Thursday,WP-AM,6.0,6.0,8.0,No,,38.0,54.0,0.7037037037037037
+2023-08-21,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,8.0,,11.0,No,,43.0,54.0,0.7962962962962963
+2023-08-21,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,43.0,54.0,0.7962962962962963
+2023-08-21,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,10.0,,13.0,No,,43.0,54.0,0.7962962962962963
+2023-08-21,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,6.0,,8.0,No,,43.0,54.0,0.7962962962962963
+2023-08-21,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,6.0,,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",43.0,54.0,0.7962962962962963
+2023-08-21,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,8.0,,8.0,No,,43.0,54.0,0.7962962962962963
+2023-08-21,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,8.0,,10.0,No,,39.0,44.0,0.8863636363636364
+2023-08-21,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,39.0,44.0,0.8863636363636364
+2023-08-21,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,11.0,,11.0,No,,39.0,44.0,0.8863636363636364
+2023-08-21,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,39.0,44.0,0.8863636363636364
+2023-08-21,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,5.0,,6.0,No,,39.0,44.0,0.8863636363636364
+2023-08-21,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,39.0,44.0,0.8863636363636364
+2023-08-22,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,10.0,,10.0,No,,45.0,47.0,0.9574468085106383
+2023-08-22,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,45.0,47.0,0.9574468085106383
+2023-08-22,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,10.0,,11.0,No,,45.0,47.0,0.9574468085106383
+2023-08-22,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,6.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-22,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+
+ 
+
+WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",45.0,47.0,0.9574468085106383
+2023-08-22,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-22,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,7.0,,9.0,No,,46.0,50.0,0.92
+2023-08-22,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,5.0,,6.0,No,,46.0,50.0,0.92
+2023-08-22,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,14.0,,14.0,No,,46.0,50.0,0.92
+2023-08-22,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,6.0,,7.0,No,,46.0,50.0,0.92
+2023-08-22,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",46.0,50.0,0.92
+2023-08-22,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,8.0,,8.0,No,,46.0,50.0,0.92
+2023-08-22,Operations Report,Monday-Thursday,CH-US,9.0,9.0,11.0,No,,43.0,54.0,0.7962962962962963
+2023-08-22,Operations Report,Monday-Thursday,EM-LP,5.0,5.0,7.0,No,,43.0,54.0,0.7962962962962963
+2023-08-22,Operations Report,Monday-Thursday,GT-US,11.0,11.0,13.0,No,,43.0,54.0,0.7962962962962963
+2023-08-22,Operations Report,Monday-Thursday,NMS,6.0,6.0,8.0,No,,43.0,54.0,0.7962962962962963
+2023-08-22,Operations Report,Monday-Thursday,RS-DP,7.0,7.0,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",43.0,54.0,0.7962962962962963
+2023-08-22,Operations Report,Monday-Thursday,WP-AM,5.0,5.0,8.0,No,,43.0,54.0,0.7962962962962963
+2023-08-22,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,9.0,,11.0,No,,44.0,54.0,0.8148148148148148
+2023-08-22,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,,7.0,No,,44.0,54.0,0.8148148148148148
+2023-08-22,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,11.0,,13.0,No,,44.0,54.0,0.8148148148148148
+2023-08-22,PM Service Delivery (3 PM-5 PM),Monday-Thursday,NMS,6.0,,8.0,No,,44.0,54.0,0.8148148148148148
+2023-08-22,PM Service Delivery (3 PM-5 PM),Monday-Thursday,RS-DP,6.0,,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",44.0,54.0,0.8148148148148148
+2023-08-22,PM Service Delivery (3 PM-5 PM),Monday-Thursday,WP-AM,7.0,,8.0,No,,44.0,54.0,0.8148148148148148
+2023-08-22,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,43.0,44.0,0.9772727272727273
+2023-08-22,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,,6.0,No,,43.0,44.0,0.9772727272727273
+2023-08-22,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,11.0,,11.0,No,,43.0,44.0,0.9772727272727273
+2023-08-22,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,43.0,44.0,0.9772727272727273
+2023-08-22,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,43.0,44.0,0.9772727272727273
+2023-08-22,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,,7.0,No,,43.0,44.0,0.9772727272727273
+2023-08-23,AM Service Delivery (7 AM-9 AM),Monday-Thursday,CH-US,10.0,,10.0,No,,45.0,47.0,0.9574468085106383
+2023-08-23,AM Service Delivery (7 AM-9 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,45.0,47.0,0.9574468085106383
+2023-08-23,AM Service Delivery (7 AM-9 AM),Monday-Thursday,GT-US,11.0,,11.0,No,,45.0,47.0,0.9574468085106383
+2023-08-23,AM Service Delivery (7 AM-9 AM),Monday-Thursday,NMS,7.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-23,AM Service Delivery (7 AM-9 AM),Monday-Thursday,RS-DP,6.0,,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+
+ 
+
+WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.",45.0,47.0,0.9574468085106383
+2023-08-23,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,45.0,47.0,0.9574468085106383
+2023-08-23,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,,10.0,No,,41.0,44.0,0.9318181818181818
+2023-08-23,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,5.0,,6.0,No,,41.0,44.0,0.9318181818181818
+2023-08-23,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,11.0,,11.0,No,,41.0,44.0,0.9318181818181818
+2023-08-23,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,,4.0,No,,41.0,44.0,0.9318181818181818
+2023-08-23,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,,6.0,No,,41.0,44.0,0.9318181818181818
+2023-08-23,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,6.0,,7.0,No,,41.0,44.0,0.9318181818181818
