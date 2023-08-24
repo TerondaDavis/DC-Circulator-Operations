@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
 import Processing
 import Cleaning
 import pandas as pd
@@ -22,7 +21,6 @@ Missing_Blocks = sheet_manager.fetch_data('3905795481620356')
 Route_Times = sheet_manager.fetch_data('3318406627413892')
 
 Pullout_Delivery_Tracking = Processing.get_latest_entries_pullout_delivery(Pullout_Delivery_Operations)
-
 
 Latest_Entry_Operations = Processing.latest_entry(Operations_Report, 'Service Date ')
 Latest_Entry_Bus_Details = Processing.latest_entry(Bus_Details, 'AM Pull-Out Entry Date')
@@ -172,6 +170,7 @@ Service_Pull = Processing.update_operations_report(Service_Pull,
 Service_Pull['Total Available Vehicles'] = Service_Pull.groupby(['Service Date', 'Report Time'])['Available Vehicles'].transform('sum')
 Service_Pull['Total Required Vehicles'] = Service_Pull.groupby(['Service Date', 'Report Time'])['Buses Required'].transform('sum')
 Service_Pull['Bus Fleet Compliance Rate'] =  Processing.proportion(Service_Pull,'Total Available Vehicles','Total Required Vehicles')      
+Service_Pull = Processing.reformatting_columns(Service_Pull)
 
 Operators_Data = Route_Level_Data_Reshaped[[
 'Service Date',
@@ -216,6 +215,7 @@ Total_Bus_Fleet['Spares %'] = Processing.proportion(Total_Bus_Fleet, 'Spares','T
 Total_Bus_Fleet['Down %'] = Processing.proportion(Total_Bus_Fleet,'Down','Total Bus Fleet')
 Total_Bus_Fleet['Training %'] = Processing.proportion(Total_Bus_Fleet,'Training','Total Bus Fleet')    
 Total_Bus_Fleet['Not in Service %'] = Processing.proportion(Total_Bus_Fleet,'Not in Service','Total Bus Fleet')                                                                                           
+Total_Bus_Fleet = Processing.reformatting_columns(Total_Bus_Fleet)
 
 Low_Charge_Buses = Route_Level_Data_Reshaped[[
  'Service Date',
@@ -227,7 +227,6 @@ Low_Charge_Buses = Route_Level_Data_Reshaped[[
 Low_Charge_Buses['Low Charge Buses %'] = Processing.proportion(Low_Charge_Buses,
                                                     'Proterra Bus Low Charge',
                                                     'Total Proterra Buses') 
-
 
 Chargers_Full_Buses = Route_Level_Data_Reshaped[[
  'Service Date',
@@ -261,7 +260,7 @@ Bus_Details = Processing.delimiting_multiple_down_reasons(Bus_Details, 'AM Pullo
 Bus_Details['Specify Other Reason Here'][Bus_Details['Specify Other Reason Here'].notna()] = Bus_Details['Specify Other Reason Here'][Bus_Details['Specify Other Reason Here'].notna()].apply(Cleaning.capitalize_each_word)
 Bus_Details = Processing.replace_other_with_reason(Bus_Details)
 Bus_Details = Bus_Details.drop('Specify Other Reason Here', axis = 1)
-
+Bus_Details = Processing.reformatting_columns(Bus_Details)
 
 Operations_Report = Operations_Report.rename(columns = {'Service Date ' : 'Service Date'})
 Operations_Report = Operations_Report[Operations_Report['Service Date'].notna()]
@@ -295,7 +294,10 @@ Bus_Details_Combined = pd.merge(Operations_Report_Bus_Details,
 mask = Bus_Details_Combined['Route/Down/NIS'] == Bus_Details_Combined['AM Pull-out Route/Down/NIS']
 Bus_Details_Combined['Bus Status Change'] = 'No' 
 Bus_Details_Combined.loc[mask,'Bus Status Change']='Yes'
-
+Bus_Details_Combined['Down Duration'] = Bus_Details_Combined['Down Duration'].dt.days
+Bus_Details_Combined = Bus_Details_Combined.drop(["Today's Date_x",
+                                                  "Today's Date_y"], axis = 1)
+Bus_Details_Combined = Processing.reformatting_columns(Bus_Details_Combined)
 
 Down_NIS_Buses = Bus_Details_Combined[(Bus_Details_Combined['Route/Down/NIS'] == 'Down') |
                                       (Bus_Details_Combined['Route/Down/NIS'] == 'Not In Service')]
@@ -340,7 +342,7 @@ Missed_Revenue = Missed_Revenue.drop([
  'Roundtrip',
  'Missed Revenue Duration Seconds',
  'Roundtrip Seconds'], axis = 1)
-
+Missed_Revenue = Processing.reformatting_columns(Missed_Revenue)
 
 Missing_Blocks = Missing_Blocks[Missing_Blocks['Route'].notna()]
 Missing_Blocks['Created'] = pd.to_datetime(Missing_Blocks['Created']).dt.tz_localize(None)
@@ -357,10 +359,7 @@ Missing_Blocks['Specify Other Reason Here'][Missing_Blocks['Specify Other Reason
 Missing_Blocks['Reason for Missing Block'] = Missing_Blocks.apply(lambda row: row['Specify Other Reason Here'] if row['Reason for Missing Block'] == 'Other' else row['Reason for Missing Block'],axis=1)
 Missing_Blocks = Missing_Blocks.drop(['Specify Other Reason Here',
                                       'primary (no need)'], axis=1)
-Missing_Blocks = Missing_Blocks[Missing_Blocks['Reason for Missing Block'].notna()]
-Missing_Blocks["Manager's Name"] = Missing_Blocks["Manager's Name"].replace(np.nan, "No name")
-Missing_Blocks["Block 1st"] = Missing_Blocks["Block 1st"].replace(np.nan, 0)
-Missing_Blocks["Block 2nd"] = Missing_Blocks["Block 2nd"].replace(np.nan, 0)
+Missing_Blocks = Processing.reformatting_columns(Missing_Blocks)
 
 dataframes = {
       'Missing_Blocks_Processed New': Missing_Blocks,
@@ -381,35 +380,35 @@ dataframes = {
 Processing.save_dataframes_to_csv(dataframes)
 
 filenames = {
-#  'Missing_Blocks_Processed New': 'Missing_Blocks_Processed New.csv',
-#  'Missed_Revenue_Processed New': 'Missed_Revenue_Processed New.csv',
-#  'Down_NIS_Buses_Processed New': 'Down_NIS_Buses_Processed New.csv',
-#  'Bus_Details_Combined_Processed New': 'Bus_Details_Combined_Processed New.csv',
-# 'Bus_Details_Processed New': 'Bus_Details_Processed New.csv',
-#  'Chargers_Full_Buses_Processed New': 'Chargers_Full_Buses_Processed New.csv',
-#  'Low_Charge_Buses_Processed New': 'Low_Charge_Buses_Processed.csv',
-#  'Total_Bus_Fleet_Processed New': 'Total_Bus_Fleet_Processed New.csv',
-#  'Route_Supervisors_Processed New': 'route_supervisors_Processed New.csv',
+  'Missing_Blocks_Processed New': 'Missing_Blocks_Processed New.csv',
+  'Missed_Revenue_Processed New': 'Missed_Revenue_Processed New.csv',
+  'Down_NIS_Buses_Processed New': 'Down_NIS_Buses_Processed New.csv',
+  'Bus_Details_Combined_Processed New': 'Bus_Details_Combined_Processed New.csv',
+  'Bus_Details_Processed New': 'Bus_Details_Processed New.csv',
+  'Chargers_Full_Buses_Processed New': 'Chargers_Full_Buses_Processed New.csv',
+  'Low_Charge_Buses_Processed New': 'Low_Charge_Buses_Processed.csv',
+  'Total_Bus_Fleet_Processed New': 'Total_Bus_Fleet_Processed New.csv',
+  'Route_Supervisors_Processed New': 'route_supervisors_Processed New.csv',
   'Latest_Entries_Processed New': 'Latest_Entries_Processed New.csv',
-#  'Personnel_Processed New': 'Personnel_Processed New.csv',
-#  'Service_Pull_Processed New': 'Service_Pull_Processed New.csv',
-#  'Operators_Data_Processed New': 'Operators_Data_Processed New.csv'
+  'Personnel_Processed New': 'Personnel_Processed New.csv',
+  'Service_Pull_Processed New': 'Service_Pull_Processed New.csv',
+  'Operators_Data_Processed New': 'Operators_Data_Processed New.csv'
 }
 
 sheet_mapping = {
-#     'Missing_Blocks_Processed New': 1549254149492612,
-#      'Missed_Revenue_Processed New': 7547989874659204,
-#      'Down_NIS_Buses_Processed New': 6066956301979524,
-#      'Bus_Details_Combined_Processed New': 2190241511198596,
-#      'Bus_Details_Processed New': 5786194289840004,
-#      'Chargers_Full_Buses_Processed New': 7299199599071108,
-#      'Low_Charge_Buses_Processed New': 8520018551590788,
-#      'Total_Bus_Fleet_Processed New': 5633817708547972,
-#        'Route_Supervisors_Processed New': 8014999117057924,
-       'Latest_Entries_Processed New': 2729182597435268
-#        'Personnel_Processed New': 5058326450622340,
-#      'Service_Pull_Processed New': 1117212920205188,
-#      'Operators_Data_Processed New': 5450456696311684
+     'Missing_Blocks_Processed New': 1549254149492612,
+     'Missed_Revenue_Processed New': 7547989874659204,
+     'Down_NIS_Buses_Processed New': 6066956301979524,
+     'Bus_Details_Combined_Processed New': 2190241511198596,
+     'Bus_Details_Processed New': 5786194289840004,
+     'Chargers_Full_Buses_Processed New': 7299199599071108,
+     'Low_Charge_Buses_Processed New': 8520018551590788,      
+     'Total_Bus_Fleet_Processed New': 5633817708547972,
+     'Route_Supervisors_Processed New': 8014999117057924,
+     'Latest_Entries_Processed New': 2729182597435268
+     'Personnel_Processed New': 5058326450622340,
+     'Service_Pull_Processed New': 1117212920205188,
+     'Operators_Data_Processed New': 5450456696311684
 }
 
 dataframes = Processing.read_csv_files(filenames)
