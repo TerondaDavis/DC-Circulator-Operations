@@ -33,6 +33,7 @@ Latest_Entries = pd.concat([
 ])
 Latest_Entries['Service Date'] = pd.to_datetime(Latest_Entries['Service Date']).dt.date
 Latest_Entries['Flag Late'] = Latest_Entries.apply(Processing.flag_late, axis=1)
+
 Personnel = Pullout_Delivery_Operations[[ 
  'Created',
  'Service Date',
@@ -105,6 +106,7 @@ Route_Level_Data_Reshaped = pd.merge(Route_Level_Data_Reshaped,
                                           'Report Time'])
 Route_Level_Data_Reshaped = Route_Level_Data_Reshaped.drop('Buses Currently in Service', axis =1)
 Route_Level_Data_Reshaped['Road Supervisors'] = Route_Level_Data_Reshaped['Road Supervisors'].str.replace('"','')
+
 route_supervisors = Route_Level_Data_Reshaped[[
     'Last Modified Time',
     'Service Date',
@@ -145,6 +147,7 @@ Route_Level_Data_Reshaped['Total Bus Fleet'] = 73
 Route_Level_Data_Reshaped['Total Chargers'] = 15
 condition_to_remove = (Route_Level_Data_Reshaped['Service Date'] <= '2023-08-07') & (Route_Level_Data_Reshaped['Report Time'] == 'Operations Report')
 Route_Level_Data_Reshaped = Route_Level_Data_Reshaped[~condition_to_remove]
+
 Service_Pull = Route_Level_Data_Reshaped[[
  'Service Date',
  'Report Time',
