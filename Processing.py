@@ -190,19 +190,30 @@ def save_dataframes_to_csv(dataframes):
         
 def read_csv_files(filenames):
     dataframes = {
-#         'Missing_Blocks_Processed New': pd.read_csv(filenames['Missing_Blocks_Processed New']),
-#         'Missed_Revenue_Processed New': pd.read_csv(filenames['Missed_Revenue_Processed New']),
-#         'Down_NIS_Buses_Processed New': pd.read_csv(filenames['Down_NIS_Buses_Processed New']),
-#         'Bus_Details_Combined_Processed New': pd.read_csv(filenames['Bus_Details_Combined_Processed New']),
-#         'Bus_Details_Processed New': pd.read_csv(filenames['Bus_Details_Processed New']),
-#         'Chargers_Full_Buses_Processed New': pd.read_csv(filenames['Chargers_Full_Buses_Processed New']),
-#         'Low_Charge_Buses_Processed New': pd.read_csv(filenames['Low_Charge_Buses_Processed New']),
-#         'Total_Bus_Fleet_Processed New': pd.read_csv(filenames['Total_Bus_Fleet_Processed New']),
-#         'Route_Supervisors_Processed New': pd.read_csv(filenames['Route_Supervisors_Processed New']),
-        'Latest_Entries_Processed New': pd.read_csv(f"Data/{filenames['Latest_Entries_Processed New']}"),
-#         'Personnel_Processed New': pd.read_csv(filenames['Personnel_Processed New']),
-#         'Service_Pull_Processed New': pd.read_csv(filenames['Service_Pull_Processed New']),
-#         'Operators_Data_Processed New': pd.read_csv(filenames['Operators_Data_Processed New'])
+         'Missing_Blocks_Processed New': pd.read_csv(filenames['Missing_Blocks_Processed New']),
+         'Missed_Revenue_Processed New': pd.read_csv(filenames['Missed_Revenue_Processed New']),
+         'Down_NIS_Buses_Processed New': pd.read_csv(filenames['Down_NIS_Buses_Processed New']),
+         'Bus_Details_Combined_Processed New': pd.read_csv(filenames['Bus_Details_Combined_Processed New']),
+         'Bus_Details_Processed New': pd.read_csv(filenames['Bus_Details_Processed New']),
+         'Chargers_Full_Buses_Processed New': pd.read_csv(filenames['Chargers_Full_Buses_Processed New']),
+         'Low_Charge_Buses_Processed New': pd.read_csv(filenames['Low_Charge_Buses_Processed New']),
+         'Total_Bus_Fleet_Processed New': pd.read_csv(filenames['Total_Bus_Fleet_Processed New']),
+         'Route_Supervisors_Processed New': pd.read_csv(filenames['Route_Supervisors_Processed New']),
+         'Latest_Entries_Processed New': pd.read_csv(f"Data/{filenames['Latest_Entries_Processed New']}"),
+         'Personnel_Processed New': pd.read_csv(filenames['Personnel_Processed New']),
+         'Service_Pull_Processed New': pd.read_csv(filenames['Service_Pull_Processed New']),
+         'Operators_Data_Processed New': pd.read_csv(filenames['Operators_Data_Processed New'])
     }
     return dataframes
+
+def reformatting_columns(df):
+    for col in df.columns:
+        col_dtype = df[col].dtype
+        if np.issubdtype(col_dtype, np.number):
+            df[col].fillna(0, inplace=True)
+        elif col_dtype == 'object':
+            df[col].fillna('Not Specified', inplace=True)
+        elif np.issubdtype(col_dtype, np.datetime64):
+            df[col].fillna('None', inplace=True)
+    return df
 
