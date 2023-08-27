@@ -1255,6 +1255,18 @@ Left on Jefferson Drive continue route to E St.",43.0,45.0,Not Specified
 
 -Normal route to Dupont.",43.0,45.0,Not Specified
 2023-08-26,AM Service Delivery (7 AM-9 AM),Saturday,WP-AM,6.0,0.0,7.0,No,Not Specified,43.0,45.0,Not Specified
+2023-08-26,Night Service Delivery (9 PM onwards),Saturday,CH-US,10.0,0.0,10.0,No,Not Specified,41.0,47.0,Not Specified
+2023-08-26,Night Service Delivery (9 PM onwards),Saturday,EM-LP,4.0,0.0,6.0,No,Not Specified,41.0,47.0,Not Specified
+2023-08-26,Night Service Delivery (9 PM onwards),Saturday,GT-US,11.0,0.0,11.0,No,Not Specified,41.0,47.0,Not Specified
+2023-08-26,Night Service Delivery (9 PM onwards),Saturday,NMS,4.0,0.0,6.0,No,Not Specified,41.0,47.0,Not Specified
+2023-08-26,Night Service Delivery (9 PM onwards),Saturday,RS-DP,6.0,0.0,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",41.0,47.0,Not Specified
+2023-08-26,Night Service Delivery (9 PM onwards),Saturday,WP-AM,6.0,0.0,8.0,No,Not Specified,41.0,47.0,Not Specified
 2023-08-26,PM Service Delivery (3 PM-5 PM),Saturday,CH-US,10.0,0.0,10.0,No,Not Specified,46.0,47.0,Not Specified
 2023-08-26,PM Service Delivery (3 PM-5 PM),Saturday,EM-LP,6.0,0.0,6.0,No,Not Specified,46.0,47.0,Not Specified
 2023-08-26,PM Service Delivery (3 PM-5 PM),Saturday,GT-US,11.0,0.0,12.0,No,Not Specified,46.0,47.0,Not Specified
