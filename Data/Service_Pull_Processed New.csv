@@ -1362,3 +1362,9 @@ EASTBOUND:
 
 -Normal route to Dupont.",37.0,47.0,Not Specified
 2023-08-28,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,7.0,0.0,7.0,No,Not Specified,37.0,47.0,Not Specified
+2023-08-28,Pull-out AM (6 AM-7 AM),Monday-Thursday,CH-US,9.0,0.0,10.0,No,Not Specified,43.0,44.0,Not Specified
+2023-08-28,Pull-out AM (6 AM-7 AM),Monday-Thursday,EM-LP,6.0,0.0,6.0,No,Not Specified,43.0,44.0,Not Specified
+2023-08-28,Pull-out AM (6 AM-7 AM),Monday-Thursday,GT-US,11.0,0.0,11.0,No,Not Specified,43.0,44.0,Not Specified
+2023-08-28,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,0.0,4.0,No,Not Specified,43.0,44.0,Not Specified
+2023-08-28,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,0.0,6.0,No,Not Specified,43.0,44.0,Not Specified
+2023-08-28,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,0.0,7.0,No,Not Specified,43.0,44.0,Not Specified
