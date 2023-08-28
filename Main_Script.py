@@ -235,16 +235,16 @@ Chargers_Full_Buses = Route_Level_Data_Reshaped[[
  'Service Date',
  'Report Time',
  'Service Week',
- 'Proterra 80% to Full Charge',
+# 'Proterra 80% to Full Charge',
  'Proterra Chargers Down',
  'Total Proterra Buses'
 ]][Route_Level_Data_Reshaped['Report Time'] == 'Pull-out AM (6 AM-7 AM)']
 Chargers_Full_Buses['Chargers Down %'] = Processing.proportion(Chargers_Full_Buses,
                                          'Proterra Chargers Down',
                                          'Total Proterra Buses') 
-Chargers_Full_Buses['Full Charge Buses %'] = Processing.proportion(Chargers_Full_Buses,
-                                         'Proterra 80% to Full Charge',
-                                         'Total Proterra Buses') 
+# Chargers_Full_Buses['Full Charge Buses %'] = Processing.proportion(Chargers_Full_Buses,
+#                                          'Proterra 80% to Full Charge',
+#                                          'Total Proterra Buses') 
 
 
 Bus_Details["Today's Date"] = Bus_Details["Today's Date"].apply(Cleaning.convert_timestamp)
