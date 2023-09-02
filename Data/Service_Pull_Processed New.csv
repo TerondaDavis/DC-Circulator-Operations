@@ -1597,6 +1597,31 @@ WESTBOUND-
 2023-09-01,Pull-out AM (6 AM-7 AM),Friday,NMS,4.0,0.0,4.0,No,Not Specified,41.0,44.0,Not Specified
 2023-09-01,Pull-out AM (6 AM-7 AM),Friday,RS-DP,6.0,0.0,6.0,No,Not Specified,41.0,44.0,Not Specified
 2023-09-01,Pull-out AM (6 AM-7 AM),Friday,WP-AM,7.0,0.0,7.0,No,Not Specified,41.0,44.0,Not Specified
+2023-09-02,AM Service Delivery (7 AM-9 AM),Saturday,CH-US,9.0,0.0,10.0,No,Not Specified,38.0,45.0,Not Specified
+2023-09-02,AM Service Delivery (7 AM-9 AM),Saturday,EM-LP,5.0,0.0,6.0,No,Not Specified,38.0,45.0,Not Specified
+2023-09-02,AM Service Delivery (7 AM-9 AM),Saturday,GT-US,10.0,0.0,10.0,No,Not Specified,38.0,45.0,Not Specified
+2023-09-02,AM Service Delivery (7 AM-9 AM),Saturday,NMS,4.0,0.0,6.0,Yes,"NMS:   Chinese Culture Festival
+Stops not serviced:
+Stop #1. E ST. and Columbus Circle NW
+Stop #2. Madison Drive and 4th ST. NW
+Stop #15. 3rd ST. near Madison Drive SW
+WB
+Pick up at stop #3 7th and Madison Dr. NW. regular route to
+
+
+EB
+Regular route to 7th and Jefferson Dr. SW.
+Left on 7th St and Left on 7th and Madison Dr. NW continue service.",38.0,45.0,Not Specified
+2023-09-02,AM Service Delivery (7 AM-9 AM),Saturday,RS-DP,5.0,0.0,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+ 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",38.0,45.0,Not Specified
+2023-09-02,AM Service Delivery (7 AM-9 AM),Saturday,WP-AM,5.0,0.0,7.0,No,Not Specified,38.0,45.0,Not Specified
 2023-09-02,Pull-out AM (6 AM-7 AM),Saturday,CH-US,9.0,0.0,10.0,No,Not Specified,38.0,45.0,Not Specified
 2023-09-02,Pull-out AM (6 AM-7 AM),Saturday,EM-LP,5.0,0.0,6.0,No,Not Specified,38.0,45.0,Not Specified
 2023-09-02,Pull-out AM (6 AM-7 AM),Saturday,GT-US,9.0,0.0,10.0,No,Not Specified,38.0,45.0,Not Specified
