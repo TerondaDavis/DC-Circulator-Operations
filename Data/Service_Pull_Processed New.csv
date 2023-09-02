@@ -1622,6 +1622,28 @@ WESTBOUND-
 
 -Normal route to Dupont.",38.0,45.0,Not Specified
 2023-09-02,AM Service Delivery (7 AM-9 AM),Saturday,WP-AM,5.0,0.0,7.0,No,Not Specified,38.0,45.0,Not Specified
+2023-09-02,PM Service Delivery (3 PM-5 PM),Saturday,CH-US,10.0,0.0,10.0,No,Not Specified,46.0,47.0,Not Specified
+2023-09-02,PM Service Delivery (3 PM-5 PM),Saturday,EM-LP,6.0,0.0,6.0,No,Not Specified,46.0,47.0,Not Specified
+2023-09-02,PM Service Delivery (3 PM-5 PM),Saturday,GT-US,12.0,0.0,12.0,No,Not Specified,46.0,47.0,Not Specified
+2023-09-02,PM Service Delivery (3 PM-5 PM),Saturday,NMS,6.0,0.0,6.0,Yes,"Stops not serviced:
+Stop #1. E ST. and Columbus Circle NW
+Stop #2. Madison Drive and 4th ST. NW
+Stop #15. 3rd ST. near Madison Drive SW
+WB
+Pick up at stop #3 7th and Madison Dr. NW. regular route to
+
+
+EB
+Regular route to 7th and Jefferson Dr. SW.
+Left on 7th St and Left on 7th and Madison Dr. NW continue service.",46.0,47.0,Not Specified
+2023-09-02,PM Service Delivery (3 PM-5 PM),Saturday,RS-DP,6.0,0.0,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",46.0,47.0,Not Specified
+2023-09-02,PM Service Delivery (3 PM-5 PM),Saturday,WP-AM,6.0,0.0,7.0,No,Not Specified,46.0,47.0,Not Specified
 2023-09-02,Pull-out AM (6 AM-7 AM),Saturday,CH-US,9.0,0.0,10.0,No,Not Specified,38.0,45.0,Not Specified
 2023-09-02,Pull-out AM (6 AM-7 AM),Saturday,EM-LP,5.0,0.0,6.0,No,Not Specified,38.0,45.0,Not Specified
 2023-09-02,Pull-out AM (6 AM-7 AM),Saturday,GT-US,9.0,0.0,10.0,No,Not Specified,38.0,45.0,Not Specified
