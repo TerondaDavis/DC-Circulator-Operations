@@ -2180,3 +2180,76 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
 3014.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
 3101.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+1130.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+1131.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+1132.0,2023-09-03,2023-09-03 04:30:18,Down,Awiting Diag.,Not Specified
+1133.0,2023-09-03,2023-09-03 04:30:18,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-09-03,2023-09-03 04:30:18,Down,Transmission Issues,Not Specified
+1135.0,2023-09-03,2023-09-03 04:30:18,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-09-03,2023-09-03 04:30:18,Down,Transmission Issues,Not Specified
+1137.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+1138.0,2023-09-03,2023-09-03 04:30:18,Down,Accident Damage,Not Specified
+1139.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+1140.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+1141.0,2023-09-03,2023-09-03 04:30:18,Down,Overheating,Not Specified
+1142.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+1143.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+2001.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+2002.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2003.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2005.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2006.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2007.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+2008.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+2009.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2011.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2012.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2013.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2014.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2015.0,2023-09-03,2023-09-03 04:30:18,Down,Leak @Surge Tank,Not Specified
+2016.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+2017.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2018.0,2023-09-03,2023-09-03 04:30:18,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2102.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
+2103.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2104.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2105.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2106.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2107.0,2023-09-03,2023-09-03 04:30:18,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-09-03,2023-09-03 04:30:18,Down,Check/Stop System/Engine Lights,Not Specified
+2109.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2110.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+2111.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2112.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
+2113.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+2114.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2115.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2116.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2117.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2118.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2119.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2120.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2121.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
+2122.0,2023-09-03,2023-09-03 04:30:18,Down,Abs Fault,Not Specified
+2123.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2124.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2125.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+2126.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+3001.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3002.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3003.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3004.0,2023-09-03,2023-09-03 04:30:18,Down,Battery,Not Specified
+3005.0,2023-09-03,2023-09-03 04:30:18,Down,Awaiting Service,Not Specified
+3006.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3007.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3008.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+3009.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3010.0,2023-09-03,2023-09-03 04:30:18,Down,Accident Damage,Not Specified
+3011.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3012.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3013.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3014.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3101.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
