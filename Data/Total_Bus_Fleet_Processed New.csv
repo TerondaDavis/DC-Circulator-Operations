@@ -881,6 +881,12 @@ Service Date,Report Time,Route,Service Week,Down,Spares,Training,Not in Service,
 2023-09-03,AM Service Delivery (7 AM-9 AM),NMS,Sunday,21.0,4.0,0.0,0.0,73,0.0547945205479452,0.2876712328767123,0.0,0.0
 2023-09-03,AM Service Delivery (7 AM-9 AM),RS-DP,Sunday,21.0,4.0,0.0,0.0,73,0.0547945205479452,0.2876712328767123,0.0,0.0
 2023-09-03,AM Service Delivery (7 AM-9 AM),WP-AM,Sunday,21.0,4.0,0.0,0.0,73,0.0547945205479452,0.2876712328767123,0.0,0.0
+2023-09-03,Night Service Delivery (9 PM onwards),CH-US,Sunday,22.0,0.0,0.0,0.0,73,0.0,0.3013698630136986,0.0,0.0
+2023-09-03,Night Service Delivery (9 PM onwards),EM-LP,Sunday,22.0,0.0,0.0,0.0,73,0.0,0.3013698630136986,0.0,0.0
+2023-09-03,Night Service Delivery (9 PM onwards),GT-US,Sunday,22.0,0.0,0.0,0.0,73,0.0,0.3013698630136986,0.0,0.0
+2023-09-03,Night Service Delivery (9 PM onwards),NMS,Sunday,22.0,0.0,0.0,0.0,73,0.0,0.3013698630136986,0.0,0.0
+2023-09-03,Night Service Delivery (9 PM onwards),RS-DP,Sunday,22.0,0.0,0.0,0.0,73,0.0,0.3013698630136986,0.0,0.0
+2023-09-03,Night Service Delivery (9 PM onwards),WP-AM,Sunday,22.0,0.0,0.0,0.0,73,0.0,0.3013698630136986,0.0,0.0
 2023-09-03,PM Service Delivery (3 PM-5 PM),CH-US,Sunday,18.0,0.0,0.0,0.0,73,0.0,0.2465753424657534,0.0,0.0
 2023-09-03,PM Service Delivery (3 PM-5 PM),EM-LP,Sunday,18.0,0.0,0.0,0.0,73,0.0,0.2465753424657534,0.0,0.0
 2023-09-03,PM Service Delivery (3 PM-5 PM),GT-US,Sunday,18.0,0.0,0.0,0.0,73,0.0,0.2465753424657534,0.0,0.0
