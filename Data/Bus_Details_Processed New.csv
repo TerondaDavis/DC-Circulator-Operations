@@ -1,4 +1,661 @@
 Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down Bus Reason 1,AM Pullout Down Bus Reason 2
+1130.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+1131.0,2023-09-05,2023-09-05 03:30:12,Down,Awaiting Service,Not Specified
+1132.0,2023-09-05,2023-09-05 03:30:12,Down,Expired Inspection,Not Specified
+1133.0,2023-09-05,2023-09-05 03:30:12,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-09-05,2023-09-05 03:30:12,Down,Transmission Issues,Not Specified
+1135.0,2023-09-05,2023-09-05 03:30:12,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-09-05,2023-09-05 03:30:12,Down,Transmission Issues,Not Specified
+1137.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+1138.0,2023-09-05,2023-09-05 03:30:12,Down,Accident Damage,Not Specified
+1139.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+1140.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
+1141.0,2023-09-05,2023-09-05 03:30:12,Down,Overheating,Not Specified
+1142.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+1143.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+2001.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
+2002.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
+2003.0,2023-09-05,2023-09-05 03:30:12,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
+2005.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+2006.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
+2007.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
+2008.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
+2009.0,2023-09-05,2023-09-05 03:30:12,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
+2011.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+2012.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+2013.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+2014.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
+2015.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
+2016.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
+2017.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+2018.0,2023-09-05,2023-09-05 03:30:12,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
+2102.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
+2103.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
+2104.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
+2105.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
+2106.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
+2107.0,2023-09-05,2023-09-05 03:30:12,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-09-05,2023-09-05 03:30:12,Down,Check/Stop System/Engine Lights,Not Specified
+2109.0,2023-09-05,2023-09-05 03:30:12,NMS,Not Specified,Not Specified
+2110.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
+2111.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+2112.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
+2113.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
+2114.0,2023-09-05,2023-09-05 03:30:12,NMS,Not Specified,Not Specified
+2115.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+2116.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
+2117.0,2023-09-05,2023-09-05 03:30:12,NMS,Not Specified,Not Specified
+2118.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
+2119.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+2120.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+2121.0,2023-09-05,2023-09-05 03:30:12,NMS,Not Specified,Not Specified
+2122.0,2023-09-05,2023-09-05 03:30:12,Down,Abs Fault,Not Specified
+2123.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+2124.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
+2125.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
+2126.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
+3001.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3002.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3003.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3004.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3005.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3006.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3007.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3008.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3009.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
+3010.0,2023-09-05,2023-09-05 03:30:12,Down,Accident Damage,Not Specified
+3011.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3012.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3013.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3014.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+3101.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
+1130.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
+1131.0,2023-09-04,2023-09-04 03:30:09,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-09-04,2023-09-04 03:30:09,Down,Follow Up,Not Specified
+1133.0,2023-09-04,2023-09-04 03:30:09,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-09-04,2023-09-04 03:30:09,Down,Transmission Issues,Not Specified
+1135.0,2023-09-04,2023-09-04 03:30:09,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-09-04,2023-09-04 03:30:09,Down,Transmission Issues,Not Specified
+1137.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
+1138.0,2023-09-04,2023-09-04 03:30:09,Down,Accident Damage,Not Specified
+1139.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+1140.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+1141.0,2023-09-04,2023-09-04 03:30:09,Down,Overheating Engine,Not Specified
+1142.0,2023-09-04,2023-09-04 03:30:09,Down,A/C (HVAC) Issues,Not Specified
+1143.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
+2001.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
+2002.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
+2003.0,2023-09-04,2023-09-04 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
+2005.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+2006.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
+2007.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+2008.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+2009.0,2023-09-04,2023-09-04 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+2011.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
+2012.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
+2013.0,2023-09-04,2023-09-04 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2014.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+2015.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+2016.0,2023-09-04,2023-09-04 03:30:09,Down,Air Leak,Not Specified
+2017.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
+2018.0,2023-09-04,2023-09-04 03:30:09,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
+2102.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+2103.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+2104.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
+2105.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
+2106.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
+2107.0,2023-09-04,2023-09-04 03:30:09,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-09-04,2023-09-04 03:30:09,Down,Check/Stop System/Engine Lights,Not Specified
+2109.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
+2110.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+2111.0,2023-09-04,2023-09-04 03:30:09,NMS,Not Specified,Not Specified
+2112.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+2113.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
+2114.0,2023-09-04,2023-09-04 03:30:09,NMS,Not Specified,Not Specified
+2115.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
+2116.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
+2117.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+2118.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
+2119.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
+2120.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
+2121.0,2023-09-04,2023-09-04 03:30:09,NMS,Not Specified,Not Specified
+2122.0,2023-09-04,2023-09-04 03:30:09,Down,Abs Fault,Not Specified
+2123.0,2023-09-04,2023-09-04 03:30:09,NMS,Not Specified,Not Specified
+2124.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
+2125.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
+2126.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
+3001.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3002.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3003.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3004.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3005.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3006.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3007.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3008.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3009.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
+3010.0,2023-09-04,2023-09-04 03:30:09,Down,Accident Damage,Not Specified
+3011.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3012.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3013.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+3014.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
+3101.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
+1130.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+1131.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+1132.0,2023-09-03,2023-09-03 04:30:18,Down,Awiting Diag.,Not Specified
+1133.0,2023-09-03,2023-09-03 04:30:18,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-09-03,2023-09-03 04:30:18,Down,Transmission Issues,Not Specified
+1135.0,2023-09-03,2023-09-03 04:30:18,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-09-03,2023-09-03 04:30:18,Down,Transmission Issues,Not Specified
+1137.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+1138.0,2023-09-03,2023-09-03 04:30:18,Down,Accident Damage,Not Specified
+1139.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+1140.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+1141.0,2023-09-03,2023-09-03 04:30:18,Down,Overheating,Not Specified
+1142.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+1143.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+2001.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+2002.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2003.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2005.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2006.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2007.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+2008.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+2009.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2011.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2012.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2013.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2014.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2015.0,2023-09-03,2023-09-03 04:30:18,Down,Leak @Surge Tank,Not Specified
+2016.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
+2017.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2018.0,2023-09-03,2023-09-03 04:30:18,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2102.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
+2103.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2104.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2105.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2106.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2107.0,2023-09-03,2023-09-03 04:30:18,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-09-03,2023-09-03 04:30:18,Down,Check/Stop System/Engine Lights,Not Specified
+2109.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2110.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+2111.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2112.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
+2113.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+2114.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
+2115.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2116.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2117.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2118.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2119.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2120.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
+2121.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
+2122.0,2023-09-03,2023-09-03 04:30:18,Down,Abs Fault,Not Specified
+2123.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
+2124.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+2125.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+2126.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+3001.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3002.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3003.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3004.0,2023-09-03,2023-09-03 04:30:18,Down,Battery,Not Specified
+3005.0,2023-09-03,2023-09-03 04:30:18,Down,Awaiting Service,Not Specified
+3006.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3007.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3008.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
+3009.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3010.0,2023-09-03,2023-09-03 04:30:18,Down,Accident Damage,Not Specified
+3011.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3012.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3013.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3014.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+3101.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
+1130.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
+1131.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+1132.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+1133.0,2023-09-02,2023-09-02 04:30:13,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-09-02,2023-09-02 04:30:13,Down,Transmission Issues,Not Specified
+1135.0,2023-09-02,2023-09-02 04:30:13,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-09-02,2023-09-02 04:30:13,Down,Transmission Issues,Not Specified
+1137.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
+1138.0,2023-09-02,2023-09-02 04:30:13,Down,Accident Damage,Not Specified
+1139.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+1140.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+1141.0,2023-09-02,2023-09-02 04:30:13,Down,Overheating Engine,Not Specified
+1142.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+1143.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
+2001.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+2002.0,2023-09-02,2023-09-02 04:30:13,NMS,Not Specified,Not Specified
+2003.0,2023-09-02,2023-09-02 04:30:13,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
+2005.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
+2006.0,2023-09-02,2023-09-02 04:30:13,Down,A/C (HVAC) Issues,Not Specified
+2007.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
+2008.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
+2009.0,2023-09-02,2023-09-02 04:30:13,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+2011.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+2012.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+2013.0,2023-09-02,2023-09-02 04:30:13,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2014.0,2023-09-02,2023-09-02 04:30:13,NMS,Not Specified,Not Specified
+2015.0,2023-09-02,2023-09-02 04:30:13,Down,Leak @ Surge Tank,Not Specified
+2016.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+2017.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+2018.0,2023-09-02,2023-09-02 04:30:13,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+2102.0,2023-09-02,2023-09-02 04:30:13,NMS,Not Specified,Not Specified
+2103.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+2104.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
+2105.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
+2106.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
+2107.0,2023-09-02,2023-09-02 04:30:13,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-09-02,2023-09-02 04:30:13,Down,Check/Stop System/Engine Lights,Not Specified
+2109.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+2110.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+2111.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+2112.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+2113.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+2114.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+2115.0,2023-09-02,2023-09-02 04:30:13,Down,Follow Up,Not Specified
+2116.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
+2117.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
+2118.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
+2119.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
+2120.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
+2121.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
+2122.0,2023-09-02,2023-09-02 04:30:13,Down,Abs Fault,Not Specified
+2123.0,2023-09-02,2023-09-02 04:30:13,Down,"""B"" Defects",Not Specified
+2124.0,2023-09-02,2023-09-02 04:30:13,Down,Wheelchair Ramp,Not Specified
+2125.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
+2126.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
+3001.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3002.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3003.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3004.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3005.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3006.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3007.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3008.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
+3009.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3010.0,2023-09-02,2023-09-02 04:30:13,Down,Accident Damage,Not Specified
+3011.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3012.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3013.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3014.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+3101.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
+1130.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+1131.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
+1132.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+1133.0,2023-09-01,2023-09-01 03:50:12,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-09-01,2023-09-01 03:50:12,Down,Transmission Issues,Not Specified
+1135.0,2023-09-01,2023-09-01 03:50:12,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-09-01,2023-09-01 03:50:12,Down,Transmission Issues,Not Specified
+1137.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
+1138.0,2023-09-01,2023-09-01 03:50:12,Down,Accident Damage,Not Specified
+1139.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
+1140.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+1141.0,2023-09-01,2023-09-01 03:50:12,Down,Overheating Engine,Not Specified
+1142.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
+1143.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+2001.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
+2002.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2003.0,2023-09-01,2023-09-01 03:50:12,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2005.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
+2006.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2007.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
+2008.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+2009.0,2023-09-01,2023-09-01 03:50:12,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
+2011.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
+2012.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
+2013.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2014.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
+2015.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
+2016.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2017.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
+2018.0,2023-09-01,2023-09-01 03:50:12,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
+2102.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
+2103.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+2104.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
+2105.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2106.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
+2107.0,2023-09-01,2023-09-01 03:50:12,Down,Fire Suppression System/Discharge/No Start, Ignition Issues/No Start
+2108.0,2023-09-01,2023-09-01 03:50:12,Down,Transmission Issues,Not Specified
+2109.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+2110.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2111.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
+2112.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
+2113.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+2114.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2115.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+2116.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
+2117.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
+2118.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
+2119.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+2120.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
+2121.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
+2122.0,2023-09-01,2023-09-01 03:50:12,Down,Follow Up,Not Specified
+2123.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2124.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+2125.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+2126.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3001.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3002.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3003.0,2023-09-01,2023-09-01 03:50:12,Down,HV Light On,Not Specified
+3004.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
+3005.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
+3006.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3007.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3008.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3009.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3010.0,2023-09-01,2023-09-01 03:50:12,Down,Accident Damage,Not Specified
+3011.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
+3012.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3013.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3014.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
+3101.0,2023-09-01,2023-09-01 03:50:12,Training,Not Specified,Not Specified
+1130.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+1131.0,2023-08-31,2023-08-31 03:22:00,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
+1133.0,2023-08-31,2023-08-31 03:22:00,Down,Ac Compressor Noise,Not Specified
+1134.0,2023-08-31,2023-08-31 03:22:00,Down,Transmission Issues,Not Specified
+1135.0,2023-08-31,2023-08-31 03:22:00,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-08-31,2023-08-31 03:22:00,Down,Transmission Issues,Not Specified
+1137.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+1138.0,2023-08-31,2023-08-31 03:22:00,Down,Accident Damage,Not Specified
+1139.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+1140.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
+1141.0,2023-08-31,2023-08-31 03:22:00,Down,Overheating Engine,Not Specified
+1142.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
+1143.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+2001.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
+2002.0,2023-08-31,2023-08-31 03:22:00,NMS,Not Specified,Not Specified
+2003.0,2023-08-31,2023-08-31 03:22:00,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+2005.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
+2006.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
+2007.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
+2008.0,2023-08-31,2023-08-31 03:22:00,NMS,Not Specified,Not Specified
+2009.0,2023-08-31,2023-08-31 03:22:00,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+2011.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+2012.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+2013.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+2014.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
+2015.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+2016.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+2017.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+2018.0,2023-08-31,2023-08-31 03:22:00,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
+2102.0,2023-08-31,2023-08-31 03:22:00,NMS,Not Specified,Not Specified
+2103.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
+2104.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+2105.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
+2106.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+2107.0,2023-08-31,2023-08-31 03:22:00,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-08-31,2023-08-31 03:22:00,Down,Transmission Issues,Not Specified
+2109.0,2023-08-31,2023-08-31 03:22:00,Down,S/S Mirror & Window,Not Specified
+2110.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
+2111.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
+2112.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+2113.0,2023-08-31,2023-08-31 03:22:00,NMS,Not Specified,Not Specified
+2114.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
+2115.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+2116.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
+2117.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+2118.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+2119.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
+2120.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+2121.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+2122.0,2023-08-31,2023-08-31 03:22:00,Down,Follow Up,Not Specified
+2123.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+2124.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
+2125.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
+2126.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+3001.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3002.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3003.0,2023-08-31,2023-08-31 03:22:00,Down,HV Light On,Not Specified
+3004.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
+3005.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3006.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3007.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3008.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3009.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3010.0,2023-08-31,2023-08-31 03:22:00,Down,Accident Damage,Not Specified
+3011.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3012.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
+3013.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3014.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
+3101.0,2023-08-31,2023-08-31 03:22:00,Training,Not Specified,Not Specified
+1130.0,2023-08-30,2023-08-30 03:30:09,Down,A/C (HVAC) Issues,Not Specified
+1131.0,2023-08-30,2023-08-30 03:30:09,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
+1133.0,2023-08-30,2023-08-30 03:30:09,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-08-30,2023-08-30 03:30:09,Down,Transmission Issues,Not Specified
+1135.0,2023-08-30,2023-08-30 03:30:09,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-08-30,2023-08-30 03:30:09,Down,Transmission Issues,Not Specified
+1137.0,2023-08-30,2023-08-30 03:30:09,Down,Rear Bellow Leak,Not Specified
+1138.0,2023-08-30,2023-08-30 03:30:09,Down,Accident Damage,Not Specified
+1139.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+1140.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+1141.0,2023-08-30,2023-08-30 03:30:09,Down,Overheating Engine,Not Specified
+1142.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
+1143.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
+2001.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+2002.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
+2003.0,2023-08-30,2023-08-30 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+2005.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
+2006.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
+2007.0,2023-08-30,2023-08-30 03:30:09,Down,Leaning Hard To The Left,Not Specified
+2008.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
+2009.0,2023-08-30,2023-08-30 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+2011.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
+2012.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
+2013.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
+2014.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
+2015.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+2016.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
+2017.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
+2018.0,2023-08-30,2023-08-30 03:30:09,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+2102.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
+2103.0,2023-08-30,2023-08-30 03:30:09,NMS,Not Specified,Not Specified
+2104.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
+2105.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+2106.0,2023-08-30,2023-08-30 03:30:09,NMS,Not Specified,Not Specified
+2107.0,2023-08-30,2023-08-30 03:30:09,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-08-30,2023-08-30 03:30:09,Down,Check/Stop System/Engine Lights,Not Specified
+2109.0,2023-08-30,2023-08-30 03:30:09,Down,S/S Mirror & Window,Not Specified
+2110.0,2023-08-30,2023-08-30 03:30:09,NMS,Not Specified,Not Specified
+2111.0,2023-08-30,2023-08-30 03:30:09,NMS,Not Specified,Not Specified
+2112.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
+2113.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
+2114.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
+2115.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
+2116.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
+2117.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
+2118.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+2119.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+2120.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
+2121.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+2122.0,2023-08-30,2023-08-30 03:30:09,Down,Follow Up,Not Specified
+2123.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+2124.0,2023-08-30,2023-08-30 03:30:09,Down,Windshield Cracked,Not Specified
+2125.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
+2126.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
+3001.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3002.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3003.0,2023-08-30,2023-08-30 03:30:09,Down,HV Light On,Not Specified
+3004.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
+3005.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3006.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
+3007.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3008.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3009.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3010.0,2023-08-30,2023-08-30 03:30:09,Down,Accident Damage,Not Specified
+3011.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3012.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3013.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3014.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+3101.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
+1130.0,2023-08-29,2023-08-29 03:30:08,Down,A/C (HVAC) Issues,Not Specified
+1131.0,2023-08-29,2023-08-29 03:30:08,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+1133.0,2023-08-29,2023-08-29 03:30:08,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-08-29,2023-08-29 03:30:08,Down,Transmission Issues,Not Specified
+1135.0,2023-08-29,2023-08-29 03:30:08,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-08-29,2023-08-29 03:30:08,Down,Transmission Issues,Not Specified
+1137.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
+1138.0,2023-08-29,2023-08-29 03:30:08,Down,Accident Damage,Not Specified
+1139.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+1140.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
+1141.0,2023-08-29,2023-08-29 03:30:08,Down,Overheating Engine,Not Specified
+1142.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+1143.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
+2001.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+2002.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
+2003.0,2023-08-29,2023-08-29 03:30:08,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
+2005.0,2023-08-29,2023-08-29 03:30:08,NMS,Not Specified,Not Specified
+2006.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+2007.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
+2008.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
+2009.0,2023-08-29,2023-08-29 03:30:08,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2010.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+2011.0,2023-08-29,2023-08-29 03:30:08,NMS,Not Specified,Not Specified
+2012.0,2023-08-29,2023-08-29 03:30:08,Down,Follow Up,Not Specified
+2013.0,2023-08-29,2023-08-29 03:30:08,Down,Door-Glass Cracked,Not Specified
+2014.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+2015.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
+2016.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+2017.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
+2018.0,2023-08-29,2023-08-29 03:30:08,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+2102.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+2103.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
+2104.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+2105.0,2023-08-29,2023-08-29 03:30:08,NMS,Not Specified,Not Specified
+2106.0,2023-08-29,2023-08-29 03:30:08,Down,Infestation,Not Specified
+2107.0,2023-08-29,2023-08-29 03:30:08,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-08-29,2023-08-29 03:30:08,Down,Check/Stop System/Engine Lights,Not Specified
+2109.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+2110.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+2111.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
+2112.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
+2113.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+2114.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+2115.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+2116.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+2117.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+2118.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
+2119.0,2023-08-29,2023-08-29 03:30:08,NMS,Not Specified,Not Specified
+2120.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
+2121.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
+2122.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
+2123.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+2124.0,2023-08-29,2023-08-29 03:30:08,Down,Windshield Cracked,Not Specified
+2125.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+2126.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
+3001.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
+3002.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3003.0,2023-08-29,2023-08-29 03:30:08,Down,Air Compressor Install,Not Specified
+3004.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3005.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3006.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3007.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3008.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3009.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3010.0,2023-08-29,2023-08-29 03:30:08,Down,Accident Damage,Not Specified
+3011.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
+3012.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
+3013.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3014.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+3101.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
+1130.0,2023-08-28,2023-08-28 07:12:35,Down,A/C (HVAC) Issues,Not Specified
+1131.0,2023-08-28,2023-08-28 07:12:35,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+1133.0,2023-08-28,2023-08-28 07:12:35,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-08-28,2023-08-28 07:12:35,Down,Transmission Issues,Not Specified
+1135.0,2023-08-28,2023-08-28 07:12:35,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-08-28,2023-08-28 07:12:35,Down,Transmission Issues,Not Specified
+1137.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
+1138.0,2023-08-28,2023-08-28 07:12:35,Down,Accident Damage,Not Specified
+1139.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
+1140.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
+1141.0,2023-08-28,2023-08-28 07:12:35,Down,Overheating Engine,Not Specified
+1142.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+1143.0,2023-08-28,2023-08-28 07:12:35,Down,A or B Defects,Not Specified
+2001.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
+2002.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+2003.0,2023-08-28,2023-08-28 07:12:35,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2004.0,2023-08-28,2023-08-28 07:12:35,NMS,Not Specified,Not Specified
+2005.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+2006.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
+2007.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
+2008.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
+2009.0,2023-08-28,2023-08-28 07:12:35,Down,Doesn'T Move,Not Specified
+2010.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
+2011.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
+2012.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
+2013.0,2023-08-28,2023-08-28 07:12:35,Down,Door Glass Cracked,Not Specified
+2014.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
+2015.0,2023-08-28,2023-08-28 07:12:35,NMS,Not Specified,Not Specified
+2016.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
+2017.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
+2018.0,2023-08-28,2023-08-28 07:12:35,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2101.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
+2102.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
+2103.0,2023-08-28,2023-08-28 07:12:35,NMS,Not Specified,Not Specified
+2104.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
+2105.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
+2106.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+2107.0,2023-08-28,2023-08-28 07:12:35,Down,Ignition Issues/No Start,Not Specified
+2108.0,2023-08-28,2023-08-28 07:12:35,Down,Check Trans. Light Active,Not Specified
+2109.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
+2110.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
+2111.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
+2112.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
+2113.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
+2114.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
+2115.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
+2116.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
+2117.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
+2118.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
+2119.0,2023-08-28,2023-08-28 07:12:35,NMS,Not Specified,Not Specified
+2120.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+2121.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
+2122.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
+2123.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
+2124.0,2023-08-28,2023-08-28 07:12:35,Down,Windshield Cracked,Not Specified
+2125.0,2023-08-28,2023-08-28 07:12:35,Down,Follow Up,Not Specified
+2126.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
+3001.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3002.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3003.0,2023-08-28,2023-08-28 07:12:35,Spare,Air Compressor Install,Not Specified
+3004.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3005.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3006.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3007.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
+3008.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
+3009.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3010.0,2023-08-28,2023-08-28 07:12:35,Down,Accident Damage,Not Specified
+3011.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3012.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3013.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
+3014.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
+3101.0,2023-08-28,2023-08-28 07:12:35,Training,Not Specified,Not Specified
 1130.0,2023-08-27,2023-08-27 04:36:24,Down,A/C (HVAC) Issues,Not Specified
 1131.0,2023-08-27,2023-08-27 04:36:24,Down,A/C (HVAC) Issues,Not Specified
 1132.0,2023-08-27,2023-08-27 04:36:24,GT-US,Not Specified,Not Specified
@@ -899,6 +1556,196 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3003.0,2023-08-13,2023-08-15 08:04:36,Down,Mechanical, Other
 3009.0,2023-08-13,2023-08-15 08:04:36,Down,DC/DC#2,Not Specified
 3010.0,2023-08-13,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1130.0,2023-08-11,2023-08-15 08:04:36,Down,Ready to Pick Up,Not Specified
+1131.0,2023-08-11,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1134.0,2023-08-11,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1135.0,2023-08-11,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-08-11,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1140.0,2023-08-11,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+1141.0,2023-08-11,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-08-11,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-08-11,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2009.0,2023-08-11,2023-08-15 08:04:36,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2014.0,2023-08-11,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+2018.0,2023-08-11,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2107.0,2023-08-11,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-08-11,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+2115.0,2023-08-11,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+3009.0,2023-08-11,2023-08-15 08:04:36,Down,HV Light On,Not Specified
+3010.0,2023-08-11,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1131.0,2023-08-10,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-10,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+1134.0,2023-08-10,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1135.0,2023-08-10,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-08-10,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1140.0,2023-08-10,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+1141.0,2023-08-10,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-08-10,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-08-10,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2009.0,2023-08-10,2023-08-15 08:04:36,Down,Not Specified,Not Specified
+2018.0,2023-08-10,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2107.0,2023-08-10,2023-08-15 08:04:36,Down,Awaiting Diag.,Not Specified
+2108.0,2023-08-10,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+2115.0,2023-08-10,2023-08-15 08:04:36,Down,Bodyshop/Vendor,Not Specified
+2126.0,2023-08-10,2023-08-15 08:04:36,Down,Progress,Not Specified
+3009.0,2023-08-10,2023-08-15 08:04:36,Down,Awaiting Proterra,Not Specified
+3010.0,2023-08-10,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1130.0,2023-08-09,2023-08-15 08:04:36,Down,Ready to Pick Up,Not Specified
+1131.0,2023-08-09,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-09,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+1134.0,2023-08-09,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1135.0,2023-08-09,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-08-09,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1137.0,2023-08-09,2023-08-15 08:04:36,Down,Need Injectors,Not Specified
+1140.0,2023-08-09,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+1141.0,2023-08-09,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-08-09,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-08-09,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2003.0,2023-08-09,2023-08-15 08:04:36,Down,Check/Stop System/Engine Lights,Not Specified
+2009.0,2023-08-09,2023-08-15 08:04:36,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
+2014.0,2023-08-09,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+2107.0,2023-08-09,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,Not Specified
+2108.0,2023-08-09,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+2115.0,2023-08-09,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+2126.0,2023-08-09,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+3009.0,2023-08-09,2023-08-15 08:04:36,Down,HV Light On,Not Specified
+3010.0,2023-08-09,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1130.0,2023-08-03,2023-08-15 08:04:36,Down,Power Issues,Not Specified
+1131.0,2023-08-03,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-03,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
+1135.0,2023-08-03,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
+1136.0,2023-08-03,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1137.0,2023-08-03,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+1141.0,2023-08-03,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-08-03,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-08-03,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2003.0,2023-08-03,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2010.0,2023-08-03,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
+2103.0,2023-08-03,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+2107.0,2023-08-03,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
+2108.0,2023-08-03,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+2117.0,2023-08-03,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+3006.0,2023-08-03,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+3009.0,2023-08-03,2023-08-15 08:04:36,Down,Electrical Issues,Not Specified
+3010.0,2023-08-03,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+3012.0,2023-08-03,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+1130.0,2023-08-02,2023-08-15 08:04:36,Down,Power Issues,Not Specified
+1131.0,2023-08-02,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-02,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+1135.0,2023-08-02,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+1136.0,2023-08-02,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1137.0,2023-08-02,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
+1141.0,2023-08-02,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-08-02,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-08-02,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2003.0,2023-08-02,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2010.0,2023-08-02,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
+2103.0,2023-08-02,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+2107.0,2023-08-02,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
+2108.0,2023-08-02,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2117.0,2023-08-02,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+2123.0,2023-08-02,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+3005.0,2023-08-02,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+3006.0,2023-08-02,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+3009.0,2023-08-02,2023-08-15 08:04:36,Down,HV Light On,Not Specified
+3010.0,2023-08-02,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+3012.0,2023-08-02,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+1130.0,2023-08-01,2023-08-15 08:04:36,Down,Power Issues,Not Specified
+1131.0,2023-08-01,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-08-01,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+1135.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+1136.0,2023-08-01,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1137.0,2023-08-01,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
+1141.0,2023-08-01,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-08-01,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-08-01,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2003.0,2023-08-01,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2010.0,2023-08-01,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
+2102.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+2107.0,2023-08-01,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
+2108.0,2023-08-01,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2117.0,2023-08-01,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+2123.0,2023-08-01,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+3005.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+3006.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+3009.0,2023-08-01,2023-08-15 08:04:36,Down,HV Light On,Not Specified
+3010.0,2023-08-01,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+3012.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+1130.0,2023-07-31,2023-08-15 08:04:36,Down,Power Issues,Not Specified
+1131.0,2023-07-31,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-07-31,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+1135.0,2023-07-31,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+1136.0,2023-07-31,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1137.0,2023-07-31,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
+1141.0,2023-07-31,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-07-31,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-07-31,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2002.0,2023-07-31,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+2003.0,2023-07-31,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2010.0,2023-07-31,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
+2102.0,2023-07-31,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+2107.0,2023-07-31,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
+2108.0,2023-07-31,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2111.0,2023-07-31,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
+2117.0,2023-07-31,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+3006.0,2023-07-31,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+3009.0,2023-07-31,2023-08-15 08:04:36,Down,HV Light On,Not Specified
+3010.0,2023-07-31,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1130.0,2023-07-30,2023-08-15 08:04:36,Down,Power Issues,Not Specified
+1131.0,2023-07-30,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-07-30,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+1135.0,2023-07-30,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+1136.0,2023-07-30,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1137.0,2023-07-30,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
+1141.0,2023-07-30,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-07-30,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-07-30,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2002.0,2023-07-30,2023-08-15 08:04:36,Down,Pm Due,Not Specified
+2003.0,2023-07-30,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2010.0,2023-07-30,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
+2102.0,2023-07-30,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+2107.0,2023-07-30,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
+2108.0,2023-07-30,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2117.0,2023-07-30,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+2124.0,2023-07-30,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+3006.0,2023-07-30,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+3009.0,2023-07-30,2023-08-15 08:04:36,Down,HV Light On,Not Specified
+3010.0,2023-07-30,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1130.0,2023-07-29,2023-08-15 08:04:36,Down,Power Issues,Not Specified
+1131.0,2023-07-29,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1132.0,2023-07-29,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
+1135.0,2023-07-29,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
+1137.0,2023-07-29,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1141.0,2023-07-29,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
+1142.0,2023-07-29,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1143.0,2023-07-29,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+2003.0,2023-07-29,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2010.0,2023-07-29,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2017.0,2023-07-29,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
+2102.0,2023-07-29,2023-08-15 08:04:36,Down,Towed/Bae Issue,Not Specified
+2107.0,2023-07-29,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+2108.0,2023-07-29,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
+2116.0,2023-07-29,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2117.0,2023-07-29,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+2124.0,2023-07-29,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+3006.0,2023-07-29,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+3009.0,2023-07-29,2023-08-15 08:04:36,Down,HV Light On,Not Specified
+3010.0,2023-07-29,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1130.0,2023-07-28,2023-08-15 08:04:36,Down,Ready to Pick Up,Not Specified
+1131.0,2023-07-28,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
+1135.0,2023-07-28,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
+1136.0,2023-07-28,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
+1137.0,2023-07-28,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+1141.0,2023-07-28,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
+1142.0,2023-07-28,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
+1143.0,2023-07-28,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
+2003.0,2023-07-28,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
+2010.0,2023-07-28,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
+2015.0,2023-07-28,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+2102.0,2023-07-28,2023-08-15 08:04:36,Down,Mechanical,Not Specified
+2117.0,2023-07-28,2023-08-15 08:04:36,Down,Follow Up,Not Specified
+3009.0,2023-07-28,2023-08-15 08:04:36,Down,HV Light On,Not Specified
+3010.0,2023-07-28,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
 1130.0,2023-08-13,2023-08-14 06:30:26,RS-DP,Not Specified,Not Specified
 1132.0,2023-08-13,2023-08-14 06:30:26,GT-US,Not Specified,Not Specified
 1137.0,2023-08-13,2023-08-14 06:30:26,RS-DP,Not Specified,Not Specified
@@ -1013,23 +1860,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-08-12,2023-08-12 06:54:43,Spare,Not Specified,Not Specified
 3014.0,2023-08-12,2023-08-12 06:54:43,Spare,Not Specified,Not Specified
 3101.0,2023-08-12,2023-08-12 06:54:43,Spare,Not Specified,Not Specified
-1130.0,2023-08-11,2023-08-15 08:04:36,Down,Ready to Pick Up,Not Specified
-1131.0,2023-08-11,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-08-11,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1135.0,2023-08-11,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-08-11,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1140.0,2023-08-11,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-1141.0,2023-08-11,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-08-11,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-08-11,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2009.0,2023-08-11,2023-08-15 08:04:36,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2014.0,2023-08-11,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-2018.0,2023-08-11,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2107.0,2023-08-11,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-08-11,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-2115.0,2023-08-11,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-3009.0,2023-08-11,2023-08-15 08:04:36,Down,HV Light On,Not Specified
-3010.0,2023-08-11,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
 1132.0,2023-08-11,2023-08-11 03:06:17,RS-DP,Not Specified,Not Specified
 1133.0,2023-08-11,2023-08-11 03:06:17,Spare,Not Specified,Not Specified
 1137.0,2023-08-11,2023-08-11 03:06:17,RS-DP,Not Specified,Not Specified
@@ -1086,23 +1916,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-08-11,2023-08-11 03:06:17,Spare,Not Specified,Not Specified
 3014.0,2023-08-11,2023-08-11 03:06:17,Spare,Not Specified,Not Specified
 3101.0,2023-08-11,2023-08-11 03:06:17,Spare,Not Specified,Not Specified
-1131.0,2023-08-10,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-10,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-1134.0,2023-08-10,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1135.0,2023-08-10,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-08-10,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1140.0,2023-08-10,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-1141.0,2023-08-10,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-08-10,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-08-10,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2009.0,2023-08-10,2023-08-15 08:04:36,Down,Not Specified,Not Specified
-2018.0,2023-08-10,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2107.0,2023-08-10,2023-08-15 08:04:36,Down,Awaiting Diag.,Not Specified
-2108.0,2023-08-10,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-2115.0,2023-08-10,2023-08-15 08:04:36,Down,Bodyshop/Vendor,Not Specified
-2126.0,2023-08-10,2023-08-15 08:04:36,Down,Progress,Not Specified
-3009.0,2023-08-10,2023-08-15 08:04:36,Down,Awaiting Proterra,Not Specified
-3010.0,2023-08-10,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
 1130.0,2023-08-10,2023-08-10 06:23:30,GT-US,Not Specified,Not Specified
 1133.0,2023-08-10,2023-08-10 06:23:30,RS-DP,Not Specified,Not Specified
 1137.0,2023-08-10,2023-08-10 06:23:30,GT-US,Not Specified,Not Specified
@@ -1159,26 +1972,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-08-10,2023-08-10 06:23:30,Spare,Not Specified,Not Specified
 3014.0,2023-08-10,2023-08-10 06:23:30,Spare,Not Specified,Not Specified
 3101.0,2023-08-10,2023-08-10 06:23:30,Spare,Not Specified,Not Specified
-1130.0,2023-08-09,2023-08-15 08:04:36,Down,Ready to Pick Up,Not Specified
-1131.0,2023-08-09,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-09,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-1134.0,2023-08-09,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1135.0,2023-08-09,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-08-09,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1137.0,2023-08-09,2023-08-15 08:04:36,Down,Need Injectors,Not Specified
-1140.0,2023-08-09,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-1141.0,2023-08-09,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-08-09,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-08-09,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2003.0,2023-08-09,2023-08-15 08:04:36,Down,Check/Stop System/Engine Lights,Not Specified
-2009.0,2023-08-09,2023-08-15 08:04:36,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2014.0,2023-08-09,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-2107.0,2023-08-09,2023-08-15 08:04:36,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-08-09,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-2115.0,2023-08-09,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-2126.0,2023-08-09,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-3009.0,2023-08-09,2023-08-15 08:04:36,Down,HV Light On,Not Specified
-3010.0,2023-08-09,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
 1133.0,2023-08-09,2023-08-09 04:47:28,RS-DP,Not Specified,Not Specified
 1138.0,2023-08-09,2023-08-09 04:47:28,RS-DP,Not Specified,Not Specified
 1139.0,2023-08-09,2023-08-09 04:47:28,RS-DP,Not Specified,Not Specified
@@ -1232,25 +2025,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-08-09,2023-08-09 04:47:28,RS-DP,Not Specified,Not Specified
 3014.0,2023-08-09,2023-08-09 04:47:28,Spare,Not Specified,Not Specified
 3101.0,2023-08-09,2023-08-09 04:47:28,Spare,Not Specified,Not Specified
-1130.0,2023-08-03,2023-08-15 08:04:36,Down,Power Issues,Not Specified
-1131.0,2023-08-03,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-03,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
-1135.0,2023-08-03,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
-1136.0,2023-08-03,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1137.0,2023-08-03,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-1141.0,2023-08-03,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-08-03,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-08-03,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2003.0,2023-08-03,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2010.0,2023-08-03,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
-2103.0,2023-08-03,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-2107.0,2023-08-03,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
-2108.0,2023-08-03,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-2117.0,2023-08-03,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-3006.0,2023-08-03,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-3009.0,2023-08-03,2023-08-15 08:04:36,Down,Electrical Issues,Not Specified
-3010.0,2023-08-03,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-3012.0,2023-08-03,2023-08-15 08:04:36,Down,Mechanical,Not Specified
 1133.0,2023-08-03,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
 1134.0,2023-08-03,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 1138.0,2023-08-03,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
@@ -1305,27 +2079,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-08-03,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
 3014.0,2023-08-03,2023-08-06 14:20:24,EM-LP,Not Specified,Not Specified
 3101.0,2023-08-03,2023-08-06 14:20:24,Not in Service,Not Specified,Not Specified
-1130.0,2023-08-02,2023-08-15 08:04:36,Down,Power Issues,Not Specified
-1131.0,2023-08-02,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-02,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-1135.0,2023-08-02,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-1136.0,2023-08-02,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1137.0,2023-08-02,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
-1141.0,2023-08-02,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-08-02,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-08-02,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2003.0,2023-08-02,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2010.0,2023-08-02,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
-2103.0,2023-08-02,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-2107.0,2023-08-02,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
-2108.0,2023-08-02,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2117.0,2023-08-02,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-2123.0,2023-08-02,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-3005.0,2023-08-02,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-3006.0,2023-08-02,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-3009.0,2023-08-02,2023-08-15 08:04:36,Down,HV Light On,Not Specified
-3010.0,2023-08-02,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-3012.0,2023-08-02,2023-08-15 08:04:36,Down,Mechanical,Not Specified
 1133.0,2023-08-02,2023-08-06 14:20:24,WP-AM,Not Specified,Not Specified
 1134.0,2023-08-02,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
 1138.0,2023-08-02,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
@@ -1378,27 +2131,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-08-02,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
 3014.0,2023-08-02,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 3101.0,2023-08-02,2023-08-06 14:20:24,Not in Service,Not Specified,Not Specified
-1130.0,2023-08-01,2023-08-15 08:04:36,Down,Power Issues,Not Specified
-1131.0,2023-08-01,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-01,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-1135.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-1136.0,2023-08-01,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1137.0,2023-08-01,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
-1141.0,2023-08-01,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-08-01,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-08-01,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2003.0,2023-08-01,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2010.0,2023-08-01,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
-2102.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-2107.0,2023-08-01,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
-2108.0,2023-08-01,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2117.0,2023-08-01,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-2123.0,2023-08-01,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-3005.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-3006.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-3009.0,2023-08-01,2023-08-15 08:04:36,Down,HV Light On,Not Specified
-3010.0,2023-08-01,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-3012.0,2023-08-01,2023-08-15 08:04:36,Down,Mechanical,Not Specified
 1133.0,2023-08-01,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
 1134.0,2023-08-01,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
 1138.0,2023-08-01,2023-08-06 14:20:24,WP-AM,Not Specified,Not Specified
@@ -1451,26 +2183,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-08-01,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
 3014.0,2023-08-01,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 3101.0,2023-08-01,2023-08-06 14:20:24,Not in Service,Not Specified,Not Specified
-1130.0,2023-07-31,2023-08-15 08:04:36,Down,Power Issues,Not Specified
-1131.0,2023-07-31,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-07-31,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-1135.0,2023-07-31,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-1136.0,2023-07-31,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1137.0,2023-07-31,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
-1141.0,2023-07-31,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-07-31,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-07-31,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2002.0,2023-07-31,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-2003.0,2023-07-31,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2010.0,2023-07-31,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
-2102.0,2023-07-31,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-2107.0,2023-07-31,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
-2108.0,2023-07-31,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2111.0,2023-07-31,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
-2117.0,2023-07-31,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-3006.0,2023-07-31,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-3009.0,2023-07-31,2023-08-15 08:04:36,Down,HV Light On,Not Specified
-3010.0,2023-07-31,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
 1133.0,2023-07-31,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
 1134.0,2023-07-31,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
 1138.0,2023-07-31,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
@@ -1523,26 +2235,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3012.0,2023-07-31,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 3013.0,2023-07-31,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
 3014.0,2023-07-31,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
-1130.0,2023-07-30,2023-08-15 08:04:36,Down,Power Issues,Not Specified
-1131.0,2023-07-30,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-07-30,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-1135.0,2023-07-30,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-1136.0,2023-07-30,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1137.0,2023-07-30,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
-1141.0,2023-07-30,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-07-30,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-07-30,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2002.0,2023-07-30,2023-08-15 08:04:36,Down,Pm Due,Not Specified
-2003.0,2023-07-30,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2010.0,2023-07-30,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
-2102.0,2023-07-30,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-2107.0,2023-07-30,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
-2108.0,2023-07-30,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2117.0,2023-07-30,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-2124.0,2023-07-30,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-3006.0,2023-07-30,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-3009.0,2023-07-30,2023-08-15 08:04:36,Down,HV Light On,Not Specified
-3010.0,2023-07-30,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
 1133.0,2023-07-30,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
 1134.0,2023-07-30,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
 1138.0,2023-07-30,2023-08-06 14:20:24,WP-AM,Not Specified,Not Specified
@@ -1596,26 +2288,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-07-30,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 3014.0,2023-07-30,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 3101.0,2023-07-30,2023-08-06 14:20:24,Not in Service,Not Specified,Not Specified
-1130.0,2023-07-29,2023-08-15 08:04:36,Down,Power Issues,Not Specified
-1131.0,2023-07-29,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-07-29,2023-08-15 08:04:36,Down,Shutting Down,Not Specified
-1135.0,2023-07-29,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
-1137.0,2023-07-29,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1141.0,2023-07-29,2023-08-15 08:04:36,Down,Sluggish Acceleration,Not Specified
-1142.0,2023-07-29,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1143.0,2023-07-29,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-2003.0,2023-07-29,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2010.0,2023-07-29,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2017.0,2023-07-29,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
-2102.0,2023-07-29,2023-08-15 08:04:36,Down,Towed/Bae Issue,Not Specified
-2107.0,2023-07-29,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-2108.0,2023-07-29,2023-08-15 08:04:36,Down,Ignition Issues,Not Specified
-2116.0,2023-07-29,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2117.0,2023-07-29,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-2124.0,2023-07-29,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-3006.0,2023-07-29,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-3009.0,2023-07-29,2023-08-15 08:04:36,Down,HV Light On,Not Specified
-3010.0,2023-07-29,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
 1133.0,2023-07-29,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
 1134.0,2023-07-29,2023-08-06 14:20:24,GT-US,Not Specified,Not Specified
 1136.0,2023-07-29,2023-08-06 14:20:24,Down,Not Specified,Not Specified
@@ -1669,21 +2341,6 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-07-29,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 3014.0,2023-07-29,2023-08-06 14:20:24,CH-US,Not Specified,Not Specified
 3101.0,2023-07-29,2023-08-06 14:20:24,Not in Service,Not Specified,Not Specified
-1130.0,2023-07-28,2023-08-15 08:04:36,Down,Ready to Pick Up,Not Specified
-1131.0,2023-07-28,2023-08-15 08:04:36,Down,A/C (HVAC) Issues,Not Specified
-1135.0,2023-07-28,2023-08-15 08:04:36,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-07-28,2023-08-15 08:04:36,Down,Transmission Issues,Not Specified
-1137.0,2023-07-28,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-1141.0,2023-07-28,2023-08-15 08:04:36,Down,Overheating Engine,Not Specified
-1142.0,2023-07-28,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
-1143.0,2023-07-28,2023-08-15 08:04:36,Down,Fuel System/Leaks/Pressure,Not Specified
-2003.0,2023-07-28,2023-08-15 08:04:36,Down,Check/Stop Engine Lights,Not Specified
-2010.0,2023-07-28,2023-08-15 08:04:36,Down,A or B Defects,Not Specified
-2015.0,2023-07-28,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-2102.0,2023-07-28,2023-08-15 08:04:36,Down,Mechanical,Not Specified
-2117.0,2023-07-28,2023-08-15 08:04:36,Down,Follow Up,Not Specified
-3009.0,2023-07-28,2023-08-15 08:04:36,Down,HV Light On,Not Specified
-3010.0,2023-07-28,2023-08-15 08:04:36,Down,Accident Damage,Not Specified
 1132.0,2023-07-28,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 1133.0,2023-07-28,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
 1134.0,2023-07-28,2023-08-06 14:20:24,RS-DP,Not Specified,Not Specified
@@ -1742,660 +2399,3 @@ Bus Number,Service Date,Today's Date,AM Pull-out Route/Down/NIS,AM Pullout Down 
 3013.0,2023-07-28,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 3014.0,2023-07-28,2023-08-06 14:20:24,Spare,Not Specified,Not Specified
 3101.0,2023-07-28,2023-08-06 14:20:24,Not in Service,Not Specified,Not Specified
-1130.0,2023-08-28,2023-08-28 07:12:35,Down,A/C (HVAC) Issues,Not Specified
-1131.0,2023-08-28,2023-08-28 07:12:35,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-1133.0,2023-08-28,2023-08-28 07:12:35,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-08-28,2023-08-28 07:12:35,Down,Transmission Issues,Not Specified
-1135.0,2023-08-28,2023-08-28 07:12:35,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-08-28,2023-08-28 07:12:35,Down,Transmission Issues,Not Specified
-1137.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
-1138.0,2023-08-28,2023-08-28 07:12:35,Down,Accident Damage,Not Specified
-1139.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
-1140.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
-1141.0,2023-08-28,2023-08-28 07:12:35,Down,Overheating Engine,Not Specified
-1142.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-1143.0,2023-08-28,2023-08-28 07:12:35,Down,A or B Defects,Not Specified
-2001.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
-2002.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-2003.0,2023-08-28,2023-08-28 07:12:35,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-08-28,2023-08-28 07:12:35,NMS,Not Specified,Not Specified
-2005.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-2006.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
-2007.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
-2008.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
-2009.0,2023-08-28,2023-08-28 07:12:35,Down,Doesn'T Move,Not Specified
-2010.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
-2011.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
-2012.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
-2013.0,2023-08-28,2023-08-28 07:12:35,Down,Door Glass Cracked,Not Specified
-2014.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
-2015.0,2023-08-28,2023-08-28 07:12:35,NMS,Not Specified,Not Specified
-2016.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
-2017.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
-2018.0,2023-08-28,2023-08-28 07:12:35,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
-2102.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
-2103.0,2023-08-28,2023-08-28 07:12:35,NMS,Not Specified,Not Specified
-2104.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
-2105.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
-2106.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-2107.0,2023-08-28,2023-08-28 07:12:35,Down,Ignition Issues/No Start,Not Specified
-2108.0,2023-08-28,2023-08-28 07:12:35,Down,Check Trans. Light Active,Not Specified
-2109.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
-2110.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
-2111.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
-2112.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
-2113.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
-2114.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
-2115.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
-2116.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
-2117.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
-2118.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
-2119.0,2023-08-28,2023-08-28 07:12:35,NMS,Not Specified,Not Specified
-2120.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-2121.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
-2122.0,2023-08-28,2023-08-28 07:12:35,CH-US,Not Specified,Not Specified
-2123.0,2023-08-28,2023-08-28 07:12:35,GT-US,Not Specified,Not Specified
-2124.0,2023-08-28,2023-08-28 07:12:35,Down,Windshield Cracked,Not Specified
-2125.0,2023-08-28,2023-08-28 07:12:35,Down,Follow Up,Not Specified
-2126.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
-3001.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3002.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3003.0,2023-08-28,2023-08-28 07:12:35,Spare,Air Compressor Install,Not Specified
-3004.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3005.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3006.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3007.0,2023-08-28,2023-08-28 07:12:35,RS-DP,Not Specified,Not Specified
-3008.0,2023-08-28,2023-08-28 07:12:35,WP-AM,Not Specified,Not Specified
-3009.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3010.0,2023-08-28,2023-08-28 07:12:35,Down,Accident Damage,Not Specified
-3011.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3012.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3013.0,2023-08-28,2023-08-28 07:12:35,Spare,Not Specified,Not Specified
-3014.0,2023-08-28,2023-08-28 07:12:35,EM-LP,Not Specified,Not Specified
-3101.0,2023-08-28,2023-08-28 07:12:35,Training,Not Specified,Not Specified
-1130.0,2023-08-29,2023-08-29 03:30:08,Down,A/C (HVAC) Issues,Not Specified
-1131.0,2023-08-29,2023-08-29 03:30:08,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-1133.0,2023-08-29,2023-08-29 03:30:08,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-08-29,2023-08-29 03:30:08,Down,Transmission Issues,Not Specified
-1135.0,2023-08-29,2023-08-29 03:30:08,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-08-29,2023-08-29 03:30:08,Down,Transmission Issues,Not Specified
-1137.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
-1138.0,2023-08-29,2023-08-29 03:30:08,Down,Accident Damage,Not Specified
-1139.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-1140.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
-1141.0,2023-08-29,2023-08-29 03:30:08,Down,Overheating Engine,Not Specified
-1142.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-1143.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
-2001.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-2002.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
-2003.0,2023-08-29,2023-08-29 03:30:08,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
-2005.0,2023-08-29,2023-08-29 03:30:08,NMS,Not Specified,Not Specified
-2006.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-2007.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
-2008.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
-2009.0,2023-08-29,2023-08-29 03:30:08,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2010.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-2011.0,2023-08-29,2023-08-29 03:30:08,NMS,Not Specified,Not Specified
-2012.0,2023-08-29,2023-08-29 03:30:08,Down,Follow Up,Not Specified
-2013.0,2023-08-29,2023-08-29 03:30:08,Down,Door-Glass Cracked,Not Specified
-2014.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-2015.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
-2016.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-2017.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
-2018.0,2023-08-29,2023-08-29 03:30:08,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-2102.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-2103.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
-2104.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-2105.0,2023-08-29,2023-08-29 03:30:08,NMS,Not Specified,Not Specified
-2106.0,2023-08-29,2023-08-29 03:30:08,Down,Infestation,Not Specified
-2107.0,2023-08-29,2023-08-29 03:30:08,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-08-29,2023-08-29 03:30:08,Down,Check/Stop System/Engine Lights,Not Specified
-2109.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-2110.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-2111.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
-2112.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
-2113.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-2114.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-2115.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-2116.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-2117.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-2118.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
-2119.0,2023-08-29,2023-08-29 03:30:08,NMS,Not Specified,Not Specified
-2120.0,2023-08-29,2023-08-29 03:30:08,GT-US,Not Specified,Not Specified
-2121.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
-2122.0,2023-08-29,2023-08-29 03:30:08,WP-AM,Not Specified,Not Specified
-2123.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-2124.0,2023-08-29,2023-08-29 03:30:08,Down,Windshield Cracked,Not Specified
-2125.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-2126.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
-3001.0,2023-08-29,2023-08-29 03:30:08,RS-DP,Not Specified,Not Specified
-3002.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3003.0,2023-08-29,2023-08-29 03:30:08,Down,Air Compressor Install,Not Specified
-3004.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3005.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3006.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3007.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3008.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3009.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3010.0,2023-08-29,2023-08-29 03:30:08,Down,Accident Damage,Not Specified
-3011.0,2023-08-29,2023-08-29 03:30:08,CH-US,Not Specified,Not Specified
-3012.0,2023-08-29,2023-08-29 03:30:08,EM-LP,Not Specified,Not Specified
-3013.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3014.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-3101.0,2023-08-29,2023-08-29 03:30:08,Spare,Not Specified,Not Specified
-1130.0,2023-08-30,2023-08-30 03:30:09,Down,A/C (HVAC) Issues,Not Specified
-1131.0,2023-08-30,2023-08-30 03:30:09,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
-1133.0,2023-08-30,2023-08-30 03:30:09,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-08-30,2023-08-30 03:30:09,Down,Transmission Issues,Not Specified
-1135.0,2023-08-30,2023-08-30 03:30:09,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-08-30,2023-08-30 03:30:09,Down,Transmission Issues,Not Specified
-1137.0,2023-08-30,2023-08-30 03:30:09,Down,Rear Bellow Leak,Not Specified
-1138.0,2023-08-30,2023-08-30 03:30:09,Down,Accident Damage,Not Specified
-1139.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-1140.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-1141.0,2023-08-30,2023-08-30 03:30:09,Down,Overheating Engine,Not Specified
-1142.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
-1143.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
-2001.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-2002.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
-2003.0,2023-08-30,2023-08-30 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-2005.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
-2006.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
-2007.0,2023-08-30,2023-08-30 03:30:09,Down,Leaning Hard To The Left,Not Specified
-2008.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
-2009.0,2023-08-30,2023-08-30 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2010.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-2011.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
-2012.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
-2013.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
-2014.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
-2015.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-2016.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
-2017.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
-2018.0,2023-08-30,2023-08-30 03:30:09,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-2102.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
-2103.0,2023-08-30,2023-08-30 03:30:09,NMS,Not Specified,Not Specified
-2104.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
-2105.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-2106.0,2023-08-30,2023-08-30 03:30:09,NMS,Not Specified,Not Specified
-2107.0,2023-08-30,2023-08-30 03:30:09,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-08-30,2023-08-30 03:30:09,Down,Check/Stop System/Engine Lights,Not Specified
-2109.0,2023-08-30,2023-08-30 03:30:09,Down,S/S Mirror & Window,Not Specified
-2110.0,2023-08-30,2023-08-30 03:30:09,NMS,Not Specified,Not Specified
-2111.0,2023-08-30,2023-08-30 03:30:09,NMS,Not Specified,Not Specified
-2112.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
-2113.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
-2114.0,2023-08-30,2023-08-30 03:30:09,EM-LP,Not Specified,Not Specified
-2115.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
-2116.0,2023-08-30,2023-08-30 03:30:09,RS-DP,Not Specified,Not Specified
-2117.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
-2118.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-2119.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-2120.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
-2121.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-2122.0,2023-08-30,2023-08-30 03:30:09,Down,Follow Up,Not Specified
-2123.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-2124.0,2023-08-30,2023-08-30 03:30:09,Down,Windshield Cracked,Not Specified
-2125.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
-2126.0,2023-08-30,2023-08-30 03:30:09,CH-US,Not Specified,Not Specified
-3001.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3002.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3003.0,2023-08-30,2023-08-30 03:30:09,Down,HV Light On,Not Specified
-3004.0,2023-08-30,2023-08-30 03:30:09,GT-US,Not Specified,Not Specified
-3005.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3006.0,2023-08-30,2023-08-30 03:30:09,WP-AM,Not Specified,Not Specified
-3007.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3008.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3009.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3010.0,2023-08-30,2023-08-30 03:30:09,Down,Accident Damage,Not Specified
-3011.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3012.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3013.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3014.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-3101.0,2023-08-30,2023-08-30 03:30:09,Spare,Not Specified,Not Specified
-1130.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-1131.0,2023-08-31,2023-08-31 03:22:00,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
-1133.0,2023-08-31,2023-08-31 03:22:00,Down,Ac Compressor Noise,Not Specified
-1134.0,2023-08-31,2023-08-31 03:22:00,Down,Transmission Issues,Not Specified
-1135.0,2023-08-31,2023-08-31 03:22:00,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-08-31,2023-08-31 03:22:00,Down,Transmission Issues,Not Specified
-1137.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-1138.0,2023-08-31,2023-08-31 03:22:00,Down,Accident Damage,Not Specified
-1139.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-1140.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
-1141.0,2023-08-31,2023-08-31 03:22:00,Down,Overheating Engine,Not Specified
-1142.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
-1143.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-2001.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
-2002.0,2023-08-31,2023-08-31 03:22:00,NMS,Not Specified,Not Specified
-2003.0,2023-08-31,2023-08-31 03:22:00,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-2005.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
-2006.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
-2007.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
-2008.0,2023-08-31,2023-08-31 03:22:00,NMS,Not Specified,Not Specified
-2009.0,2023-08-31,2023-08-31 03:22:00,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2010.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-2011.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-2012.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-2013.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-2014.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
-2015.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-2016.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-2017.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-2018.0,2023-08-31,2023-08-31 03:22:00,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
-2102.0,2023-08-31,2023-08-31 03:22:00,NMS,Not Specified,Not Specified
-2103.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
-2104.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-2105.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
-2106.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-2107.0,2023-08-31,2023-08-31 03:22:00,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-08-31,2023-08-31 03:22:00,Down,Transmission Issues,Not Specified
-2109.0,2023-08-31,2023-08-31 03:22:00,Down,S/S Mirror & Window,Not Specified
-2110.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
-2111.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
-2112.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-2113.0,2023-08-31,2023-08-31 03:22:00,NMS,Not Specified,Not Specified
-2114.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
-2115.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-2116.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
-2117.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-2118.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-2119.0,2023-08-31,2023-08-31 03:22:00,GT-US,Not Specified,Not Specified
-2120.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-2121.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-2122.0,2023-08-31,2023-08-31 03:22:00,Down,Follow Up,Not Specified
-2123.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-2124.0,2023-08-31,2023-08-31 03:22:00,RS-DP,Not Specified,Not Specified
-2125.0,2023-08-31,2023-08-31 03:22:00,WP-AM,Not Specified,Not Specified
-2126.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-3001.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3002.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3003.0,2023-08-31,2023-08-31 03:22:00,Down,HV Light On,Not Specified
-3004.0,2023-08-31,2023-08-31 03:22:00,EM-LP,Not Specified,Not Specified
-3005.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3006.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3007.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3008.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3009.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3010.0,2023-08-31,2023-08-31 03:22:00,Down,Accident Damage,Not Specified
-3011.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3012.0,2023-08-31,2023-08-31 03:22:00,CH-US,Not Specified,Not Specified
-3013.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3014.0,2023-08-31,2023-08-31 03:22:00,Spare,Not Specified,Not Specified
-3101.0,2023-08-31,2023-08-31 03:22:00,Training,Not Specified,Not Specified
-1130.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-1131.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
-1132.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-1133.0,2023-09-01,2023-09-01 03:50:12,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-09-01,2023-09-01 03:50:12,Down,Transmission Issues,Not Specified
-1135.0,2023-09-01,2023-09-01 03:50:12,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-09-01,2023-09-01 03:50:12,Down,Transmission Issues,Not Specified
-1137.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
-1138.0,2023-09-01,2023-09-01 03:50:12,Down,Accident Damage,Not Specified
-1139.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
-1140.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-1141.0,2023-09-01,2023-09-01 03:50:12,Down,Overheating Engine,Not Specified
-1142.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
-1143.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-2001.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
-2002.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2003.0,2023-09-01,2023-09-01 03:50:12,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2005.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
-2006.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2007.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
-2008.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-2009.0,2023-09-01,2023-09-01 03:50:12,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2010.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
-2011.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
-2012.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
-2013.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2014.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
-2015.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
-2016.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2017.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
-2018.0,2023-09-01,2023-09-01 03:50:12,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
-2102.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
-2103.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-2104.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
-2105.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2106.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
-2107.0,2023-09-01,2023-09-01 03:50:12,Down,Fire Suppression System/Discharge/No Start, Ignition Issues/No Start
-2108.0,2023-09-01,2023-09-01 03:50:12,Down,Transmission Issues,Not Specified
-2109.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-2110.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2111.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
-2112.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
-2113.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-2114.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2115.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-2116.0,2023-09-01,2023-09-01 03:50:12,CH-US,Not Specified,Not Specified
-2117.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
-2118.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
-2119.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-2120.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
-2121.0,2023-09-01,2023-09-01 03:50:12,EM-LP,Not Specified,Not Specified
-2122.0,2023-09-01,2023-09-01 03:50:12,Down,Follow Up,Not Specified
-2123.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2124.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-2125.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-2126.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3001.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3002.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3003.0,2023-09-01,2023-09-01 03:50:12,Down,HV Light On,Not Specified
-3004.0,2023-09-01,2023-09-01 03:50:12,RS-DP,Not Specified,Not Specified
-3005.0,2023-09-01,2023-09-01 03:50:12,GT-US,Not Specified,Not Specified
-3006.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3007.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3008.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3009.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3010.0,2023-09-01,2023-09-01 03:50:12,Down,Accident Damage,Not Specified
-3011.0,2023-09-01,2023-09-01 03:50:12,WP-AM,Not Specified,Not Specified
-3012.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3013.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3014.0,2023-09-01,2023-09-01 03:50:12,Spare,Not Specified,Not Specified
-3101.0,2023-09-01,2023-09-01 03:50:12,Training,Not Specified,Not Specified
-1130.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
-1131.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-1132.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-1133.0,2023-09-02,2023-09-02 04:30:13,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-09-02,2023-09-02 04:30:13,Down,Transmission Issues,Not Specified
-1135.0,2023-09-02,2023-09-02 04:30:13,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-09-02,2023-09-02 04:30:13,Down,Transmission Issues,Not Specified
-1137.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
-1138.0,2023-09-02,2023-09-02 04:30:13,Down,Accident Damage,Not Specified
-1139.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-1140.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-1141.0,2023-09-02,2023-09-02 04:30:13,Down,Overheating Engine,Not Specified
-1142.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-1143.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
-2001.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-2002.0,2023-09-02,2023-09-02 04:30:13,NMS,Not Specified,Not Specified
-2003.0,2023-09-02,2023-09-02 04:30:13,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
-2005.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
-2006.0,2023-09-02,2023-09-02 04:30:13,Down,A/C (HVAC) Issues,Not Specified
-2007.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
-2008.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
-2009.0,2023-09-02,2023-09-02 04:30:13,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2010.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-2011.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-2012.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-2013.0,2023-09-02,2023-09-02 04:30:13,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2014.0,2023-09-02,2023-09-02 04:30:13,NMS,Not Specified,Not Specified
-2015.0,2023-09-02,2023-09-02 04:30:13,Down,Leak @ Surge Tank,Not Specified
-2016.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-2017.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-2018.0,2023-09-02,2023-09-02 04:30:13,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-2102.0,2023-09-02,2023-09-02 04:30:13,NMS,Not Specified,Not Specified
-2103.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-2104.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
-2105.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
-2106.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
-2107.0,2023-09-02,2023-09-02 04:30:13,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-09-02,2023-09-02 04:30:13,Down,Check/Stop System/Engine Lights,Not Specified
-2109.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-2110.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-2111.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-2112.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-2113.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-2114.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-2115.0,2023-09-02,2023-09-02 04:30:13,Down,Follow Up,Not Specified
-2116.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
-2117.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
-2118.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
-2119.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
-2120.0,2023-09-02,2023-09-02 04:30:13,GT-US,Not Specified,Not Specified
-2121.0,2023-09-02,2023-09-02 04:30:13,EM-LP,Not Specified,Not Specified
-2122.0,2023-09-02,2023-09-02 04:30:13,Down,Abs Fault,Not Specified
-2123.0,2023-09-02,2023-09-02 04:30:13,Down,"""B"" Defects",Not Specified
-2124.0,2023-09-02,2023-09-02 04:30:13,Down,Wheelchair Ramp,Not Specified
-2125.0,2023-09-02,2023-09-02 04:30:13,WP-AM,Not Specified,Not Specified
-2126.0,2023-09-02,2023-09-02 04:30:13,CH-US,Not Specified,Not Specified
-3001.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3002.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3003.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3004.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3005.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3006.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3007.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3008.0,2023-09-02,2023-09-02 04:30:13,RS-DP,Not Specified,Not Specified
-3009.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3010.0,2023-09-02,2023-09-02 04:30:13,Down,Accident Damage,Not Specified
-3011.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3012.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3013.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3014.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-3101.0,2023-09-02,2023-09-02 04:30:13,Spare,Not Specified,Not Specified
-1130.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-1131.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
-1132.0,2023-09-03,2023-09-03 04:30:18,Down,Awiting Diag.,Not Specified
-1133.0,2023-09-03,2023-09-03 04:30:18,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-09-03,2023-09-03 04:30:18,Down,Transmission Issues,Not Specified
-1135.0,2023-09-03,2023-09-03 04:30:18,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-09-03,2023-09-03 04:30:18,Down,Transmission Issues,Not Specified
-1137.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
-1138.0,2023-09-03,2023-09-03 04:30:18,Down,Accident Damage,Not Specified
-1139.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-1140.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-1141.0,2023-09-03,2023-09-03 04:30:18,Down,Overheating,Not Specified
-1142.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-1143.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
-2001.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
-2002.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
-2003.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
-2005.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-2006.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2007.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
-2008.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
-2009.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2010.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2011.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-2012.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-2013.0,2023-09-03,2023-09-03 04:30:18,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2014.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-2015.0,2023-09-03,2023-09-03 04:30:18,Down,Leak @Surge Tank,Not Specified
-2016.0,2023-09-03,2023-09-03 04:30:18,RS-DP,Not Specified,Not Specified
-2017.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
-2018.0,2023-09-03,2023-09-03 04:30:18,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2102.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
-2103.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-2104.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2105.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2106.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
-2107.0,2023-09-03,2023-09-03 04:30:18,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-09-03,2023-09-03 04:30:18,Down,Check/Stop System/Engine Lights,Not Specified
-2109.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-2110.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
-2111.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2112.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
-2113.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
-2114.0,2023-09-03,2023-09-03 04:30:18,EM-LP,Not Specified,Not Specified
-2115.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2116.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-2117.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2118.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-2119.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-2120.0,2023-09-03,2023-09-03 04:30:18,GT-US,Not Specified,Not Specified
-2121.0,2023-09-03,2023-09-03 04:30:18,NMS,Not Specified,Not Specified
-2122.0,2023-09-03,2023-09-03 04:30:18,Down,Abs Fault,Not Specified
-2123.0,2023-09-03,2023-09-03 04:30:18,CH-US,Not Specified,Not Specified
-2124.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-2125.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
-2126.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
-3001.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3002.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3003.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3004.0,2023-09-03,2023-09-03 04:30:18,Down,Battery,Not Specified
-3005.0,2023-09-03,2023-09-03 04:30:18,Down,Awaiting Service,Not Specified
-3006.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3007.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3008.0,2023-09-03,2023-09-03 04:30:18,WP-AM,Not Specified,Not Specified
-3009.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3010.0,2023-09-03,2023-09-03 04:30:18,Down,Accident Damage,Not Specified
-3011.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3012.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3013.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3014.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-3101.0,2023-09-03,2023-09-03 04:30:18,Spare,Not Specified,Not Specified
-1130.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
-1131.0,2023-09-04,2023-09-04 03:30:09,Down,A/C (HVAC) Issues,Not Specified
-1132.0,2023-09-04,2023-09-04 03:30:09,Down,Follow Up,Not Specified
-1133.0,2023-09-04,2023-09-04 03:30:09,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-09-04,2023-09-04 03:30:09,Down,Transmission Issues,Not Specified
-1135.0,2023-09-04,2023-09-04 03:30:09,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-09-04,2023-09-04 03:30:09,Down,Transmission Issues,Not Specified
-1137.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
-1138.0,2023-09-04,2023-09-04 03:30:09,Down,Accident Damage,Not Specified
-1139.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-1140.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-1141.0,2023-09-04,2023-09-04 03:30:09,Down,Overheating Engine,Not Specified
-1142.0,2023-09-04,2023-09-04 03:30:09,Down,A/C (HVAC) Issues,Not Specified
-1143.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
-2001.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
-2002.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
-2003.0,2023-09-04,2023-09-04 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
-2005.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-2006.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
-2007.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-2008.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-2009.0,2023-09-04,2023-09-04 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2010.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-2011.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
-2012.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
-2013.0,2023-09-04,2023-09-04 03:30:09,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2014.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-2015.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-2016.0,2023-09-04,2023-09-04 03:30:09,Down,Air Leak,Not Specified
-2017.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
-2018.0,2023-09-04,2023-09-04 03:30:09,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
-2102.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-2103.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-2104.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
-2105.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
-2106.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
-2107.0,2023-09-04,2023-09-04 03:30:09,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-09-04,2023-09-04 03:30:09,Down,Check/Stop System/Engine Lights,Not Specified
-2109.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
-2110.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-2111.0,2023-09-04,2023-09-04 03:30:09,NMS,Not Specified,Not Specified
-2112.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-2113.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
-2114.0,2023-09-04,2023-09-04 03:30:09,NMS,Not Specified,Not Specified
-2115.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
-2116.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
-2117.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-2118.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
-2119.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
-2120.0,2023-09-04,2023-09-04 03:30:09,CH-US,Not Specified,Not Specified
-2121.0,2023-09-04,2023-09-04 03:30:09,NMS,Not Specified,Not Specified
-2122.0,2023-09-04,2023-09-04 03:30:09,Down,Abs Fault,Not Specified
-2123.0,2023-09-04,2023-09-04 03:30:09,NMS,Not Specified,Not Specified
-2124.0,2023-09-04,2023-09-04 03:30:09,GT-US,Not Specified,Not Specified
-2125.0,2023-09-04,2023-09-04 03:30:09,WP-AM,Not Specified,Not Specified
-2126.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
-3001.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3002.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3003.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3004.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3005.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3006.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3007.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3008.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3009.0,2023-09-04,2023-09-04 03:30:09,RS-DP,Not Specified,Not Specified
-3010.0,2023-09-04,2023-09-04 03:30:09,Down,Accident Damage,Not Specified
-3011.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3012.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3013.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-3014.0,2023-09-04,2023-09-04 03:30:09,EM-LP,Not Specified,Not Specified
-3101.0,2023-09-04,2023-09-04 03:30:09,Spare,Not Specified,Not Specified
-1130.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-1131.0,2023-09-05,2023-09-05 03:30:12,Down,Awaiting Service,Not Specified
-1132.0,2023-09-05,2023-09-05 03:30:12,Down,Expired Inspection,Not Specified
-1133.0,2023-09-05,2023-09-05 03:30:12,Down,A/C (HVAC) Issues,Not Specified
-1134.0,2023-09-05,2023-09-05 03:30:12,Down,Transmission Issues,Not Specified
-1135.0,2023-09-05,2023-09-05 03:30:12,Down,Mid-life Refurbishment,Not Specified
-1136.0,2023-09-05,2023-09-05 03:30:12,Down,Transmission Issues,Not Specified
-1137.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-1138.0,2023-09-05,2023-09-05 03:30:12,Down,Accident Damage,Not Specified
-1139.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-1140.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
-1141.0,2023-09-05,2023-09-05 03:30:12,Down,Overheating,Not Specified
-1142.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-1143.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-2001.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
-2002.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
-2003.0,2023-09-05,2023-09-05 03:30:12,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2004.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
-2005.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-2006.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
-2007.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
-2008.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
-2009.0,2023-09-05,2023-09-05 03:30:12,Down,Bae Issues/Doesn't Move/Cluster,Not Specified
-2010.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
-2011.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-2012.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-2013.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-2014.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
-2015.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
-2016.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
-2017.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-2018.0,2023-09-05,2023-09-05 03:30:12,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2101.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
-2102.0,2023-09-05,2023-09-05 03:30:12,EM-LP,Not Specified,Not Specified
-2103.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
-2104.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
-2105.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
-2106.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
-2107.0,2023-09-05,2023-09-05 03:30:12,Down,Fire Suppression System/Discharge/No Start,Not Specified
-2108.0,2023-09-05,2023-09-05 03:30:12,Down,Check/Stop System/Engine Lights,Not Specified
-2109.0,2023-09-05,2023-09-05 03:30:12,NMS,Not Specified,Not Specified
-2110.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
-2111.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-2112.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
-2113.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
-2114.0,2023-09-05,2023-09-05 03:30:12,NMS,Not Specified,Not Specified
-2115.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-2116.0,2023-09-05,2023-09-05 03:30:12,CH-US,Not Specified,Not Specified
-2117.0,2023-09-05,2023-09-05 03:30:12,NMS,Not Specified,Not Specified
-2118.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
-2119.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-2120.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-2121.0,2023-09-05,2023-09-05 03:30:12,NMS,Not Specified,Not Specified
-2122.0,2023-09-05,2023-09-05 03:30:12,Down,Abs Fault,Not Specified
-2123.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-2124.0,2023-09-05,2023-09-05 03:30:12,GT-US,Not Specified,Not Specified
-2125.0,2023-09-05,2023-09-05 03:30:12,WP-AM,Not Specified,Not Specified
-2126.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
-3001.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3002.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3003.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3004.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3005.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3006.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3007.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3008.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3009.0,2023-09-05,2023-09-05 03:30:12,RS-DP,Not Specified,Not Specified
-3010.0,2023-09-05,2023-09-05 03:30:12,Down,Accident Damage,Not Specified
-3011.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3012.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3013.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3014.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
-3101.0,2023-09-05,2023-09-05 03:30:12,Spare,Not Specified,Not Specified
