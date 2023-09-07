@@ -1781,6 +1781,18 @@ EASTBOUND:
 
 -Normal route to Dupont.",41.0,47.0,Not Specified
 2023-09-05,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,6.0,0.0,7.0,No,Not Specified,41.0,47.0,Not Specified
+2023-09-05,Operations Report,Monday-Thursday,CH-US,7.0,7.0,11.0,No,Not Specified,38.0,54.0,Not Specified
+2023-09-05,Operations Report,Monday-Thursday,EM-LP,5.0,5.0,7.0,No,Not Specified,38.0,54.0,Not Specified
+2023-09-05,Operations Report,Monday-Thursday,GT-US,7.0,7.0,13.0,No,Not Specified,38.0,54.0,Not Specified
+2023-09-05,Operations Report,Monday-Thursday,NMS,7.0,7.0,8.0,No,Not Specified,38.0,54.0,Not Specified
+2023-09-05,Operations Report,Monday-Thursday,RS-DP,6.0,6.0,7.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",38.0,54.0,Not Specified
+2023-09-05,Operations Report,Monday-Thursday,WP-AM,6.0,6.0,8.0,No,Not Specified,38.0,54.0,Not Specified
 2023-09-05,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,10.0,0.0,11.0,No,Not Specified,46.0,54.0,Not Specified
 2023-09-05,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,5.0,0.0,7.0,No,Not Specified,46.0,54.0,Not Specified
 2023-09-05,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,10.0,0.0,13.0,No,Not Specified,46.0,54.0,Not Specified
@@ -1818,6 +1830,18 @@ EASTBOUND:
 
 -Normal route to Dupont.",43.0,47.0,Not Specified
 2023-09-06,AM Service Delivery (7 AM-9 AM),Monday-Thursday,WP-AM,6.0,0.0,7.0,No,Not Specified,43.0,47.0,Not Specified
+2023-09-06,Night Service Delivery (9 PM onwards),Monday-Thursday,CH-US,8.0,0.0,9.0,No,Not Specified,45.0,50.0,Not Specified
+2023-09-06,Night Service Delivery (9 PM onwards),Monday-Thursday,EM-LP,6.0,0.0,6.0,No,Not Specified,45.0,50.0,Not Specified
+2023-09-06,Night Service Delivery (9 PM onwards),Monday-Thursday,GT-US,14.0,0.0,14.0,No,Not Specified,45.0,50.0,Not Specified
+2023-09-06,Night Service Delivery (9 PM onwards),Monday-Thursday,NMS,4.0,0.0,7.0,No,Not Specified,45.0,50.0,Not Specified
+2023-09-06,Night Service Delivery (9 PM onwards),Monday-Thursday,RS-DP,6.0,0.0,6.0,Yes,"WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ EASTBOUND:
+
+-Normal route to Dupont.",45.0,50.0,Not Specified
+2023-09-06,Night Service Delivery (9 PM onwards),Monday-Thursday,WP-AM,7.0,0.0,8.0,No,Not Specified,45.0,50.0,Not Specified
 2023-09-06,PM Service Delivery (3 PM-5 PM),Monday-Thursday,CH-US,10.0,0.0,11.0,No,Not Specified,43.0,54.0,Not Specified
 2023-09-06,PM Service Delivery (3 PM-5 PM),Monday-Thursday,EM-LP,7.0,0.0,7.0,No,Not Specified,43.0,54.0,Not Specified
 2023-09-06,PM Service Delivery (3 PM-5 PM),Monday-Thursday,GT-US,9.0,0.0,13.0,No,Not Specified,43.0,54.0,Not Specified
