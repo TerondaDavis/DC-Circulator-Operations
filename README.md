@@ -1,3 +1,3 @@
-# DC-Circulator-Operations
+# DC Circulator Performance Analytics Platform Deployment
 
-This repository contains 
+This repository contains Python modules for importing data from AM Pull-out, Service Delivery, and Operations Reports on Smartsheet via the API, as well as for data cleaning and processing. It also includes functionality to push the resulting CSV files back to Smartsheet. The intermediate storage location for these CSV files is the [Data](https://github.com/TerondaDavis/DC-Circulator-Operations/tree/main/Data) folder. Furthermore, you can find a YAML configuration file ('Config.yml') in the [Workflows](https://github.com/TerondaDavis/DC-Circulator-Operations/blob/main/.github/workflows/Config.yml) folder that specifies automation settings for running the scripts on an hourly basis.
