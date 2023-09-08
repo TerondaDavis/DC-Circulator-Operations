@@ -881,3 +881,15 @@ Last Modified Time,Service Date,Report Time,Route,Road Supervisors,Route_Supervi
 2023-09-08T01:05:02Z,2023-09-07,Night Service Delivery (9 PM onwards),NMS,William Milligan,1
 2023-09-08T01:05:02Z,2023-09-07,Night Service Delivery (9 PM onwards),RS-DP,David Wise,1
 2023-09-08T01:05:02Z,2023-09-07,Night Service Delivery (9 PM onwards),WP-AM,David Wise,1
+2023-09-08T11:34:48Z,2023-09-08,Pull-out AM (6 AM-7 AM),CH-US,James Monroe,1
+2023-09-08T11:34:48Z,2023-09-08,Pull-out AM (6 AM-7 AM),EM-LP,James Monroe,1
+2023-09-08T11:34:48Z,2023-09-08,Pull-out AM (6 AM-7 AM),GT-US,"Channelle Washington, Penelope Dailey",2
+2023-09-08T11:34:48Z,2023-09-08,Pull-out AM (6 AM-7 AM),NMS,Penelope Dailey,1
+2023-09-08T11:34:48Z,2023-09-08,Pull-out AM (6 AM-7 AM),RS-DP,Penelope Dailey,1
+2023-09-08T11:34:48Z,2023-09-08,Pull-out AM (6 AM-7 AM),WP-AM,Channelle Washington,1
+2023-09-08T12:52:02Z,2023-09-08,AM Service Delivery (7 AM-9 AM),CH-US,James Monroe,1
+2023-09-08T12:52:02Z,2023-09-08,AM Service Delivery (7 AM-9 AM),EM-LP,James Monroe,1
+2023-09-08T12:52:02Z,2023-09-08,AM Service Delivery (7 AM-9 AM),GT-US,"Channelle Washington, Penelope Dailey",2
+2023-09-08T12:52:02Z,2023-09-08,AM Service Delivery (7 AM-9 AM),NMS,"James Monroe, Penelope Dailey",2
+2023-09-08T12:52:02Z,2023-09-08,AM Service Delivery (7 AM-9 AM),RS-DP,"Channelle Washington, Penelope Dailey",2
+2023-09-08T12:52:02Z,2023-09-08,AM Service Delivery (7 AM-9 AM),WP-AM,Channelle Washington,1

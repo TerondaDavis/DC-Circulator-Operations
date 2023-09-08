@@ -1921,3 +1921,22 @@ EASTBOUND:
 2023-09-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,NMS,4.0,0.0,4.0,No,Not Specified,36.0,44.0,Not Specified
 2023-09-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,RS-DP,6.0,0.0,6.0,No,Not Specified,36.0,44.0,Not Specified
 2023-09-07,Pull-out AM (6 AM-7 AM),Monday-Thursday,WP-AM,7.0,0.0,7.0,No,Not Specified,36.0,44.0,Not Specified
+2023-09-08,AM Service Delivery (7 AM-9 AM),Friday,CH-US,9.0,0.0,10.0,No,Not Specified,40.0,47.0,Not Specified
+2023-09-08,AM Service Delivery (7 AM-9 AM),Friday,EM-LP,5.0,0.0,6.0,No,Not Specified,40.0,47.0,Not Specified
+2023-09-08,AM Service Delivery (7 AM-9 AM),Friday,GT-US,8.0,0.0,11.0,No,Not Specified,40.0,47.0,Not Specified
+2023-09-08,AM Service Delivery (7 AM-9 AM),Friday,NMS,6.0,0.0,7.0,No,Not Specified,40.0,47.0,Not Specified
+2023-09-08,AM Service Delivery (7 AM-9 AM),Friday,RS-DP,6.0,0.0,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice. 
+WESTBOUND-
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover. 
+EASTBOUND:
+
+-Normal route to Dupont.",40.0,47.0,Not Specified
+2023-09-08,AM Service Delivery (7 AM-9 AM),Friday,WP-AM,6.0,0.0,7.0,No,Not Specified,40.0,47.0,Not Specified
+2023-09-08,Pull-out AM (6 AM-7 AM),Friday,CH-US,7.0,0.0,10.0,No,Not Specified,38.0,44.0,Not Specified
+2023-09-08,Pull-out AM (6 AM-7 AM),Friday,EM-LP,5.0,0.0,6.0,No,Not Specified,38.0,44.0,Not Specified
+2023-09-08,Pull-out AM (6 AM-7 AM),Friday,GT-US,10.0,0.0,11.0,No,Not Specified,38.0,44.0,Not Specified
+2023-09-08,Pull-out AM (6 AM-7 AM),Friday,NMS,4.0,0.0,4.0,No,Not Specified,38.0,44.0,Not Specified
+2023-09-08,Pull-out AM (6 AM-7 AM),Friday,RS-DP,6.0,0.0,6.0,No,Not Specified,38.0,44.0,Not Specified
+2023-09-08,Pull-out AM (6 AM-7 AM),Friday,WP-AM,6.0,0.0,7.0,No,Not Specified,38.0,44.0,Not Specified
