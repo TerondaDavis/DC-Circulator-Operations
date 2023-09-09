@@ -1961,3 +1961,11 @@ Right on G St. SW. and Right on 7th St. SW. continue route.",34.0,45.0,Not Speci
 2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,NMS,0.0,0.0,6.0,Yes,Service suspended on the National Mall route from 7:00 am until 2:00 pm via DC Bike Ride Event.,34.0,45.0,Not Specified
 2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,RS-DP,0.0,0.0,6.0,Yes,Service suspended on Rosslyn Dupont route from 7:00 am until 2:00 pm via DC Bike Ride Event.,34.0,45.0,Not Specified
 2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,WP-AM,7.0,0.0,7.0,No,Not Specified,34.0,45.0,Not Specified
+2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,CH-US,9.0,0.0,10.0,No,Not Specified,32.0,45.0,Not Specified
+2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,EM-LP,6.0,0.0,6.0,Yes,"buses are not able access to L'Enfant Plaza
+WB buses will turn right on 9th street right on G street and right on 7th street to regular route.",32.0,45.0,Not Specified
+2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,GT-US,10.0,0.0,10.0,Yes,"From Washington Circle right turn at Pennsylvania Avenue right turn at Wisconsin Avenue regular service
+Lower K Street closed due to bike ride.",32.0,45.0,Not Specified
+2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,NMS,0.0,0.0,6.0,No,Not Specified,32.0,45.0,Not Specified
+2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,RS-DP,0.0,0.0,6.0,No,Not Specified,32.0,45.0,Not Specified
+2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,WP-AM,7.0,0.0,7.0,No,Not Specified,32.0,45.0,Not Specified
