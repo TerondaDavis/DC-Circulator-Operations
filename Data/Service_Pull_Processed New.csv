@@ -1952,3 +1952,12 @@ EASTBOUND:
 2023-09-08,Pull-out AM (6 AM-7 AM),Friday,NMS,4.0,0.0,4.0,No,Not Specified,38.0,44.0,Not Specified
 2023-09-08,Pull-out AM (6 AM-7 AM),Friday,RS-DP,6.0,0.0,6.0,No,Not Specified,38.0,44.0,Not Specified
 2023-09-08,Pull-out AM (6 AM-7 AM),Friday,WP-AM,6.0,0.0,7.0,No,Not Specified,38.0,44.0,Not Specified
+2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,CH-US,10.0,0.0,10.0,No,Not Specified,34.0,45.0,Not Specified
+2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,EM-LP,6.0,0.0,6.0,Yes,"EM-LP: Unable to service L’Enfant Plaza via DC Bike Ride Event.
+Buses will start at 7th and I St. SW.
+Westbound Right on 9th St. SW.
+Right on G St. SW. and Right on 7th St. SW. continue route.",34.0,45.0,Not Specified
+2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,GT-US,11.0,0.0,10.0,Yes,Westbound unable to service lower K Street NW. Will resume service on M Street NW.,34.0,45.0,Not Specified
+2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,NMS,0.0,0.0,6.0,Yes,Service suspended on the National Mall route from 7:00 am until 2:00 pm via DC Bike Ride Event.,34.0,45.0,Not Specified
+2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,RS-DP,0.0,0.0,6.0,Yes,Service suspended on Rosslyn Dupont route from 7:00 am until 2:00 pm via DC Bike Ride Event.,34.0,45.0,Not Specified
+2023-09-09,AM Service Delivery (7 AM-9 AM),Saturday,WP-AM,7.0,0.0,7.0,No,Not Specified,34.0,45.0,Not Specified
