@@ -1981,6 +1981,25 @@ Lower K Street closed due to bike ride.",32.0,45.0,Not Specified
 2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,NMS,0.0,0.0,6.0,No,Not Specified,32.0,45.0,Not Specified
 2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,RS-DP,0.0,0.0,6.0,No,Not Specified,32.0,45.0,Not Specified
 2023-09-09,Pull-out AM (6 AM-7 AM),Saturday,WP-AM,7.0,0.0,7.0,No,Not Specified,32.0,45.0,Not Specified
+2023-09-10,AM Service Delivery (7 AM-9 AM),Sunday,CH-US,9.0,0.0,11.0,No,Not Specified,39.0,46.0,Not Specified
+2023-09-10,AM Service Delivery (7 AM-9 AM),Sunday,EM-LP,6.0,0.0,6.0,No,Not Specified,39.0,46.0,Not Specified
+2023-09-10,AM Service Delivery (7 AM-9 AM),Sunday,GT-US,8.0,0.0,10.0,No,Not Specified,39.0,46.0,Not Specified
+2023-09-10,AM Service Delivery (7 AM-9 AM),Sunday,NMS,4.0,0.0,6.0,No,Not Specified,39.0,46.0,Not Specified
+2023-09-10,AM Service Delivery (7 AM-9 AM),Sunday,RS-DP,6.0,0.0,6.0,Yes,"RS-DP- Operators will detour at Rosslyn due to crane operation until further notice.
+
+ 
+
+WESTBOUND-
+
+-Continue straight to Fort Myer Drive. 
+-Left on 19th N. Street
+-Right on N. Monroe Street to Bus bay B. Continue regular route no Layover.
+ 
+
+EASTBOUND:
+
+-Normal route to Dupont.",39.0,46.0,Not Specified
+2023-09-10,AM Service Delivery (7 AM-9 AM),Sunday,WP-AM,6.0,0.0,7.0,No,Not Specified,39.0,46.0,Not Specified
 2023-09-10,Pull-out AM (6 AM-7 AM),Sunday,CH-US,8.0,0.0,11.0,No,Not Specified,34.0,46.0,Not Specified
 2023-09-10,Pull-out AM (6 AM-7 AM),Sunday,EM-LP,6.0,0.0,6.0,No,Not Specified,34.0,46.0,Not Specified
 2023-09-10,Pull-out AM (6 AM-7 AM),Sunday,GT-US,8.0,0.0,10.0,No,Not Specified,34.0,46.0,Not Specified
