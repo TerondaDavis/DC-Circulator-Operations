@@ -32,6 +32,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 1131.0,2023-08-29,Down,2023-07-18 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,42.0,Down,A/C (HVAC) Issues,Not Specified,Yes,42
 1131.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,rear door malfunctioning,Awaiting Service/Parts (incl. Proterra),rear door malfunctioning,Not Specified,Not Specified,0.0,Down,A/C (HVAC) Issues,Not Specified,No,0
 1131.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,Down,Awaiting Service,Not Specified,No,0
+1131.0,2023-09-10,Down,2023-09-08 00:00:00,Not Specified,2023-09-12 00:00:00,Not Specified,Awaiting Diagnostics,Check/Stop System/Engine Lights,Not Specified,Not Specified,2.0,Down,Check/Stop System/Engine Lights,Not Specified,Yes,2
 1132.0,2023-08-09,Down,2023-08-05 00:00:00,Not Specified,2023-08-08 00:00:00,Not Specified,Awaiting Diagnostics,Shutting Down,Not Specified,Not Specified,4.0,Down,Shutting Down,Not Specified,Yes,4
 1132.0,2023-08-10,Down,2023-08-05 00:00:00,Not Specified,2023-08-08 00:00:00,Not Specified,Awaiting Diagnostics,Shutting Down,Not Specified,Not Specified,5.0,Down,Shutting Down,Not Specified,Yes,5
 1132.0,2023-08-16,Down,2023-08-16 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Emission/Inspections,Not Specified,Not Specified,0.0,Down,Emission/Inspections,Not Specified,Yes,0
@@ -82,6 +83,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 1134.0,2023-08-29,Down,2023-08-02 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Going to Vendor,Transmission Issues,Not Specified,Not Specified,27.0,Down,Transmission Issues,Not Specified,Yes,27
 1134.0,2023-08-31,Down,2023-08-02 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to Vendor,Transmission Issues,Not Specified,Not Specified,29.0,Down,Transmission Issues,Not Specified,Yes,29
 1134.0,2023-09-05,Down,2023-08-02 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to Vendor,Transmission Issues,Not Specified,Not Specified,34.0,Down,Transmission Issues,Not Specified,Yes,34
+1134.0,2023-09-10,Down,2023-08-02 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to Vendor,Transmission Issues,Not Specified,Not Specified,39.0,Down,Transmission Issues,Not Specified,Yes,39
 1135.0,2023-08-09,Down,2023-06-02 00:00:00,Not Specified,2023-08-31 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,Not Specified,Not Specified,68.0,Down,Mid-life Refurbishment,Not Specified,Yes,68
 1135.0,2023-08-10,Down,2023-06-02 00:00:00,Not Specified,2023-08-31 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,Not Specified,Not Specified,69.0,Down,Mid-life Refurbishment,Not Specified,Yes,69
 1135.0,2023-08-11,Down,2023-06-02 00:00:00,Not Specified,None,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,Not Specified,Not Specified,70.0,Down,Mid-life Refurbishment,Not Specified,Yes,70
@@ -102,6 +104,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 1135.0,2023-08-29,Down,2023-06-02 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,Not Specified,Not Specified,88.0,Down,Mid-life Refurbishment,Not Specified,Yes,88
 1135.0,2023-08-31,Down,2023-06-02 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,Not Specified,Not Specified,90.0,Down,Mid-life Refurbishment,Not Specified,Yes,90
 1135.0,2023-09-05,Down,2023-06-02 00:00:00,Not Specified,2023-10-01 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,Not Specified,Not Specified,95.0,Down,Mid-life Refurbishment,Not Specified,Yes,95
+1135.0,2023-09-10,Down,2023-06-02 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Mid-life Refurbishment,Not Specified,Not Specified,100.0,Down,Mid-life Refurbishment,Not Specified,Yes,100
 1136.0,2023-08-09,Down,2023-06-08 00:00:00,Not Specified,2023-08-31 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,62.0,Down,Transmission Issues,Not Specified,Yes,62
 1136.0,2023-08-10,Down,2023-06-08 00:00:00,Not Specified,2023-08-31 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,63.0,Down,Transmission Issues,Not Specified,Yes,63
 1136.0,2023-08-11,Down,2023-06-08 00:00:00,Not Specified,None,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,64.0,Down,Transmission Issues,Not Specified,Yes,64
@@ -122,6 +125,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 1136.0,2023-08-29,Down,2023-06-08 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to Vendor,Transmission Issues,Not Specified,Not Specified,82.0,Down,Transmission Issues,Not Specified,Yes,82
 1136.0,2023-08-31,Down,2023-06-08 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to Vendor,Transmission Issues,Not Specified,Not Specified,84.0,Down,Transmission Issues,Not Specified,Yes,84
 1136.0,2023-09-05,Down,2023-06-08 00:00:00,Not Specified,2023-10-01 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,89.0,Down,Transmission Issues,Not Specified,Yes,89
+1136.0,2023-09-10,Down,2023-06-08 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to Vendor,Transmission Issues,Not Specified,Not Specified,94.0,Down,Transmission Issues,Not Specified,Yes,94
 1137.0,2023-08-10,Down,2023-08-10 00:00:00,Yes,2023-08-12 00:00:00,Not Specified,In Progress,Suspension/Steering System,Not Specified,Not Specified,0.0,GT-US,Not Specified,Not Specified,No,0
 1137.0,2023-08-21,Down,2023-08-21 00:00:00,Yes,2023-08-24 00:00:00,Not Specified,In Progress,Follow Up,Not Specified,Not Specified,0.0,RS-DP,Not Specified,Not Specified,No,0
 1137.0,2023-08-22,Down,2023-08-21 00:00:00,Not Specified,2023-08-24 00:00:00,prevent maintenance,In Progress,Follow Up, Other,Not Specified,1.0,Down,Awaiting Services,Not Specified,Yes,1
@@ -139,6 +143,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 1138.0,2023-08-29,Down,2023-08-18 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Accident Damage,Not Specified,Not Specified,11.0,Down,Accident Damage,Not Specified,Yes,11
 1138.0,2023-08-31,Down,2023-08-18 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Accident Damage,Not Specified,Not Specified,13.0,Down,Accident Damage,Not Specified,Yes,13
 1138.0,2023-09-05,Down,2023-08-18 00:00:00,Not Specified,2023-10-01 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Accident Damage,Not Specified,Not Specified,18.0,Down,Accident Damage,Not Specified,Yes,18
+1138.0,2023-09-10,Down,2023-09-06 00:00:00,Not Specified,2023-09-12 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Air Leak,Not Specified,Not Specified,4.0,Down,Air Leak,Not Specified,Yes,4
 1139.0,2023-08-11,Down,2023-08-10 00:00:00,Not Specified,2023-08-13 00:00:00,Not Specified,In Progress,Follow Up,Not Specified,Not Specified,1.0,Spare,Not Specified,Not Specified,No,1
 1139.0,2023-08-12,Down,2023-08-10 00:00:00,Not Specified,2023-08-13 00:00:00,Not Specified,In Progress,Follow Up,Not Specified,Not Specified,2.0,Spare,Not Specified,Not Specified,No,2
 1139.0,2023-08-13,Not In Service,2023-08-13 00:00:00,Yes,2023-08-14 00:00:00,Not Specified,In Progress,Follow Up,Not Specified,Not Specified,0.0,Down,Awaiting Service,Not Specified,No,0
@@ -179,6 +184,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 1141.0,2023-08-29,Down,2023-06-21 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Overheating Engine,Not Specified,Not Specified,69.0,Down,Overheating Engine,Not Specified,Yes,69
 1141.0,2023-08-31,Down,2023-06-21 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Overheating Engine,Not Specified,Not Specified,71.0,Down,Overheating Engine,Not Specified,Yes,71
 1141.0,2023-09-05,Down,2023-06-21 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Awaiting Diagnostics,Overheating Engine,Not Specified,Not Specified,76.0,Down,Overheating,Not Specified,Yes,76
+1141.0,2023-09-10,Down,2023-06-21 00:00:00,Not Specified,2023-09-12 00:00:00,Not Specified,Awaiting Diagnostics,Overheating Engine,Not Specified,Not Specified,81.0,Down,Overheating Engine,Not Specified,Yes,81
 1142.0,2023-08-09,Down,2023-07-22 00:00:00,Not Specified,2023-08-31 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Accident Damage,Not Specified,Not Specified,18.0,Down,Accident Damage,Not Specified,Yes,18
 1142.0,2023-08-10,Down,2023-07-22 00:00:00,Not Specified,2023-08-31 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Accident Damage,Not Specified,Not Specified,19.0,Down,Accident Damage,Not Specified,Yes,19
 1142.0,2023-08-11,Down,2023-07-22 00:00:00,Not Specified,None,Not Specified,Awaiting Service/Parts (incl. Proterra),Accident Damage,Not Specified,Not Specified,20.0,Down,Accident Damage,Not Specified,Yes,20
@@ -190,6 +196,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 1142.0,2023-08-21,Not In Service,2023-08-21 00:00:00,Yes,2023-08-22 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,WP-AM,Not Specified,Not Specified,No,0
 1142.0,2023-08-28,Not In Service,2023-08-28 00:00:00,Yes,2023-08-29 00:00:00,Not Specified,In Progress,Kneel Inoperable,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 1142.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,GT-US,Not Specified,Not Specified,No,0
+1142.0,2023-09-10,Down,2023-09-06 00:00:00,Not Specified,2023-09-12 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,4.0,Down,A/C (HVAC) Issues,Not Specified,Yes,4
 1143.0,2023-08-09,Down,2023-07-11 00:00:00,Not Specified,2023-08-08 00:00:00,Not Specified,In Progress,Fuel System/Leaks/Pressure,Not Specified,Not Specified,29.0,Down,Fuel System/Leaks/Pressure,Not Specified,Yes,29
 1143.0,2023-08-10,Down,2023-07-11 00:00:00,Not Specified,2023-08-08 00:00:00,Not Specified,In Progress,Fuel System/Leaks/Pressure,Not Specified,Not Specified,30.0,Down,Fuel System/Leaks/Pressure,Not Specified,Yes,30
 1143.0,2023-08-11,Down,2023-08-11 00:00:00,Not Specified,2023-08-11 00:00:00,Not Specified,Awaiting Diagnostics,A/C (HVAC) Issues,Not Specified,Not Specified,0.0,Down,Fuel System/Leaks/Pressure,Not Specified,Yes,0
@@ -206,6 +213,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 2002.0,2023-08-17,Down,2023-08-11 00:00:00,Not Specified,2023-08-31 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,6.0,Down,Accident Damage,Not Specified,Yes,6
 2002.0,2023-08-18,Down,2023-08-11 00:00:00,Yes,2023-08-11 00:00:00,Not Specified,Going to Vendor,Accident Damage,Not Specified,Not Specified,7.0,Down,Accident Damage,Not Specified,Yes,7
 2002.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,EM-LP,Not Specified,Not Specified,No,0
+2002.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,CH-US,Not Specified,Not Specified,No,0
 2003.0,2023-08-11,Down,2023-08-11 00:00:00,Yes,2023-08-11 00:00:00,BAE/WONT START,Awaiting Service/Parts (incl. Proterra),Not Specified,Not Specified,Not Specified,0.0,GT-US,Not Specified,Not Specified,No,0
 2003.0,2023-08-12,Down,2023-08-11 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,1.0,GT-US,Not Specified,Not Specified,No,1
 2003.0,2023-08-13,Down,2023-08-11 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,2.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,2
@@ -224,8 +232,10 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 2003.0,2023-08-29,Down,2023-08-11 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Going to Vendor,Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,18.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,18
 2003.0,2023-08-31,Down,2023-08-11 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,20.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,20
 2003.0,2023-09-05,Down,2023-08-11 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to Vendor,Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,25.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,25
+2003.0,2023-09-10,Down,2023-08-11 00:00:00,Not Specified,2023-09-20 00:00:00,Not Specified,Going to Vendor,Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,30.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,30
 2006.0,2023-08-17,Down,2023-08-17 00:00:00,Yes,2023-08-21 00:00:00,Not Specified,Awaiting Diagnostics,A/C (HVAC) Issues,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 2006.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,CH-US,Not Specified,Not Specified,No,0
+2006.0,2023-09-10,Down,2023-09-05 00:00:00,Not Specified,2023-09-12 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,5.0,Down,A/C (HVAC) Issues,Not Specified,Yes,5
 2007.0,2023-08-23,Down,2023-08-22 00:00:00,Not Specified,2023-08-25 00:00:00,Not Specified,In Progress,Follow Up,Not Specified,Not Specified,1.0,Down,Follow Up,Not Specified,Yes,1
 2009.0,2023-08-09,Down,2023-08-03 00:00:00,Not Specified,2023-08-08 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,6.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,6
 2009.0,2023-08-10,Down,2023-08-03 00:00:00,Not Specified,2023-08-08 00:00:00,Not Specified,In Progress,Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,7.0,Down,Not Specified,Not Specified,Yes,7
@@ -246,6 +256,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 2009.0,2023-08-29,Down,2023-08-03 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to Vendor,Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,26.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,26
 2009.0,2023-08-31,Down,2023-08-03 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,28.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,28
 2009.0,2023-09-05,Down,2023-08-03 00:00:00,Not Specified,2023-10-01 00:00:00,Not Specified,Going to Vendor,Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,33.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,33
+2009.0,2023-09-10,Down,2023-08-03 00:00:00,Not Specified,2023-09-30 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Bae Issues/Doesn't Move/Cluster,Not Specified,Not Specified,38.0,Down,Bae Issues/Doesn't Move/Cluster,Not Specified,Yes,38
 2010.0,2023-08-16,Not In Service,2023-08-16 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,GT-US,Not Specified,Not Specified,No,0
 2011.0,2023-08-17,Not In Service,2023-08-17 00:00:00,Yes,2023-08-21 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Suspension/Steering System,Not Specified,Not Specified,0.0,CH-US,Not Specified,Not Specified,No,0
 2012.0,2023-08-21,Not In Service,1900-01-05 00:00:00,Not Specified,2023-08-21 00:00:00,Not Specified,In Progress,Check/Stop System/Engine Lights,Not Specified,Not Specified,45153.0,Down,Audit Bus,Not Specified,No,45153
@@ -294,6 +305,8 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 2018.0,2023-08-29,Down,2023-08-08 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Fire Suppression System/Discharge/No Start,Not Specified,Not Specified,21.0,Down,Fire Suppression System/Discharge/No Start,Not Specified,Yes,21
 2018.0,2023-08-31,Down,2023-08-08 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start,Not Specified,Not Specified,23.0,Down,Fire Suppression System/Discharge/No Start,Not Specified,Yes,23
 2018.0,2023-09-05,Down,2023-08-08 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to Vendor,Fire Suppression System/Discharge/No Start,Not Specified,Not Specified,28.0,Down,Fire Suppression System/Discharge/No Start,Not Specified,Yes,28
+2018.0,2023-09-10,Down,2023-08-08 00:00:00,Not Specified,2023-09-15 00:00:00,Not Specified,Going to Vendor,Fire Suppression System/Discharge/No Start,Not Specified,Not Specified,33.0,Down,Fire Suppression System/Discharge/No Start,Not Specified,Yes,33
+2101.0,2023-09-10,Down,2023-09-07 00:00:00,Not Specified,2023-09-15 00:00:00,Not Specified,Going to Vendor,Accident Damage,Not Specified,Not Specified,3.0,Down,Accident Damage,Not Specified,Yes,3
 2102.0,2023-08-13,Down,2023-08-03 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Kneel Inoperable,Not Specified,Not Specified,10.0,Down,Kneel Inoperable,Not Specified,Yes,10
 2102.0,2023-08-16,Down,2023-08-03 00:00:00,Not Specified,2023-08-18 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Kneel Inoperable,Not Specified,Not Specified,13.0,Down,Kneel Inoperable,Not Specified,Yes,13
 2102.0,2023-08-17,Down,2023-08-03 00:00:00,Not Specified,2023-08-21 00:00:00,rear door & w/c alarm,Awaiting Service/Parts (incl. Proterra),Brakes/Brake System, Other,Not Specified,14.0,Down,Kneel Inoperable,Not Specified,Yes,14
@@ -323,6 +336,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 2107.0,2023-08-29,Down,2023-07-28 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Fire Suppression System/Discharge/No Start, Shutting Down,Not Specified,32.0,Down,Fire Suppression System/Discharge/No Start,Not Specified,Yes,32
 2107.0,2023-08-31,Down,2023-07-28 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to Vendor,Fire Suppression System/Discharge/No Start,Not Specified,Not Specified,34.0,Down,Fire Suppression System/Discharge/No Start,Not Specified,Yes,34
 2107.0,2023-09-05,Down,2023-07-28 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to Vendor,Fire Suppression System/Discharge/No Start,Not Specified,Not Specified,39.0,Down,Fire Suppression System/Discharge/No Start,Not Specified,Yes,39
+2107.0,2023-09-10,Down,2023-07-28 00:00:00,Not Specified,2023-09-15 00:00:00,Not Specified,Going to Vendor,Fire Suppression System/Discharge/No Start,Not Specified,Not Specified,44.0,Down,Fire Suppression System/Discharge/No Start,Not Specified,Yes,44
 2108.0,2023-08-09,Down,2023-07-26 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,14.0,Down,Transmission Issues,Not Specified,Yes,14
 2108.0,2023-08-10,Down,2023-07-26 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Check/Stop System/Engine Lights,Not Specified,Not Specified,15.0,Down,Transmission Issues,Not Specified,Yes,15
 2108.0,2023-08-11,Down,2023-07-26 00:00:00,Not Specified,2023-08-13 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,16.0,Down,Transmission Issues,Not Specified,Yes,16
@@ -342,13 +356,16 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 2108.0,2023-08-29,Down,2023-07-26 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,34.0,Down,Check/Stop System/Engine Lights,Not Specified,Yes,34
 2108.0,2023-08-31,Down,2023-07-26 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,36.0,Down,Transmission Issues,Not Specified,Yes,36
 2108.0,2023-09-05,Down,2023-07-26 00:00:00,Not Specified,2023-09-07 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,41.0,Down,Check/Stop System/Engine Lights,Not Specified,Yes,41
+2108.0,2023-09-10,Down,2023-07-26 00:00:00,Not Specified,2023-09-15 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Transmission Issues,Not Specified,Not Specified,46.0,Down,Check/Stop System/Engine Lights,Not Specified,Yes,46
 2110.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,CH-US,Not Specified,Not Specified,No,0
 2112.0,2023-08-19,Down,2023-08-18 00:00:00,Yes,2023-08-21 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A or B Defects,Not Specified,Not Specified,1.0,Down,A or B Defects,Not Specified,Yes,1
 2112.0,2023-08-27,Down,2023-08-27 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,In Progress,Check/Stop System/Engine Lights,Not Specified,Not Specified,0.0,NMS,Not Specified,Not Specified,No,0
+2112.0,2023-09-10,Down,2023-09-09 00:00:00,Not Specified,2023-09-15 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,1.0,Down,Accident Damage,Not Specified,Yes,1
 2113.0,2023-08-20,Not In Service,2023-08-20 00:00:00,Yes,2023-08-21 00:00:00,maintenance audit,Awaiting Service/Parts (incl. Proterra),maintenance audit,Not Specified,Not Specified,0.0,Down,Not Specified,Not Specified,No,0
 2113.0,2023-08-27,Not In Service,2023-08-27 00:00:00,Yes,2023-08-28 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,0.0,Down,A/C (HVAC) Issues,Not Specified,No,0
 2113.0,2023-08-31,Down,2023-08-30 00:00:00,Not Specified,2023-09-03 00:00:00,Not Specified,In Progress,A/C (HVAC) Issues,Not Specified,Not Specified,1.0,NMS,Not Specified,Not Specified,No,1
 2113.0,2023-09-05,Down,2023-09-05 00:00:00,Yes,2023-09-08 00:00:00,Not Specified,In Progress,A/C (HVAC) Issues,Not Specified,Not Specified,0.0,CH-US,Not Specified,Not Specified,No,0
+2113.0,2023-09-10,Down,2023-09-05 00:00:00,Not Specified,2023-09-12 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),A/C (HVAC) Issues,Not Specified,Not Specified,5.0,Down,A/C (HVAC) Issues,Not Specified,Yes,5
 2114.0,2023-08-16,Down,2023-08-15 00:00:00,Not Specified,2023-08-18 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Follow Up,Not Specified,Not Specified,1.0,Down,Follow Up,Not Specified,Yes,1
 2115.0,2023-08-09,Down,2023-08-04 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,5.0,Down,Accident Damage,Not Specified,Yes,5
 2115.0,2023-08-10,Down,2023-08-04 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,6.0,Down,Bodyshop/Vendor,Not Specified,Yes,6
@@ -362,6 +379,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 2121.0,2023-08-20,Not In Service,2023-08-20 00:00:00,Yes,2023-08-21 00:00:00,maintenance audit,Awaiting Service/Parts (incl. Proterra),maintenance audit,Not Specified,Not Specified,0.0,WP-AM,Not Specified,Not Specified,No,0
 2122.0,2023-08-31,Down,2023-08-30 00:00:00,Not Specified,2023-09-03 00:00:00,Not Specified,In Progress,Follow Up,Not Specified,Not Specified,1.0,Down,Follow Up,Not Specified,Yes,1
 2122.0,2023-09-05,Down,2023-08-30 00:00:00,Not Specified,2023-09-05 00:00:00,Not Specified,In Progress,Brakes/Brake System,Not Specified,Not Specified,6.0,Down,Abs Fault,Not Specified,Yes,6
+2122.0,2023-09-10,Down,2023-08-30 00:00:00,Not Specified,2023-09-12 00:00:00,Not Specified,Awaiting Diagnostics,A or B Defects,Not Specified,Not Specified,11.0,Down,Abs Fault,Not Specified,Yes,11
 2124.0,2023-08-20,Not In Service,2023-08-20 00:00:00,Yes,2023-08-21 00:00:00,maintenance audit,Awaiting Service/Parts (incl. Proterra),maintenance audit,Not Specified,Not Specified,0.0,EM-LP,Not Specified,Not Specified,No,0
 2124.0,2023-08-27,Down,2023-08-26 00:00:00,Not Specified,2023-08-30 00:00:00,WINDSHIELD CRACKED,Awaiting Service/Parts (incl. Proterra),WINDSHIELD CRACKED,Not Specified,Not Specified,1.0,Down,Windshield Cracked,Not Specified,Yes,1
 2124.0,2023-08-28,Down,2023-08-26 00:00:00,Not Specified,2023-08-30 00:00:00,windshield cracked,Awaiting Service/Parts (incl. Proterra),Accident Damage,Not Specified,Not Specified,2.0,Down,Windshield Cracked,Not Specified,Yes,2
@@ -379,6 +397,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3001.0,2023-08-28,Not In Service,2023-08-28 00:00:00,Yes,2023-08-29 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3001.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3001.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3001.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,EM-LP,Not Specified,Not Specified,No,0
 3002.0,2023-08-10,Not In Service,2023-08-10 00:00:00,Yes,2023-08-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,WP-AM,Not Specified,Not Specified,No,0
 3002.0,2023-08-13,Not In Service,2023-08-13 00:00:00,Yes,2023-08-14 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Down,Red Caution Light,Not Specified,No,0
 3002.0,2023-08-16,Not In Service,2023-08-16 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,EM-LP,Not Specified,Not Specified,No,0
@@ -391,6 +410,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3002.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3002.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3002.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3002.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3003.0,2023-08-09,Not In Service,2023-08-09 00:00:00,Not Specified,2023-08-10 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3003.0,2023-08-10,Not In Service,2023-08-10 00:00:00,Yes,2023-08-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3003.0,2023-08-12,Not In Service,2023-08-12 00:00:00,Yes,2023-08-13 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
@@ -407,6 +427,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3003.0,2023-08-29,Down,2023-08-21 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),HV Light On,Not Specified,Not Specified,8.0,Down,Air Compressor Install,Not Specified,Yes,8
 3003.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Down,HV Light On,Not Specified,No,0
 3003.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3003.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3004.0,2023-08-12,Not In Service,2023-08-12 00:00:00,Yes,2023-08-13 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,WP-AM,Not Specified,Not Specified,No,0
 3004.0,2023-08-17,Not In Service,2023-08-17 00:00:00,Yes,2023-08-18 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3004.0,2023-08-20,Not In Service,2023-08-20 00:00:00,Yes,2023-08-21 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
@@ -415,6 +436,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3004.0,2023-08-27,Not In Service,2023-08-27 00:00:00,Yes,2023-08-28 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Low Charge,Not Specified,No,0
 3004.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3004.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3004.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Down,Awiting Service,Not Specified,No,0
 3005.0,2023-08-09,Not In Service,2023-08-09 00:00:00,Not Specified,2023-08-10 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,GT-US,Not Specified,Not Specified,No,0
 3005.0,2023-08-12,Not In Service,2023-08-12 00:00:00,Yes,2023-08-13 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,CH-US,Not Specified,Not Specified,No,0
 3005.0,2023-08-17,Not In Service,2023-08-17 00:00:00,Yes,2023-08-18 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
@@ -427,12 +449,14 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3005.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3005.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3005.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3005.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3006.0,2023-08-16,Not In Service,2023-08-16 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3006.0,2023-08-20,Not In Service,2023-08-20 00:00:00,Yes,2023-08-21 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3006.0,2023-08-23,Not In Service,2023-08-23 00:00:00,Yes,2023-08-24 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3006.0,2023-08-27,Not In Service,2023-08-27 00:00:00,Yes,2023-08-28 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Low Charge,Not Specified,No,0
 3006.0,2023-08-28,Not In Service,2023-08-28 00:00:00,Yes,2023-08-29 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3006.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3006.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Down,Doors Wont Open,Not Specified,No,0
 3007.0,2023-08-09,Not In Service,2023-08-09 00:00:00,Not Specified,2023-08-10 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,WP-AM,Not Specified,Not Specified,No,0
 3007.0,2023-08-12,Not In Service,2023-08-12 00:00:00,Yes,2023-08-13 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3007.0,2023-08-16,Not In Service,2023-08-16 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Down,Not Specified,Not Specified,No,0
@@ -445,6 +469,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3007.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3007.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3007.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3007.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3008.0,2023-08-09,Not In Service,2023-08-09 00:00:00,Not Specified,2023-08-10 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,EM-LP,Not Specified,Not Specified,No,0
 3008.0,2023-08-10,Not In Service,2023-08-10 00:00:00,Yes,2023-08-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,CH-US,Not Specified,Not Specified,No,0
 3008.0,2023-08-12,Not In Service,2023-08-12 00:00:00,Yes,2023-08-13 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
@@ -459,6 +484,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3008.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3008.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3008.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3008.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3009.0,2023-08-09,Down,2023-07-24 00:00:00,Not Specified,2023-08-08 00:00:00,Not Specified,At South Capitol,HV Light On,Not Specified,Not Specified,16.0,Down,HV Light On,Not Specified,Yes,16
 3009.0,2023-08-10,Down,2023-07-24 00:00:00,Not Specified,2023-08-08 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),HV Light On,Not Specified,Not Specified,17.0,Down,Awaiting Proterra,Not Specified,Yes,17
 3009.0,2023-08-11,Down,2023-07-24 00:00:00,Not Specified,2023-08-15 00:00:00,DC/DC #2,Awaiting Service/Parts (incl. Proterra),Not Specified,Not Specified,Not Specified,18.0,Down,HV Light On,Not Specified,Yes,18
@@ -474,6 +500,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3009.0,2023-08-27,Not In Service,2023-08-27 00:00:00,Yes,2023-08-28 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Down,Brakes/Brake System,Not Specified,No,0
 3009.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3009.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3009.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3010.0,2023-08-09,Down,2022-07-21 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,At South Capitol,Accident Damage,Not Specified,Not Specified,384.0,Down,Accident Damage,Not Specified,Yes,384
 3010.0,2023-08-10,Down,2022-07-21 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,385.0,Down,Accident Damage,Not Specified,Yes,385
 3010.0,2023-08-11,Down,2023-07-21 00:00:00,Not Specified,2023-08-15 00:00:00,Not Specified,Awaiting Service/Parts (incl. Proterra),Accident Damage,Not Specified,Not Specified,21.0,Down,Accident Damage,Not Specified,Yes,21
@@ -493,6 +520,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3010.0,2023-08-29,Down,2022-07-21 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,404.0,Down,Accident Damage,Not Specified,Yes,404
 3010.0,2023-08-31,Down,2022-07-21 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,406.0,Down,Accident Damage,Not Specified,Yes,406
 3010.0,2023-09-05,Down,2022-07-21 00:00:00,Not Specified,2023-09-01 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,411.0,Down,Accident Damage,Not Specified,Yes,411
+3010.0,2023-09-10,Down,2022-07-21 00:00:00,Not Specified,2023-09-15 00:00:00,Not Specified,Going to/At/On-site Vendor (i.e. Cummins),Accident Damage,Not Specified,Not Specified,416.0,Down,Accident Damage,Not Specified,Yes,416
 3011.0,2023-08-10,Not In Service,2023-08-10 00:00:00,Yes,2023-08-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,EM-LP,Not Specified,Not Specified,No,0
 3011.0,2023-08-16,Down,2023-08-16 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,In Progress,Air Leak,Not Specified,Not Specified,0.0,Down,Not Specified,Not Specified,Yes,0
 3011.0,2023-08-21,Not In Service,2023-08-21 00:00:00,Yes,2023-08-22 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
@@ -503,6 +531,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3011.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,CH-US,Not Specified,Not Specified,No,0
 3011.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3011.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3011.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3012.0,2023-08-16,Not In Service,2023-08-16 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3012.0,2023-08-17,Down,2023-08-17 00:00:00,Yes,2023-08-21 00:00:00,Not Specified,In Progress,Follow Up,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3012.0,2023-08-18,Down,2023-08-17 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,In Progress,Follow Up,Not Specified,Not Specified,1.0,Spare,Not Specified,Not Specified,No,1
@@ -514,6 +543,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3012.0,2023-08-27,Not In Service,2023-08-27 00:00:00,Yes,2023-08-28 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Low Charge,Not Specified,No,0
 3012.0,2023-08-28,Not In Service,2023-08-28 00:00:00,Yes,2023-08-29 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3012.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3012.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3013.0,2023-08-13,Not In Service,2023-08-13 00:00:00,Yes,2023-08-14 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,NMS,Not Specified,Not Specified,No,0
 3013.0,2023-08-16,Not In Service,2023-08-16 00:00:00,Yes,2023-08-17 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3013.0,2023-08-17,Not In Service,2023-08-17 00:00:00,Yes,2023-08-18 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
@@ -526,6 +556,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3013.0,2023-08-29,Not In Service,2023-08-29 00:00:00,Yes,2023-08-30 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3013.0,2023-08-31,Not In Service,2023-08-31 00:00:00,Yes,2023-09-01 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3013.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3013.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3014.0,2023-08-12,Not In Service,2023-08-12 00:00:00,Yes,2023-08-13 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3014.0,2023-08-17,Not In Service,2023-08-17 00:00:00,Yes,2023-08-18 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3014.0,2023-08-20,Not In Service,2023-08-20 00:00:00,Yes,2023-08-21 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
@@ -534,6 +565,7 @@ Bus Number,Service Date,Route/Down/NIS,Date When Service Went Down,Bus Went Down
 3014.0,2023-08-27,Not In Service,2023-08-27 00:00:00,Yes,2023-08-28 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Low Charge,Not Specified,No,0
 3014.0,2023-08-28,Not In Service,2023-08-28 00:00:00,Yes,2023-08-29 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,EM-LP,Not Specified,Not Specified,No,0
 3014.0,2023-09-05,Not In Service,2023-09-05 00:00:00,Yes,2023-09-06 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
+3014.0,2023-09-10,Not In Service,2023-09-10 00:00:00,Not Specified,2023-09-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3101.0,2023-08-10,Not In Service,2023-08-10 00:00:00,Yes,2023-08-11 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
 3101.0,2023-08-12,Not In Service,2023-08-13 00:00:00,Yes,2023-08-13 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,-1.0,Spare,Not Specified,Not Specified,No,1
 3101.0,2023-08-13,Not In Service,2023-08-13 00:00:00,Yes,2023-08-14 00:00:00,Not Specified,At South Capitol,Low Charge,Not Specified,Not Specified,0.0,Spare,Not Specified,Not Specified,No,0
